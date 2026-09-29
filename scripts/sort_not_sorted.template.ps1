@@ -5,7 +5,8 @@
 .DESCRIPTION
     Each file is matched to an artist/album/track in this order:
       1. a YouTube video ID in the file name (yt-dlp adds "[xxxxxxxxxxx]" by default)
-         that is one of the links in instrumental_links.txt
+         that is one of the links in instrumental_links.txt or
+         missing_instrumental_links.txt
       2. the file name containing a video title from the list
       3. the artist name plus a track name from the album tracklists
 
@@ -60,6 +61,13 @@ function Get-Norm([string]$s) {
     return (($sb.ToString() -replace '\s+', ' ').Trim())
 }
 
+function Get-NormAccent([string]$s) {
+    # Like Get-Norm but keeps accents, so "Back homë" and "Back Home" differ.
+    if (-not $s) { return '' }
+    $s = $s.Normalize([Text.NormalizationForm]::FormC).ToLowerInvariant()
+    return (($s -replace '[^\p{L}\p{N}]+', ' ').Trim())
+}
+
 function Test-Words([string]$hay, [string]$needle) {
     # True when $needle appears in $hay as whole words.
     if (-not $needle) { return $false }
@@ -75,7 +83,7 @@ function Remove-WordsOnce([string]$hay, [string]$needle) {
 }
 
 # ---------------------------------------------------------------------------
-# Album data (from data/tracklists.md and data/results.tsv)
+# Album data (from data/tracklists.md, data/results.tsv and data/extra_links.tsv)
 # ---------------------------------------------------------------------------
 $json = @'
 __ALBUM_DATA__
@@ -95,7 +103,14 @@ foreach ($a in $Albums) {
         $e = [pscustomobject]@{ Album = $a; Track = $t.name; TrackNorm = (Get-Norm $t.name) }
         [void]$Entries.Add($e)
         foreach ($id in $t.ids) { $ById[$id] = $e }
-        foreach ($title in $t.titles) { $n = Get-Norm $title; if ($n.Length -ge 12) { $ByTitle[$n] = $e } }
+        foreach ($title in $t.titles) {
+            $n = Get-Norm $title
+            if ($n.Length -lt 12) { continue }
+            # Different songs can share a title once accents are stripped
+            # ("Back homë" / "BACK HOME"), so keep every entry per title.
+            if (-not $ByTitle.ContainsKey($n)) { $ByTitle[$n] = New-Object System.Collections.ArrayList }
+            [void]$ByTitle[$n].Add([pscustomobject]@{ Entry = $e; Accent = (Get-NormAccent $title) })
+        }
         $TrackNameCount[$e.TrackNorm] = 1 + [int]$TrackNameCount[$e.TrackNorm]
     }
 }
@@ -108,12 +123,24 @@ function Find-Track([string]$baseName) {
     }
 
     $n = Get-Norm $baseName
-    if ($ByTitle.ContainsKey($n)) { return @($ByTitle[$n], 'video title') }
     $best = $null
-    foreach ($k in $ByTitle.Keys) {
-        if ((Test-Words $n $k) -and (-not $best -or $k.Length -gt $best.Length)) { $best = $k }
+    if ($ByTitle.ContainsKey($n)) { $best = $n }
+    else {
+        foreach ($k in $ByTitle.Keys) {
+            if ((Test-Words $n $k) -and (-not $best -or $k.Length -gt $best.Length)) { $best = $k }
+        }
     }
-    if ($best) { return @($ByTitle[$best], 'video title') }
+    if ($best) {
+        $hits = @($ByTitle[$best])
+        if (@($hits | ForEach-Object { "$($_.Entry.Album.Key)|$($_.Entry.Track)" } | Select-Object -Unique).Count -gt 1) {
+            $na = Get-NormAccent $baseName
+            $hits = @($hits | Where-Object { Test-Words $na $_.Accent })
+        }
+        $keys = @($hits | ForEach-Object { "$($_.Entry.Album.Key)|$($_.Entry.Track)" } | Select-Object -Unique)
+        if ($keys.Count -eq 1) { return @($hits[0].Entry, 'video title') }
+        $why = 'ambiguous: ' + ((@($ByTitle[$best]) | ForEach-Object { "$($_.Entry.Album.album) / $($_.Entry.Track)" }) -join ' or ')
+        return @($null, $why)
+    }
 
     $cands = @()
     foreach ($e in $Entries) {

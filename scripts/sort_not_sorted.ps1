@@ -5,7 +5,8 @@
 .DESCRIPTION
     Each file is matched to an artist/album/track in this order:
       1. a YouTube video ID in the file name (yt-dlp adds "[xxxxxxxxxxx]" by default)
-         that is one of the links in instrumental_links.txt
+         that is one of the links in instrumental_links.txt or
+         missing_instrumental_links.txt
       2. the file name containing a video title from the list
       3. the artist name plus a track name from the album tracklists
 
@@ -60,6 +61,13 @@ function Get-Norm([string]$s) {
     return (($sb.ToString() -replace '\s+', ' ').Trim())
 }
 
+function Get-NormAccent([string]$s) {
+    # Like Get-Norm but keeps accents, so "Back homë" and "Back Home" differ.
+    if (-not $s) { return '' }
+    $s = $s.Normalize([Text.NormalizationForm]::FormC).ToLowerInvariant()
+    return (($s -replace '[^\p{L}\p{N}]+', ' ').Trim())
+}
+
 function Test-Words([string]$hay, [string]$needle) {
     # True when $needle appears in $hay as whole words.
     if (-not $needle) { return $false }
@@ -75,7 +83,7 @@ function Remove-WordsOnce([string]$hay, [string]$needle) {
 }
 
 # ---------------------------------------------------------------------------
-# Album data (from data/tracklists.md and data/results.tsv)
+# Album data (from data/tracklists.md, data/results.tsv and data/extra_links.tsv)
 # ---------------------------------------------------------------------------
 $json = @'
 [
@@ -636,10 +644,12 @@ $json = @'
     "name": "Split",
     "ids": [
      "QaiQHd8098k",
-     "5n3wb9UJvKY"
+     "5n3wb9UJvKY",
+     "AFGa6TtX_tw"
     ],
     "titles": [
-     "YEAT - Split (Official Instrumental) [SEPARATED]"
+     "YEAT - Split (Official Instrumental) [SEPARATED]",
+     "yeat - split instrumental"
     ]
    },
    {
@@ -683,6 +693,7 @@ $json = @'
      "Qk3vvZ55jnw"
     ],
     "titles": [
+     "Yeat - Back homë (Instrumental)",
      "Yeat - Back homë (Instrumental)"
     ]
    },
@@ -868,7 +879,8 @@ $json = @'
      "tji5y8hwptA"
     ],
     "titles": [
-     "Yeat - Got It All (OFFICIAL INSTRUMENTAL)"
+     "Yeat - Got It All (OFFICIAL INSTRUMENTAL)",
+     "Got It All (instrumental)"
     ]
    },
    {
@@ -903,7 +915,9 @@ $json = @'
    {
     "name": "Comë on",
     "ids": [],
-    "titles": []
+    "titles": [
+     "Yeat - Come On (INSTRUMENTAL)"
+    ]
    },
    {
     "name": "Systëm",
@@ -1021,10 +1035,12 @@ $json = @'
    {
     "name": "Lyfestylë",
     "ids": [
-     "Zfk-XULU0Ls"
+     "Zfk-XULU0Ls",
+     "MPdaJ92AYfs"
     ],
     "titles": [
-     "Yeat - Lyfestyle Ft Lil Wayne 【OFFICIAL INSTRUMENTAL】"
+     "Yeat - Lyfestyle Ft Lil Wayne 【OFFICIAL INSTRUMENTAL】",
+     "Yeat & Lil Wayne - Lyfestyle [INSTRUMENTAL]"
     ]
    },
    {
@@ -1279,7 +1295,9 @@ $json = @'
    {
     "name": "FLYTROOP",
     "ids": [],
-    "titles": []
+    "titles": [
+     "Yeat - FLYTROOP [Instrumental] 150 BPM"
+    ]
    },
    {
     "name": "ELIMINATË",
@@ -1311,8 +1329,12 @@ $json = @'
    },
    {
     "name": "SO WHAT",
-    "ids": [],
-    "titles": []
+    "ids": [
+     "agCBmc_-MAg"
+    ],
+    "titles": [
+     "Yeat - SO WHAT (Instrumental)"
+    ]
    },
    {
     "name": "LYFESTYLE",
@@ -1409,10 +1431,12 @@ $json = @'
    {
     "name": "FACE THE FLAMË",
     "ids": [
-     "ubYMgSKDuaI"
+     "ubYMgSKDuaI",
+     "t8zX_U5dSx8"
     ],
     "titles": [
-     "Yeat - Face The Flame (INSTRUMENTAL) ft. NBA YoungBoy"
+     "Yeat - Face The Flame (INSTRUMENTAL) ft. NBA YoungBoy",
+     "Yeat - Face The Flamë (INSTRUMENTAL) ft. NBA YoungBoy"
     ]
    },
    {
@@ -1540,8 +1564,12 @@ $json = @'
    },
    {
     "name": "in2that",
-    "ids": [],
-    "titles": []
+    "ids": [
+     "HCVrLrSws4Q"
+    ],
+    "titles": [
+     "Yeat - IN2THAT (FL Studio Remake | FLP)"
+    ]
    },
    {
     "name": "miss my dawg",
@@ -1727,7 +1755,8 @@ $json = @'
      "Q4qIGQHemF4"
     ],
     "titles": [
-     "Playboi Carti - Lame N*ggaz (Instrumental)"
+     "Playboi Carti - Lame N*ggaz (Instrumental)",
+     "Playboi Carti - Lame Niggaz (Instrumental) [Prod. Pi'erre Bourne]"
     ]
    }
   ]
@@ -2109,6 +2138,7 @@ $json = @'
      "5qOgo6kB4ug"
     ],
     "titles": [
+     "Playboi Carti - King Vamp (Instrumental)",
      "Playboi Carti - King Vamp (Instrumental)"
     ]
    },
@@ -2721,7 +2751,9 @@ $json = @'
    {
     "name": "No Sleep Leak",
     "ids": [],
-    "titles": []
+    "titles": [
+     "No Sleep Leak INSTRUMENTAL (Flipped)"
+    ]
    },
    {
     "name": "X",
@@ -3114,10 +3146,12 @@ $json = @'
     "name": "Light Year (Practice)",
     "ids": [
      "U6r3h57-7m0",
-     "yxD1CyRlL18"
+     "yxD1CyRlL18",
+     "QMi6i3kpl4k"
     ],
     "titles": [
-     "Lil Uzi Vert - Light Year (Practice) [Official Instrumental]"
+     "Lil Uzi Vert - Light Year (Practice) [Official Instrumental]",
+     "Lil Uzi Vert - Light Year (Practice) [INSTRUMENTAL]"
     ]
    },
    {
@@ -3136,8 +3170,12 @@ $json = @'
    },
    {
     "name": "The Rush",
-    "ids": [],
-    "titles": []
+    "ids": [
+     "NN8QQtYTMOM"
+    ],
+    "titles": [
+     "Lil Uzi Vert - The Rush (INSTRUMENTAL) Ft. Big Time Rush"
+    ]
    },
    {
     "name": "Not an Option",
@@ -3189,8 +3227,12 @@ $json = @'
    },
    {
     "name": "Black Hole",
-    "ids": [],
-    "titles": []
+    "ids": [
+     "7rwsV_nWdIU"
+    ],
+    "titles": [
+     "Lil Uzi Vert - Black Hole INSTRUMENTAL"
+    ]
    },
    {
     "name": "Chill Bae",
@@ -3224,8 +3266,12 @@ $json = @'
    },
    {
     "name": "Conceited",
-    "ids": [],
-    "titles": []
+    "ids": [
+     "rCrqzzlL1xI"
+    ],
+    "titles": [
+     "Lil Uzi Vert - Conceited (Instrumental)"
+    ]
    },
    {
     "name": "Space High",
@@ -3637,10 +3683,12 @@ $json = @'
     "name": "Nightcore 2",
     "ids": [
      "oa7RFtao21c",
-     "rdJ8swedi5s"
+     "rdJ8swedi5s",
+     "XzHeDTBe84s"
     ],
     "titles": [
-     "Ken Carson - Nightcore 2 INSTRUMENTAL | A Great Chaos"
+     "Ken Carson - Nightcore 2 INSTRUMENTAL | A Great Chaos",
+     "[INSTRUMENTAL] Ken Carson - Nightcore 2 (100% Accurate)"
     ]
    },
    {
@@ -3798,10 +3846,12 @@ $json = @'
     "name": "Confetti",
     "ids": [
      "tcZXKpteRNo",
-     "RhxmC56MLyU"
+     "RhxmC56MLyU",
+     "L01MqUHSA8c"
     ],
     "titles": [
-     "Confetti (Instrumental) - Ken Carson (prod. 16yrold and bass)"
+     "Confetti (Instrumental) - Ken Carson (prod. 16yrold and bass)",
+     "Confetti (Instrumental) - Ken Carson"
     ]
    },
    {
@@ -3898,10 +3948,12 @@ $json = @'
    {
     "name": "edm",
     "ids": [
-     "XXJxMFhLHoI"
+     "XXJxMFhLHoI",
+     "JErggI92Mhc"
     ],
     "titles": [
-     "Ken Carson - EDM INSTRUMENTAL | Xperiment"
+     "Ken Carson - EDM INSTRUMENTAL | Xperiment",
+     "Ken Carson - edm (Instrumental)"
     ]
    },
    {
@@ -4126,10 +4178,12 @@ $json = @'
     "name": "Vamp City",
     "ids": [
      "vMFbWgy5HTM",
-     "oQQJD6dgFH4"
+     "oQQJD6dgFH4",
+     "dTDUccOT02Y"
     ],
     "titles": [
-     "Ken Carson, OsamaSon - vamp city (Instrumental)"
+     "Ken Carson, OsamaSon - vamp city (Instrumental)",
+     "Ken Carson - Vamp City ( INSTRUMENTAL ) ft. OsamaSon"
     ]
    },
    {
@@ -4341,7 +4395,9 @@ $json = @'
    {
     "name": "Turn Up",
     "ids": [],
-    "titles": []
+    "titles": [
+     "KEN CARSON - TURN UP [INSTRUMENTAL] (PROD. RJ THE 1ST)"
+    ]
    },
    {
     "name": "The End",
@@ -4380,8 +4436,12 @@ $json = @'
    },
    {
     "name": "<3MYGNG",
-    "ids": [],
-    "titles": []
+    "ids": [
+     "sMSoHnsouto"
+    ],
+    "titles": [
+     "Destroy Lonely - 3MYGNG INSTRUMENTAL (prod. KP Beatz, Jonah Abraham)"
+    ]
    },
    {
     "name": "VTMNTSCOAT",
@@ -5714,7 +5774,14 @@ foreach ($a in $Albums) {
         $e = [pscustomobject]@{ Album = $a; Track = $t.name; TrackNorm = (Get-Norm $t.name) }
         [void]$Entries.Add($e)
         foreach ($id in $t.ids) { $ById[$id] = $e }
-        foreach ($title in $t.titles) { $n = Get-Norm $title; if ($n.Length -ge 12) { $ByTitle[$n] = $e } }
+        foreach ($title in $t.titles) {
+            $n = Get-Norm $title
+            if ($n.Length -lt 12) { continue }
+            # Different songs can share a title once accents are stripped
+            # ("Back homë" / "BACK HOME"), so keep every entry per title.
+            if (-not $ByTitle.ContainsKey($n)) { $ByTitle[$n] = New-Object System.Collections.ArrayList }
+            [void]$ByTitle[$n].Add([pscustomobject]@{ Entry = $e; Accent = (Get-NormAccent $title) })
+        }
         $TrackNameCount[$e.TrackNorm] = 1 + [int]$TrackNameCount[$e.TrackNorm]
     }
 }
@@ -5727,12 +5794,24 @@ function Find-Track([string]$baseName) {
     }
 
     $n = Get-Norm $baseName
-    if ($ByTitle.ContainsKey($n)) { return @($ByTitle[$n], 'video title') }
     $best = $null
-    foreach ($k in $ByTitle.Keys) {
-        if ((Test-Words $n $k) -and (-not $best -or $k.Length -gt $best.Length)) { $best = $k }
+    if ($ByTitle.ContainsKey($n)) { $best = $n }
+    else {
+        foreach ($k in $ByTitle.Keys) {
+            if ((Test-Words $n $k) -and (-not $best -or $k.Length -gt $best.Length)) { $best = $k }
+        }
     }
-    if ($best) { return @($ByTitle[$best], 'video title') }
+    if ($best) {
+        $hits = @($ByTitle[$best])
+        if (@($hits | ForEach-Object { "$($_.Entry.Album.Key)|$($_.Entry.Track)" } | Select-Object -Unique).Count -gt 1) {
+            $na = Get-NormAccent $baseName
+            $hits = @($hits | Where-Object { Test-Words $na $_.Accent })
+        }
+        $keys = @($hits | ForEach-Object { "$($_.Entry.Album.Key)|$($_.Entry.Track)" } | Select-Object -Unique)
+        if ($keys.Count -eq 1) { return @($hits[0].Entry, 'video title') }
+        $why = 'ambiguous: ' + ((@($ByTitle[$best]) | ForEach-Object { "$($_.Entry.Album.album) / $($_.Entry.Track)" }) -join ' or ')
+        return @($null, $why)
+    }
 
     $cands = @()
     foreach ($e in $Entries) {

@@ -1,4 +1,5 @@
-"""Generate scripts/sort_not_sorted.ps1 from data/tracklists.md and data/results.tsv.
+"""Generate scripts/sort_not_sorted.ps1 from data/tracklists.md, data/results.tsv
+and data/extra_links.tsv (the second-source links in missing_instrumental_links.txt).
 
 The PowerShell script sorts downloaded instrumentals from "Music Albums\\Not Sorted"
 into per-album folders. Rerun this after changing the data files.
@@ -35,22 +36,34 @@ ALBUM_ALIASES = {
 }
 
 
+def load_extra_links():
+    """Second-source links from data/extra_links.tsv, keyed like load_results()."""
+    extra = {}
+    lines = (DATA / "extra_links.tsv").read_text(encoding="utf-8").splitlines()[1:]
+    for line in lines:
+        key, track, url, title = line.split("\t")
+        extra.setdefault((key, track), []).append((url, title))
+    return extra
+
+
 def main():
     results = load_results()
+    extra = load_extra_links()
     albums = []
     for a in load_tracklists():
         key = f"{a['artist']}|{a['album']}"
         tracks = []
         for t in a["tracks"]:
             r = results.get((key, t), {})
+            links = [(r.get("url", ""), r.get("title", "")), (r.get("alt", ""), "")]
+            links += extra.get((key, t), [])
             ids, titles = [], []
-            for u in (r.get("url", ""), r.get("alt", "")):
+            for u, title in links:
                 m = re.search(r"v=([\w-]{11})", u)
                 if m:
                     ids.append(m.group(1))
-            title = r.get("title", "")
-            if title and not title.startswith("(no "):
-                titles.append(title)
+                if title and not title.startswith("(no "):
+                    titles.append(title)
             tracks.append({"name": t, "ids": ids, "titles": titles})
         albums.append({
             "artist": a["artist"],
