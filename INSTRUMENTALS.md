@@ -7,7 +7,7 @@ YouTube instrumentals for every track on the requested albums.
 - 📂 no single video found, so this links an album instrumentals playlist that should include the track
 - 🔎 a YouTube search for `<artist> <track> instrumental` (not searched yet, or nothing found)
 
-**Coverage:** 127 direct videos, 19 playlist fallbacks, 461 search links, 607 tracks total.
+**Coverage:** 466 direct videos, 60 playlist fallbacks, 81 search links, 607 tracks total.
 
 Most of these uploads are fan remakes or vocal-removed rips rather than label releases, and uploads can be taken down. Use the backup link if the main one is dead.
 
@@ -204,23 +204,23 @@ _Tracklist note: order approx_
 | 14 | MY TIME | ✅ [Yeat - My Time (Instrumental)](https://www.youtube.com/watch?v=WGDdWzl8FY0) | [alt](https://www.youtube.com/watch?v=wtE0YNaJ9UI) |
 | 15 | BACK HOME | ✅ [Yeat - Back Home (Instrumental)](https://www.youtube.com/watch?v=R4ZcLjYIWaU) | [search](https://www.youtube.com/results?search_query=Yeat+BACK+HOME+instrumental) |
 | 16 | UP FROM HERE | ✅ [Yeat - Up From Here (Instrumental)](https://www.youtube.com/watch?v=XzlUgii8oJw) | [alt](https://www.youtube.com/watch?v=UfPvEShkiuE) |
-| 17 | GRIDDLE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+GRIDDLE+instrumental) |  |
-| 18 | WHAT I WANT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+WHAT+I+WANT+instrumental) |  |
-| 19 | 2 PLANES | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+2+PLANES+instrumental) |  |
-| 20 | WENT WRONG | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+WENT+WRONG+instrumental) |  |
-| 21 | TALLËR | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+TALL%C3%8BR+instrumental) |  |
+| 17 | GRIDDLE | ✅ [Yeat ft. Don Toliver - Griddlë (INSTRUMENTAL)](https://www.youtube.com/watch?v=UknpTEk4nzw) | [search](https://www.youtube.com/results?search_query=Yeat+GRIDDLE+instrumental) |
+| 18 | WHAT I WANT | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRicaF_LsxyPnFHRkxDWcg_-) | [search](https://www.youtube.com/results?search_query=Yeat+WHAT+I+WANT+instrumental) |
+| 19 | 2 PLANES | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRicaF_LsxyPnFHRkxDWcg_-) | [search](https://www.youtube.com/results?search_query=Yeat+2+PLANES+instrumental) |
+| 20 | WENT WRONG | ✅ [Instrumental - Went Wrong - Yeat](https://www.youtube.com/watch?v=MjImVBnD66c) | [search](https://www.youtube.com/results?search_query=Yeat+WENT+WRONG+instrumental) |
+| 21 | TALLËR | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRicaF_LsxyPnFHRkxDWcg_-) | [search](https://www.youtube.com/results?search_query=Yeat+TALL%C3%8BR+instrumental) |
 
 ### COCOON (2026)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
 | 1 | earnëd it | ✅ [Yeat - EARNED IT (Instrumental) \[COCOON\]](https://m.youtube.com/watch?v=5ULRLzwxlLM) | [search](https://www.youtube.com/results?search_query=Yeat+earn%C3%ABd+it+instrumental) |
-| 2 | in2that | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+in2that+instrumental) |  |
-| 3 | miss my dawg | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+miss+my+dawg+instrumental) |  |
-| 4 | luh birk | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+luh+birk+instrumental) |  |
-| 5 | holy watër | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+holy+wat%C3%ABr+instrumental) |  |
-| 6 | cocoon | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+cocoon+instrumental) |  |
-| 7 | tënnis | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+t%C3%ABnnis+instrumental) |  |
+| 2 | in2that | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+in2that+instrumental) (none found) |  |
+| 3 | miss my dawg | ✅ [Yeat & Drake - MISS MY DAWG (INSTRUMENTAL)](https://www.youtube.com/watch?v=Cw1Pcu5HtIc) | [search](https://www.youtube.com/results?search_query=Yeat+miss+my+dawg+instrumental) |
+| 4 | luh birk | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+luh+birk+instrumental) (none found) |  |
+| 5 | holy watër | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+holy+wat%C3%ABr+instrumental) (none found) |  |
+| 6 | cocoon | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+cocoon+instrumental) (none found) |  |
+| 7 | tënnis | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Yeat+t%C3%ABnnis+instrumental) (none found) |  |
 
 ## Playboi Carti
 
@@ -229,109 +229,109 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Location | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Location+instrumental) |  |
-| 2 | Magnolia | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Magnolia+instrumental) |  |
-| 3 | Lookin | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Lookin+instrumental) |  |
-| 4 | wokeuplikethis* | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+wokeuplikethis%2A+instrumental) |  |
-| 5 | Let It Go | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Let+It+Go+instrumental) |  |
-| 6 | Half & Half | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Half+%26+Half+instrumental) |  |
-| 7 | New Choppa | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+New+Choppa+instrumental) |  |
-| 8 | Other Shit | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Other+Shit+instrumental) |  |
-| 9 | NoBs | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+NoBs+instrumental) |  |
-| 10 | Yah Mean | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Yah+Mean+instrumental) |  |
-| 11 | Flex | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Flex+instrumental) |  |
-| 12 | Kelly K | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Kelly+K+instrumental) |  |
-| 13 | Had 2 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Had+2+instrumental) |  |
-| 14 | Don't Tell Nobody | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Don%27t+Tell+Nobody+instrumental) |  |
-| 15 | Lame Niggaz | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Lame+Niggaz+instrumental) |  |
+| 1 | Location | ✅ [Playboi Carti - Location INSTRUMENTAL](https://www.youtube.com/watch?v=FJBqUYStf6g) | [alt](https://www.youtube.com/watch?v=ASEIW1si6jM) |
+| 2 | Magnolia | ✅ [Playboi Carti - Magnolia (Official Instrumental) prod. Pierre Bourne](https://www.youtube.com/watch?v=0M67Jy5F6RM) | [alt](https://www.youtube.com/watch?v=TpFrOuOLH-M) |
+| 3 | Lookin | ✅ [Playboi Carti - Lookin (feat. Lil Uzi Vert) (Instrumental)](https://www.youtube.com/watch?v=u7_ymt2QoEU) | [alt](https://www.youtube.com/watch?v=3umX7xlU8pw) |
+| 4 | wokeuplikethis* | ✅ [Playboi Carti - Wokeuplikethis INSTRUMENTAL Ft Lil Uzi Vert](https://www.youtube.com/watch?v=1Kp7wSA8WqQ) | [alt](https://www.youtube.com/watch?v=GKuctED52w0) |
+| 5 | Let It Go | ✅ [Playboi Carti: Let It Go (Instrumental)](https://www.youtube.com/watch?v=OdIVJ1E34P4) | [alt](https://www.youtube.com/watch?v=JOUHWlyHuQs) |
+| 6 | Half & Half | ✅ [Playboi Carti - Half & Half【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=v9wtsmyzriM) | [alt](https://www.youtube.com/watch?v=p1jwJt57ZFk) |
+| 7 | New Choppa | ✅ [Playboi Carti - New Choppa (feat. A$AP Rocky) (Instrumental)](https://www.youtube.com/watch?v=-SwMq1SiHKc) | [alt](https://www.youtube.com/watch?v=u-2MDHa7NZ4) |
+| 8 | Other Shit | ✅ [playboi carti - other shit (official instrumental)](https://www.youtube.com/watch?v=Np2sVoRyUME) | [alt](https://www.youtube.com/watch?v=gX6z7fq4j50) |
+| 9 | NoBs | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxGmTAybLDbI18SO5HOFmrj_) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+NoBs+instrumental) |
+| 10 | Yah Mean | ✅ [Playboi Carti - Yah Mean OFFICIAL INSTRUMENTAL (Reprod. Reaper X)](https://www.youtube.com/watch?v=JG1ZLI_h1Zk) | [alt](https://www.youtube.com/watch?v=h51MWsZwPNo) |
+| 11 | Flex | ✅ [Playboi Carti - Flex (Instrumental)](https://www.youtube.com/watch?v=z91Y4OqJoRQ) | [alt](https://www.youtube.com/watch?v=b66dA-v3ziE) |
+| 12 | Kelly K | ✅ [playboi carti - kelly k (instrumental)](https://www.youtube.com/watch?v=_durKTZXHkI) | [alt](https://www.youtube.com/watch?v=NiUQEfWwiPQ) |
+| 13 | Had 2 | ✅ [Playboi Carti - Had 2 (Instrumental)](https://www.youtube.com/watch?v=cg6OxzHe21g) | [alt](https://www.youtube.com/watch?v=L3dKQnf1mBs) |
+| 14 | Don't Tell Nobody | ✅ [Playboi Carti - Don't Tell Nobody \[Instrumental Edit\]](https://www.youtube.com/watch?v=sechF4oyI_4) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+Don%27t+Tell+Nobody+instrumental) |
+| 15 | Lame Niggaz | ✅ [Playboi Carti - Lame N*ggaz (Instrumental)](https://www.youtube.com/watch?v=VqWjUiU29q0) | [alt](https://www.youtube.com/watch?v=Q4qIGQHemF4) |
 
 ### Die Lit (2018)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Long Time | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Long+Time+instrumental) |  |
-| 2 | R.I.P. | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+R.I.P.+instrumental) |  |
-| 3 | Lean 4 Real | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Lean+4+Real+instrumental) |  |
-| 4 | Old Money | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Old+Money+instrumental) |  |
-| 5 | Love Hurts | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Love+Hurts+instrumental) |  |
-| 6 | Shoota | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Shoota+instrumental) |  |
-| 7 | Right Now | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Right+Now+instrumental) |  |
-| 8 | Poke It Out | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Poke+It+Out+instrumental) |  |
-| 9 | Home (KOD) | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Home+%28KOD%29+instrumental) |  |
-| 10 | Fell in Luv | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Fell+in+Luv+instrumental) |  |
-| 11 | Foreign | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Foreign+instrumental) |  |
-| 12 | Pull Up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Pull+Up+instrumental) |  |
-| 13 | Mileage | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Mileage+instrumental) |  |
-| 14 | FlatBed Freestyle | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+FlatBed+Freestyle+instrumental) |  |
-| 15 | No Time | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+No+Time+instrumental) |  |
-| 16 | Middle of the Summer | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Middle+of+the+Summer+instrumental) |  |
-| 17 | Choppa Won't Miss | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Choppa+Won%27t+Miss+instrumental) |  |
-| 18 | R.I.P. Fredo | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+R.I.P.+Fredo+instrumental) |  |
-| 19 | Top | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Top+instrumental) |  |
+| 1 | Long Time | ✅ [Playboi Carti - Long Time Official Instrumental](https://www.youtube.com/watch?v=3YAFGmG7N7Q) | [alt](https://www.youtube.com/watch?v=Z0jO7oWkwRc) |
+| 2 | R.I.P. | ✅ [Playboi Carti - R.I.P. (Official Instrumental)](https://www.youtube.com/watch?v=Av0llF9RD9A) | [alt](https://www.youtube.com/watch?v=cJ5Uurlb6PA) |
+| 3 | Lean 4 Real | ✅ [Playboi Carti (Feat.Skepta) - Lean 4 Real Instrumental](https://www.youtube.com/watch?v=IJeHyzBc7Fg) | [alt](https://www.youtube.com/watch?v=nmg-meb9jCc) |
+| 4 | Old Money | ✅ [Playboi Carti - Old Money (Instrumental)](https://www.youtube.com/watch?v=z1iNShMmVyM) | [alt](https://www.youtube.com/watch?v=FNFrSNh4zks) |
+| 5 | Love Hurts | ✅ [Playboi Carti - Love Hurts INSTRUMENTAL Ft Travis Scott](https://www.youtube.com/watch?v=W20Fp2SvTI0) | [alt](https://www.youtube.com/watch?v=osz3Bq25YsQ) |
+| 6 | Shoota | ✅ [Playboi Carti - Shoota ft. Lil Uzi Vert \[Instrumental\]](https://www.youtube.com/watch?v=97rmA0ZyfrQ) | [alt](https://www.youtube.com/watch?v=pnVt8nPv8eA) |
+| 7 | Right Now | ✅ [Playboi Carti Right Now ft Pierre Bourne instrumental](https://www.youtube.com/watch?v=2vPDO5sZnXQ) | [alt](https://www.youtube.com/watch?v=hDjSdTsiYd8) |
+| 8 | Poke It Out | ✅ [Playboi Carti - Poke it Out ft. Nicki Minaj OFFICICAL Instrumental (Reprod. Reaper X)](https://www.youtube.com/watch?v=Sw50OkBEHUM) | [alt](https://www.youtube.com/watch?v=w5oNdUa9dPI) |
+| 9 | Home (KOD) | ✅ [Playboi Carti - Home (KOD) Official Instrumental](https://www.youtube.com/watch?v=4WuHvkl3JPQ) | [alt](https://www.youtube.com/watch?v=cwTKbtpomLE) |
+| 10 | Fell in Luv | ✅ [Playboi Carti - Fell In Luv (Feat. Bryson Tiller) (Instrumental) (Prod. Pi'erre Bourne)](https://www.youtube.com/watch?v=GAefIoBCHNg) | [alt](https://www.youtube.com/watch?v=Cu_XMAcV_XU) |
+| 11 | Foreign | ✅ [Playboi Carti - Foreign 【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=ayHpmRYcPkM) | [alt](https://m.youtube.com/watch?v=kJXuQXGT3T0) |
+| 12 | Pull Up | ✅ [Playboi Carti - Pull Up INSTRUMENTAL \| Die Lit](https://www.youtube.com/watch?v=LD_n9ZhWn0Q) | [alt](https://www.youtube.com/watch?v=ZTnr7zo4wXY) |
+| 13 | Mileage | ✅ [Playboi Carti - Mileage ft. Chief Keef OFFICIAL Instrumental (Reprod. Reaper X)](https://www.youtube.com/watch?v=ZvRtWhNnqQo) | [alt](https://www.youtube.com/watch?v=tEC_zLKNxLw) |
+| 14 | FlatBed Freestyle | ✅ [Playboi Carti - Flatbed Freestyle INSTRUMENTAL \| Die Lit](https://www.youtube.com/watch?v=ULtcBbHvIrM) | [alt](https://www.youtube.com/watch?v=0_YNdKW6Sic) |
+| 15 | No Time | ✅ [Playboi Carti - No Time INSTRUMENTAL Ft Gunna \| Die Lit](https://www.youtube.com/watch?v=iOzRaW5lcBo) | [alt](https://www.youtube.com/watch?v=djMIj5-5rf0) |
+| 16 | Middle of the Summer | ✅ [Playboi Carti - Middle Of The Summer OFFICIAL Instrumental (Reprod. Reaper X)](https://www.youtube.com/watch?v=Hx-qsUMvF4g) | [alt](https://www.youtube.com/watch?v=xIGLLZDfQuo) |
+| 17 | Choppa Won't Miss | ✅ [Playboi Carti - Choppa Won't Miss ft. Young Thug Instrumental](https://www.youtube.com/watch?v=Zgug_QyJ0v4) | [alt](https://www.youtube.com/watch?v=bqUcLelpLyY) |
+| 18 | R.I.P. Fredo | ✅ [Playboi Carti - R.I.P. Fredo INSTRUMENTAL Ft Yung Nudy](https://www.youtube.com/watch?v=wIznT5tLxOo) | [alt](https://www.youtube.com/watch?v=STpDbeCjOQ0) |
+| 19 | Top | ✅ [Playboi Carti - Top INSTRUMENTAL Ft Pierre Bourne \| Die Lit](https://www.youtube.com/watch?v=LTYGnsyDUtY) | [alt](https://www.youtube.com/watch?v=3G5XpSUThMg) |
 
 ### Whole Lotta Red (2020)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Rockstar Made | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Rockstar+Made+instrumental) |  |
-| 2 | Go2DaMoon | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Go2DaMoon+instrumental) |  |
-| 3 | Stop Breathing | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Stop+Breathing+instrumental) |  |
-| 4 | Beno! | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Beno%21+instrumental) |  |
-| 5 | JumpOutTheHouse | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+JumpOutTheHouse+instrumental) |  |
-| 6 | M3tamorphosis | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+M3tamorphosis+instrumental) |  |
-| 7 | Slay3r | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Slay3r+instrumental) |  |
-| 8 | No Sl33p | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+No+Sl33p+instrumental) |  |
-| 9 | New Tank | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+New+Tank+instrumental) |  |
-| 10 | Teen X | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Teen+X+instrumental) |  |
-| 11 | Meh | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Meh+instrumental) |  |
-| 12 | Vamp Anthem | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Vamp+Anthem+instrumental) |  |
-| 13 | New N3on | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+New+N3on+instrumental) |  |
-| 14 | Control | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Control+instrumental) |  |
-| 15 | Punk Monk | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Punk+Monk+instrumental) |  |
-| 16 | On That Time | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+On+That+Time+instrumental) |  |
-| 17 | King Vamp | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+King+Vamp+instrumental) |  |
-| 18 | Place | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Place+instrumental) |  |
-| 19 | Sky | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Sky+instrumental) |  |
-| 20 | Over | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Over+instrumental) |  |
-| 21 | ILoveUIHateU | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+ILoveUIHateU+instrumental) |  |
-| 22 | Die4Guy | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Die4Guy+instrumental) |  |
-| 23 | Not PLaying | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+Not+PLaying+instrumental) |  |
-| 24 | F33l Lik3 Dyin | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+F33l+Lik3+Dyin+instrumental) |  |
+| 1 | Rockstar Made | ✅ [Playboi Carti - Rockstar Made (INSTRUMENTAL)](https://www.youtube.com/watch?v=t6ck_JSbbjQ) | [alt](https://www.youtube.com/watch?v=SAXHrGxdLJc) |
+| 2 | Go2DaMoon | ✅ [Playboi Carti - Go2DaMoon feat. Kanye West (Official Instrumental)](https://www.youtube.com/watch?v=fIoyrcNxTK8) | [alt](https://www.youtube.com/watch?v=nNV5Zs3wefw) |
+| 3 | Stop Breathing | ✅ [Stop Breathing (Instrumental) - Playboi Carti (prod. F1LTHY, Lukrative & ssort)](https://www.youtube.com/watch?v=xgGP7WgfnEw) | [alt](https://www.youtube.com/watch?v=-WGGwiiurCo) |
+| 4 | Beno! | ✅ [Playboi Carti - Beno! INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=Z0bH1hCcDg4) | [alt](https://www.youtube.com/watch?v=_nYefzcsEis) |
+| 5 | JumpOutTheHouse | ✅ [Playboi Carti - JumpOutTheHouse (Official Instrumental)](https://www.youtube.com/watch?v=AVmr1D2GtqE) | [alt](https://www.youtube.com/watch?v=pqlaXsh9CS8) |
+| 6 | M3tamorphosis | ✅ [Playboi Carti - M3tamorphosis ft. Kid Cudi OFFICIAL Instrumental](https://m.youtube.com/watch?v=8el_N8Vc2k8) | [alt](https://www.youtube.com/watch?v=9LZQgSghdOo) |
+| 7 | Slay3r | ✅ [Playboi Carti - Slay3r (Official Instrumental) \[FREE\]](https://www.youtube.com/watch?v=nomGP9pHT6U) | [alt](https://www.youtube.com/watch?v=R3XdcGFCuw0) |
+| 8 | No Sl33p | ✅ [Playboi Carti - NoSl33p INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=TywBFLOgEYY) | [alt](https://www.youtube.com/watch?v=qd_9XCJln64) |
+| 9 | New Tank | ✅ [Playboi Carti - New Tank (Official Instrumental)](https://www.youtube.com/watch?v=pKzDVBZWuek) | [alt](https://www.youtube.com/watch?v=NCCWw3aH_7Q) |
+| 10 | Teen X | ✅ [Playboi Carti ft. Future - TeenX \[Official Instrumental\]](https://www.youtube.com/watch?v=ADHyFNTwZDg) | [alt](https://www.youtube.com/watch?v=ubzxrp5K6QM) |
+| 11 | Meh | ✅ [Playboi Carti - Meh INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=SKHQJKy6gw0) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+Meh+instrumental) |
+| 12 | Vamp Anthem | ✅ [Playboi Carti - Vamp Anthem (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=4Gjl7NaMg5M) | [alt](https://www.youtube.com/watch?v=6S4C7507QR0) |
+| 13 | New N3on | ✅ [Playboi Carti - New N3on (Official Instrumental) \[prod. Maaly Raw\]](https://www.youtube.com/watch?v=jiZJ6MrD8Hw) | [alt](https://www.youtube.com/watch?v=y74rPfyUdME) |
+| 14 | Control | ✅ [Playboi Carti - Control INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=E9SvxownCqA) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+Control+instrumental) |
+| 15 | Punk Monk | ✅ [Playboi Carti - Punk Monk (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=SFt4oSdN2cs) | [alt](https://www.youtube.com/watch?v=T8b-CvXgM2c) |
+| 16 | On That Time | ✅ [Playboi Carti - On That Time INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=DpWOApzAxs8) | [alt](https://www.youtube.com/watch?v=_A_UJW9cx9s) |
+| 17 | King Vamp | ✅ [Playboi Carti - King Vamp (Instrumental)](https://www.youtube.com/watch?v=tpK6sZDsGoo) | [alt](https://www.youtube.com/watch?v=5qOgo6kB4ug) |
+| 18 | Place | ✅ [Playboi Carti - Place INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=l8Q0O1UfVPM) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+Place+instrumental) |
+| 19 | Sky | ✅ [Playboy Carti - Sky (Instrumental)](https://www.youtube.com/watch?v=C_ucYVHvVsQ) | [alt](https://www.youtube.com/watch?v=KFrdLP_4_Mo) |
+| 20 | Over | ✅ [Playboi Carti - Over INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=Gi6Xu2hvtrM) | [alt](https://www.youtube.com/watch?v=90z1AyganZQ) |
+| 21 | ILoveUIHateU | ✅ [Playboi Carti - ILoveUIHateU INSTRUMENTAL \| Whole Lotta Red](https://www.youtube.com/watch?v=Wr0DB2OoWJ0) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+ILoveUIHateU+instrumental) |
+| 22 | Die4Guy | ✅ [Playboi Carti - Die4Guy (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=BAQayG4uWbc) | [alt](https://www.youtube.com/watch?v=dC96kwzpWK8) |
+| 23 | Not PLaying | ✅ [Playboi Carti - Not PLaying (Official Instrumental)](https://www.youtube.com/watch?v=rPD70iGrO6c) | [alt](https://www.youtube.com/watch?v=8OdDu782dig) |
+| 24 | F33l Lik3 Dyin | ✅ [Playboi Carti - F33l Lik3 Dyin (Instrumental)](https://www.youtube.com/watch?v=77U2DjqlgQk) | [alt](https://www.youtube.com/watch?v=6J6Qvg3bhxQ) |
 
 ### MUSIC (2025)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | POP OUT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+POP+OUT+instrumental) |  |
-| 2 | CRUSH | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+CRUSH+instrumental) |  |
-| 3 | K POP | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+K+POP+instrumental) |  |
-| 4 | EVIL J0RDAN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+EVIL+J0RDAN+instrumental) |  |
-| 5 | MOJO JOJO | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+MOJO+JOJO+instrumental) |  |
-| 6 | PHILLY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+PHILLY+instrumental) |  |
-| 7 | RADAR | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+RADAR+instrumental) |  |
-| 8 | RATHER LIE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+RATHER+LIE+instrumental) |  |
-| 9 | FINE SHIT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+FINE+SHIT+instrumental) |  |
-| 10 | BACKD00R | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+BACKD00R+instrumental) |  |
-| 11 | TOXIC | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+TOXIC+instrumental) |  |
-| 12 | MUNYUN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+MUNYUN+instrumental) |  |
-| 13 | CRANK | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+CRANK+instrumental) |  |
-| 14 | CHARGE DEM HOES A FEE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+CHARGE+DEM+HOES+A+FEE+instrumental) |  |
-| 15 | GOOD CREDIT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+GOOD+CREDIT+instrumental) |  |
-| 16 | I SEEEEEE YOU BABY BOI | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+I+SEEEEEE+YOU+BABY+BOI+instrumental) |  |
-| 17 | WAKE UP F1LTHY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+WAKE+UP+F1LTHY+instrumental) |  |
-| 18 | JUMPIN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+JUMPIN+instrumental) |  |
-| 19 | TRIM | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+TRIM+instrumental) |  |
-| 20 | COCAINE NOSE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+COCAINE+NOSE+instrumental) |  |
-| 21 | WE NEED ALL DA VIBES | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+WE+NEED+ALL+DA+VIBES+instrumental) |  |
-| 22 | OLYMPIAN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+OLYMPIAN+instrumental) |  |
-| 23 | OPM BABI | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+OPM+BABI+instrumental) |  |
-| 24 | TWIN TRIM | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+TWIN+TRIM+instrumental) |  |
-| 25 | LIKE WEEZY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+LIKE+WEEZY+instrumental) |  |
-| 26 | DIS 1 GOT IT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+DIS+1+GOT+IT+instrumental) |  |
-| 27 | WALK | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+WALK+instrumental) |  |
-| 28 | HBA | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+HBA+instrumental) |  |
-| 29 | KETAMINE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+KETAMINE+instrumental) |  |
-| 30 | BACKR00MS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Playboi+Carti+BACKR00MS+instrumental) |  |
+| 1 | POP OUT | ✅ [Playboi Carti - POP OUT (Official Instrumental)](https://www.youtube.com/watch?v=qrT2In7CyS4) | [alt](https://www.youtube.com/watch?v=cZJY7F-0-Z0) |
+| 2 | CRUSH | ✅ [Playboi Carti - CRUSH (feat. Travis Scott) \| Instrumental (Beat Only)](https://www.youtube.com/watch?v=Z7DNKniGhQY) | [alt](https://www.youtube.com/watch?v=1HxLP3edRUU) |
+| 3 | K POP | ✅ [PLAYBOI CARTI - K POP (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=0T2g5Yrk0DI) | [alt](https://www.youtube.com/watch?v=sjgSrvg3tng) |
+| 4 | EVIL J0RDAN | ✅ [Playboi Carti - EVIL JORDAN (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=iS4GzDibglM) | [alt](https://www.youtube.com/watch?v=ipTJ1wCzWtg) |
+| 5 | MOJO JOJO | ✅ [Mojo Jojo (Instrumental) - Playboi Carti (prod. Cardo Got Wings & Johnny Juliano)](https://www.youtube.com/watch?v=wt-TX6_FNFk) | [alt](https://www.youtube.com/watch?v=qh4-Ie6YO2w) |
+| 6 | PHILLY | ✅ [Playboi Carti - PHILLY (ft. Travis Scott) (Instrumental)](https://www.youtube.com/watch?v=3LuXJ9K5Bzo) | [alt](https://www.youtube.com/watch?v=TEn9eWamH3M) |
+| 7 | RADAR | ✅ [PLAYBOI CARTI - RADAR (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=lkSP4ohQCv0) | [alt](https://www.youtube.com/watch?v=QJimlnP6x8o) |
+| 8 | RATHER LIE | ✅ [PLAYBOI CARTI - RATHER LIE (FT. THE WEEKND) (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=-D1f_y2rpaA) | [alt](https://www.youtube.com/watch?v=1nHm-YoOeNQ) |
+| 9 | FINE SHIT | ✅ [PLAYBOI CARTI - FINE SHIT (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=Xq3WJ7Sk0ug) | [alt](https://www.youtube.com/watch?v=1NboEopjer4) |
+| 10 | BACKD00R | ✅ [Playboi Carti - BACKD00R ft. Kendrick Lamar & Jhené Aiko \| INSTRUMENTAL](https://www.youtube.com/watch?v=LIkFifTjc2Q) | [alt](https://www.youtube.com/watch?v=UFX3uqpXY44) |
+| 11 | TOXIC | ✅ [PLAYBOI CARTI - TOXIC (FT. SKEPTA) (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=_tyCWTc27FQ) | [alt](https://www.youtube.com/watch?v=Xc-4l9Hh-So) |
+| 12 | MUNYUN | ✅ [Munyun (Instrumental) - Playboi Carti (prod. Keanu Beats, Ojivolta, DJH & 99Hurts)](https://www.youtube.com/watch?v=aLKtYQk6L0s) | [alt](https://www.youtube.com/watch?v=XAHgoEJrGRc) |
+| 13 | CRANK | ✅ [PLAYBOI CARTI - CRANK (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=5V20A4rk_Wk) | [alt](https://www.youtube.com/watch?v=Uq468ylj-DY) |
+| 14 | CHARGE DEM HOES A FEE | ✅ [Playboi Carti - CHARGE DEM HOES A FEE (Official Instrumental) ft Future & Travis Scott](https://www.youtube.com/watch?v=pq9v7AdT14o) | [alt](https://www.youtube.com/watch?v=AD4KlSI8F5A) |
+| 15 | GOOD CREDIT | ✅ [PLAYBOI CARTI - GOOD CREDIT (FT. KENDRICK LAMAR) (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=PbYTJMpC6-s) | [alt](https://www.youtube.com/watch?v=S899BJgfck8) |
+| 16 | I SEEEEEE YOU BABY BOI | ✅ [Playboi Carti - I SEEEEEE YOU BABY BOI【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=RnUqwWHuTyI) | [alt](https://www.youtube.com/watch?v=RUw0gxLuO_Y) |
+| 17 | WAKE UP F1LTHY | ✅ [Playboi Carti, Travis Scott - WAKE UP F1LTHY (official instrumental)](https://www.youtube.com/watch?v=lws34MJ0kg0) | [alt](https://www.youtube.com/watch?v=yhF6X3rcY3M) |
+| 18 | JUMPIN | ✅ [Playboi Carti, Lil Uzi Vert - Jumpin (Official Instrumental)](https://www.youtube.com/watch?v=ornzBCnVRKQ) | [alt](https://www.youtube.com/watch?v=7bIrN150_Co) |
+| 19 | TRIM | ✅ [PLAYBOI CARTI - TRIM (FT. FUTURE) (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=-VieETTmyko) | [alt](https://www.youtube.com/watch?v=Nmmfs7wWDaY) |
+| 20 | COCAINE NOSE | ✅ [Playboi Carti - COCAINE NOSE (official instrumental)](https://www.youtube.com/watch?v=xhVVyP0r3BM) | [alt](https://www.youtube.com/watch?v=WM6cXAFs9KI) |
+| 21 | WE NEED ALL DA VIBES | ✅ [Playboi Carti - We Need All Da Vibes (INSTRUMENTAL) Ft. Young Thug & Ty Dolla $ign](https://www.youtube.com/watch?v=cn3Be3fT4JM) | [search](https://www.youtube.com/results?search_query=Playboi+Carti+WE+NEED+ALL+DA+VIBES+instrumental) |
+| 22 | OLYMPIAN | ✅ [Playboi Carti - OLYMPIAN (Official Instrumental)](https://www.youtube.com/watch?v=4XF0jzW4YAI) | [alt](https://www.youtube.com/watch?v=xbFET5AyKSc) |
+| 23 | OPM BABI | ✅ [PLAYBOI CARTI - OPM BABI (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=33bhDaycWCc) | [alt](https://www.youtube.com/watch?v=AcKvMKh7wXk) |
+| 24 | TWIN TRIM | ✅ [PLAYBOI CARTI - TWIN TRIM (FT. LIL UZI VERT) (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=qN1egPOuR9M) | [alt](https://www.youtube.com/watch?v=wZu6ByZqua4) |
+| 25 | LIKE WEEZY | ✅ [Playboi Carti - LIKE WEEZY (official instrumental)](https://www.youtube.com/watch?v=bWC-T3wMaRs) | [alt](https://m.youtube.com/watch?v=ub57Y3TIGt8) |
+| 26 | DIS 1 GOT IT | ✅ [PLAYBOI CARTI - DIS 1 GOT IT (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=As_zSlKYYWY) | [alt](https://www.youtube.com/watch?v=heJPMhpEmNM) |
+| 27 | WALK | ✅ [Playboi Carti - WALK (Official Instrumental)](https://www.youtube.com/watch?v=_Uzck4Krt6s) | [alt](https://www.youtube.com/watch?v=FIqOyQbu33s) |
+| 28 | HBA | ✅ [PLAYBOI CARTI - HBA (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=5HIT7QfFqEM) | [alt](https://www.youtube.com/watch?v=8Ljsln-7lmA) |
+| 29 | KETAMINE | ✅ [Playboi Carti - KETAMINE (Instrumental)](https://www.youtube.com/watch?v=CcraOSVoTN0) | [alt](https://www.youtube.com/watch?v=dkQrjeJaSuU) |
+| 30 | BACKR00MS | ✅ [Playboi Carti - BACKR00MS ft. Travis Scott (Official Instrumental)](https://www.youtube.com/watch?v=ffRGbXhzIXY) | [alt](https://www.youtube.com/watch?v=idw4op--Spg) |
 
 ## EsDeeKid
 
@@ -340,17 +340,17 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | 4 Raws | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+4+Raws+instrumental) |  |
-| 2 | Cali Man | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Cali+Man+instrumental) |  |
-| 3 | Prague | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Prague+instrumental) |  |
-| 4 | Dirty | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Dirty+instrumental) |  |
-| 5 | LV Sandals | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+LV+Sandals+instrumental) |  |
-| 6 | Panic | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Panic+instrumental) |  |
-| 7 | 5am | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+5am+instrumental) |  |
-| 8 | Phantom | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Phantom+instrumental) |  |
-| 9 | Mist | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Mist+instrumental) |  |
-| 10 | Rottweiler | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Rottweiler+instrumental) |  |
-| 11 | Tartan | 🔎 [YouTube search](https://www.youtube.com/results?search_query=EsDeeKid+Tartan+instrumental) |  |
+| 1 | 4 Raws | ✅ [EsDeeKid - 4 Raws (Instrumental)](https://www.youtube.com/watch?v=spN8EfutL24) | [alt](https://www.youtube.com/watch?v=PKP1Bp0IAjg) |
+| 2 | Cali Man | ✅ [EsDeeKid - Cali Man (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=CZanl-nrjr0) | [alt](https://www.youtube.com/watch?v=AbqXpF2A870) |
+| 3 | Prague | ✅ [EsDeeKid - Prague (Instrumental)](https://www.youtube.com/watch?v=Zj2C7Dkt3ps) | [alt](https://www.youtube.com/watch?v=WaSmWULpLiI) |
+| 4 | Dirty | ✅ [EsDeeKid - Dirty (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=kvQau5T-eRE) | [alt](https://www.youtube.com/watch?v=cFItLL6EgoM) |
+| 5 | LV Sandals | ✅ [EsDeeKid, Fakemink & Rico Ace - LV Sandals (instrumental)](https://www.youtube.com/watch?v=Z4izYJdR4-I) | [alt](https://www.youtube.com/watch?v=PUos5m9zvLM) |
+| 6 | Panic | ✅ [EsDeeKid - Panic (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=fiv90mnb1hM) | [alt](https://www.youtube.com/watch?v=bFyHo71VAEY) |
+| 7 | 5am | ✅ [EsDeeKid & Fimiguerrero - 5am (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=pKOWQssx2P8) | [alt](https://www.youtube.com/watch?v=reEbTA4oPyU) |
+| 8 | Phantom | ✅ [EsDeeKid & Rico Ace - Phantom (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=1gSVuidT6XY) | [alt](https://www.youtube.com/watch?v=5HuPdgx4_iQ) |
+| 9 | Mist | ✅ [EsDeeKid - Mist (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=6isTA2GtJBc) | [alt](https://www.youtube.com/watch?v=rf5E8yyqeVA) |
+| 10 | Rottweiler | ✅ [EsDeeKid - Rottweiler (instrumental) Prod. Wraith9](https://www.youtube.com/watch?v=jMYBQhuOMnI) | [alt](https://www.youtube.com/watch?v=6w11zk1niwc) |
+| 11 | Tartan | ✅ [EsDeeKid, Fimiguerrero - Tartan (Instrumental)](https://www.youtube.com/watch?v=bfnOcS7Soo8) | [alt](https://www.youtube.com/watch?v=ZTT8kOP6jB0) |
 
 ## Ken Carson
 
@@ -359,133 +359,133 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Who's Next | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Who%27s+Next+instrumental) |  |
-| 2 | Rock N Roll | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Rock+N+Roll+instrumental) |  |
-| 3 | Party All Day | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Party+All+Day+instrumental) |  |
-| 4 | Change | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Change+instrumental) |  |
-| 5 | Run + Ran | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Run+%2B+Ran+instrumental) |  |
-| 6 | Shake | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Shake+instrumental) |  |
-| 7 | Hella | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Hella+instrumental) |  |
-| 8 | Clutch | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Clutch+instrumental) |  |
-| 9 | Till I Die | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Till+I+Die+instrumental) |  |
-| 10 | Burnin Up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Burnin+Up+instrumental) |  |
-| 11 | So What | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+So+What+instrumental) |  |
+| 1 | Who's Next | ✅ [Ken Carson - Who's Next (INSTRUMENTAL)](https://www.youtube.com/watch?v=SFzulZEkdyE) | [alt](https://www.youtube.com/watch?v=9xrNiVMZup0) |
+| 2 | Rock N Roll | ✅ [Ken Carson - Rock N Roll【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=YEeLJpYfJqo) | [alt](https://www.youtube.com/watch?v=g0ss_6qRf-c) |
+| 3 | Party All Day | ✅ [Ken Carson - Party All Day Instrumental {NO LOOPS}](https://www.youtube.com/watch?v=U1pOFd4-fIM) | [alt](https://www.youtube.com/watch?v=r8z4OuIASoY) |
+| 4 | Change | ✅ [Ken Car$on - Change (Instrumental) \[Project X\]](https://www.youtube.com/watch?v=nEY651kns7k) | [alt](https://www.youtube.com/watch?v=PVE72baDJ-I) |
+| 5 | Run + Ran | ✅ [Ken Carson - Run + Ran Instrumental Remake (ReProd. Giuxep)](https://www.youtube.com/watch?v=HB8yCvN4mGg) | [alt](https://www.youtube.com/watch?v=qrJHSVtPjPo) |
+| 6 | Shake | ✅ [Ken Carson - Shake (INSTRUMENTAL)](https://www.youtube.com/watch?v=rdvLmwBKUNU) | [alt](https://www.youtube.com/watch?v=6J_O7E0ddhs) |
+| 7 | Hella | ✅ [Ken Carson - Hella (INSTRUMENTAL)](https://www.youtube.com/watch?v=gQgAJytYabQ) | [alt](https://www.youtube.com/watch?v=r8-e1vZoIEo) |
+| 8 | Clutch | ✅ [Ken Carson - Clutch【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=mK5V4-G-AJU) | [alt](https://www.youtube.com/watch?v=8uNjR4d0bPI) |
+| 9 | Till I Die | ✅ [Ken Carson - Till I Die (Instrumental)](https://www.youtube.com/watch?v=aHsF-898EZw) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Till+I+Die+instrumental) |
+| 10 | Burnin Up | ✅ [Ken Carson - Burnin Up (Instrumental)](https://www.youtube.com/watch?v=yTpBvvPXoVM) | [alt](https://www.youtube.com/watch?v=cjz6LNgm7oU) |
+| 11 | So What | ✅ [Ken Carson - So What (Instrumental)](https://www.youtube.com/watch?v=kkVhBIlaVhs) | [alt](https://www.youtube.com/watch?v=ofMkZSW8siU) |
 
 ### X (2022)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Intro | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Intro+instrumental) |  |
-| 2 | New | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+New+instrumental) |  |
-| 3 | Gems | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Gems+instrumental) |  |
-| 4 | Nobody | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Nobody+instrumental) |  |
-| 5 | Go | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Go+instrumental) |  |
-| 6 | MDMA | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+MDMA+instrumental) |  |
-| 7 | X | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+X+instrumental) |  |
-| 8 | PDBMH | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+PDBMH+instrumental) |  |
-| 9 | Money Hunt | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Money+Hunt+instrumental) |  |
-| 10 | South Beach | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+South+Beach+instrumental) |  |
-| 11 | Going Schitz | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Going+Schitz+instrumental) |  |
-| 12 | Same Thing | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Same+Thing+instrumental) |  |
-| 13 | Freestyle 1 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Freestyle+1+instrumental) |  |
-| 14 | Freestyle 2 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Freestyle+2+instrumental) |  |
-| 15 | Fuk 12 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Fuk+12+instrumental) |  |
-| 16 | Murda Musik | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Murda+Musik+instrumental) |  |
-| 17 | Delinquent | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Delinquent+instrumental) |  |
-| 18 | Get Rich Or Die | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Get+Rich+Or+Die+instrumental) |  |
-| 19 | Turn Up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Turn+Up+instrumental) |  |
-| 20 | The End | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+The+End+instrumental) |  |
+| 1 | Intro | ✅ [ken carson - intro instrumental](https://www.youtube.com/watch?v=-WWTfM2-k8c) | [alt](https://www.youtube.com/watch?v=cGdadjV2TOY) |
+| 2 | New | ✅ [Ken Carson - New (INSTRUMENTAL)](https://www.youtube.com/watch?v=bwxj0ULsoTk) | [search](https://www.youtube.com/results?search_query=Ken+Carson+New+instrumental) |
+| 3 | Gems | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Gems+instrumental) (none found) |  |
+| 4 | Nobody | ✅ [Ken Carson - Nobody INSTRUMENTAL](https://www.youtube.com/watch?v=thKIU9x2c5Y) | [alt](https://www.youtube.com/watch?v=vRSMzghPvFw) |
+| 5 | Go | ✅ [Ken Carson - Go (Instrumental)](https://www.youtube.com/watch?v=xJ57E5Iysr8) | [alt](https://www.youtube.com/watch?v=y1f4Qvw8Fhw) |
+| 6 | MDMA | ✅ [Ken Carson ft. Destroy Lonely - MDMA (INSTRUMENTAL)](https://www.youtube.com/watch?v=_uNMoRo-G54) | [alt](https://www.youtube.com/watch?v=8euR24eVRA0) |
+| 7 | X | ✅ [Ken Carson - X (Instrumental)](https://www.youtube.com/watch?v=U2AMeRknSmM) | [alt](https://www.youtube.com/watch?v=kb-UAZMKdyE) |
+| 8 | PDBMH | ✅ [Ken Carson - PDBMH (INSTRUMENTAL)](https://www.youtube.com/watch?v=gwFhwtLHmIo) | [alt](https://www.youtube.com/watch?v=AT_6WVdyWuk) |
+| 9 | Money Hunt | ✅ [Ken Carson - Money Hunt (INSTRUMENTAL)](https://www.youtube.com/watch?v=UDSpHOVi1kU) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Money+Hunt+instrumental) |
+| 10 | South Beach | ✅ [Ken Carson - South Beach INSTRUMENTAL](https://www.youtube.com/watch?v=Xm1sf6pF-MA) | [alt](https://www.youtube.com/watch?v=CHYAx4H3SIw) |
+| 11 | Going Schitz | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Going+Schitz+instrumental) (none found) |  |
+| 12 | Same Thing | ✅ [Ken Carson - Same Thing Instrumental {NO LOOPS}](https://www.youtube.com/watch?v=h2CmOD7txko) | [alt](https://www.youtube.com/watch?v=WSHIs67AVEo) |
+| 13 | Freestyle 1 | ✅ [Ken Carson - Freestyle 1 (Official Instrumental)](https://m.youtube.com/watch?v=zU79V4IKlIA) | [alt](https://www.youtube.com/watch?v=ELsYcYjOzQc) |
+| 14 | Freestyle 2 | ✅ [Freestyle 2 (Instrumental) - Ken Carson (prod. F1LTHY, AM, and Gab3)](https://www.youtube.com/watch?v=E--1nJ9TAhM) | [alt](https://www.youtube.com/watch?v=5Qquttb0LdY) |
+| 15 | Fuk 12 | ✅ [Ken Carson - Fuk 12 (Instrumental)](https://www.youtube.com/watch?v=hSvvyIE-T8Q) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Fuk+12+instrumental) |
+| 16 | Murda Musik | ✅ [Ken Carson - Murda Musik (Instrumental) OFFICIAL](https://www.youtube.com/watch?v=coULGJZTevc) | [alt](https://www.youtube.com/watch?v=lJIzNzM0BlY) |
+| 17 | Delinquent | ✅ [Ken Carson - Delinquent (OFFICIAL INSTRUMENTAL) \[ft. Homixide Gang\]](https://www.youtube.com/watch?v=cSo4nLcwDQA) | [alt](https://www.youtube.com/watch?v=4ryWmzzPyXA) |
+| 18 | Get Rich Or Die | ✅ [Ken Carson - Get Rich Or Die (Official Instrumental)](https://www.youtube.com/watch?v=lGIHKLKezfs) | [alt](https://www.youtube.com/watch?v=EKb4smJAj8M) |
+| 19 | Turn Up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Turn+Up+instrumental) (none found) |  |
+| 20 | The End | ✅ [Ken Carson - The End (Instrumental)](https://www.youtube.com/watch?v=0byKgTHWv70) | [search](https://www.youtube.com/results?search_query=Ken+Carson+The+End+instrumental) |
 
 ### A Great Chaos (2023)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Green Room | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Green+Room+instrumental) |  |
-| 2 | Jennifer's Body | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Jennifer%27s+Body+instrumental) |  |
-| 3 | Fighting My Demons | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Fighting+My+Demons+instrumental) |  |
-| 4 | Singapore | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Singapore+instrumental) |  |
-| 5 | Lose It | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Lose+It+instrumental) |  |
-| 6 | Hardcore | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Hardcore+instrumental) |  |
-| 7 | Me N My Kup | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Me+N+My+Kup+instrumental) |  |
-| 8 | It's Over | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+It%27s+Over+instrumental) |  |
-| 9 | Succubus | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Succubus+instrumental) |  |
-| 10 | Paranoid | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Paranoid+instrumental) |  |
-| 11 | Pots | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Pots+instrumental) |  |
-| 12 | Like This | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Like+This+instrumental) |  |
-| 13 | Overtime | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Overtime+instrumental) |  |
-| 14 | Vampire Hour | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Vampire+Hour+instrumental) |  |
-| 15 | Nightcore | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Nightcore+instrumental) |  |
-| 16 | Nightcore 2 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Nightcore+2+instrumental) |  |
-| 17 | Rockstar Lifestyle | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Rockstar+Lifestyle+instrumental) |  |
-| 18 | I Need U | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+I+Need+U+instrumental) |  |
+| 1 | Green Room | ✅ [Ken Carson - green room (Official Instrumental)](https://www.youtube.com/watch?v=-tyJJjdoxtU) | [alt](https://www.youtube.com/watch?v=h5G4ZVI5GeM) |
+| 2 | Jennifer's Body | ✅ [Ken Carson - Jennifer's Body (Official Instrumental)](https://www.youtube.com/watch?v=RvQv8_jJsHY) | [alt](https://www.youtube.com/watch?v=U6COYxsB6hs) |
+| 3 | Fighting My Demons | ✅ [Ken Carson - Fighting My Demons (Official Instrumental)](https://www.youtube.com/watch?v=s8AMxUo_15o) | [alt](https://www.youtube.com/watch?v=_rQDOjHMjk8) |
+| 4 | Singapore | ✅ [Ken Carson - Singapore (Official Instrumental)](https://www.youtube.com/watch?v=E2_r-M6jfWU) | [alt](https://www.youtube.com/watch?v=hEMG1ih2740) |
+| 5 | Lose It | ✅ [Ken Carson - Lose It (Official Instrumental)](https://www.youtube.com/watch?v=RUfDN7i6KRQ) | [alt](https://www.youtube.com/watch?v=S3uDGlluHgg) |
+| 6 | Hardcore | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiQ42TwpIQMwDRMwRQRRDHj) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Hardcore+instrumental) |
+| 7 | Me N My Kup | ✅ [Ken Carson - Me N My Kup (Official Instrumental)](https://www.youtube.com/watch?v=WnlBWyyEKIg) | [alt](https://www.youtube.com/watch?v=HA81gQtg0bo) |
+| 8 | It's Over | ✅ [Ken Carson - Its Over INSTRUMENTAL \| A Great Chaos](https://www.youtube.com/watch?v=ysny34B06mk) | [alt](https://www.youtube.com/watch?v=Xuj3Own1g5k) |
+| 9 | Succubus | ✅ [Ken Carson - Succubus (Official Instrumental)](https://www.youtube.com/watch?v=o2EwExzO1F8) | [alt](https://www.youtube.com/watch?v=_ksaoLKnht4) |
+| 10 | Paranoid | ✅ [Ken Carson - paranoid (feat. Destroy Lonely) (Instrumental)](https://www.youtube.com/watch?v=pCKOJgPOzkE) | [alt](https://www.youtube.com/watch?v=z-PNwad_m_0) |
+| 11 | Pots | ✅ [Ken Carson - Pots (Official Instrumental)](https://www.youtube.com/watch?v=rRyXWUmr2lc) | [alt](https://www.youtube.com/watch?v=H5pHTmwyDgQ) |
+| 12 | Like This | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiQ42TwpIQMwDRMwRQRRDHj) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Like+This+instrumental) |
+| 13 | Overtime | ✅ [Ken Carson - Overtime (Official Instrumental)](https://www.youtube.com/watch?v=OL8mR1wYUNo) | [alt](https://www.youtube.com/watch?v=oat-bYkU6-w) |
+| 14 | Vampire Hour | ✅ [Ken Carson - Vampire Hour (Official Instrumental)](https://www.youtube.com/watch?v=abpd3QgdJrI) | [alt](https://www.youtube.com/watch?v=phqbluqopUo) |
+| 15 | Nightcore | ✅ [Ken Carson - nightcore (Instrumental)](https://www.youtube.com/watch?v=W9WspVOC-14) | [alt](https://www.youtube.com/watch?v=nVthE2CME1g) |
+| 16 | Nightcore 2 | ✅ [Ken Carson - Nightcore 2 INSTRUMENTAL \| A Great Chaos](https://www.youtube.com/watch?v=oa7RFtao21c) | [alt](https://www.youtube.com/watch?v=rdJ8swedi5s) |
+| 17 | Rockstar Lifestyle | ✅ [Ken Carson - Rockstar Lifestyle (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=kbG4KEtHR_g) | [alt](https://www.youtube.com/watch?v=78me6tSIxJg) |
+| 18 | I Need U | ✅ [Ken Carson - i need u (Official Instrumental)](https://www.youtube.com/watch?v=L1jBdE6RklE) | [alt](https://www.youtube.com/watch?v=jq2IsoyAJZM) |
 
 ### More Chaos (2025)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Lord Of Chaos | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Lord+Of+Chaos+instrumental) |  |
-| 2 | Xposed | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Xposed+instrumental) |  |
-| 3 | Money Spread | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Money+Spread+instrumental) |  |
-| 4 | Root Of All Evil | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Root+Of+All+Evil+instrumental) |  |
-| 5 | K-Hole | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+K-Hole+instrumental) |  |
-| 6 | Trap Jump | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Trap+Jump+instrumental) |  |
-| 7 | Blakk Rokkstar | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Blakk+Rokkstar+instrumental) |  |
-| 8 | LiveLeak | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+LiveLeak+instrumental) |  |
-| 9 | Diamonds | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Diamonds+instrumental) |  |
-| 10 | Dismantled | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Dismantled+instrumental) |  |
-| 11 | 200 Kash | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+200+Kash+instrumental) |  |
-| 12 | Down2Earth | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Down2Earth+instrumental) |  |
-| 13 | Confetti | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Confetti+instrumental) |  |
-| 14 | Naked | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Naked+instrumental) |  |
-| 15 | Kryptonite | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Kryptonite+instrumental) |  |
-| 16 | Psycho | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Psycho+instrumental) |  |
-| 17 | Inferno | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Inferno+instrumental) |  |
-| 18 | Thx | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Thx+instrumental) |  |
+| 1 | Lord Of Chaos | ✅ [Lord of Chaos (Instrumental) - Ken Carson](https://www.youtube.com/watch?v=AOdZjkNJH6Y) | [alt](https://www.youtube.com/watch?v=3p-Mc6ea8D4) |
+| 2 | Xposed | ✅ [Ken Carson - Xposed (Official Instrumental)](https://www.youtube.com/watch?v=SB5GaFVgfHw) | [alt](https://www.youtube.com/watch?v=UWc0_MufDFk) |
+| 3 | Money Spread | ✅ [Money Spread (Instrumental) - Ken Carson (prod. Clif Shayne, Lukrative and Lucian)](https://www.youtube.com/watch?v=NVewEux33gI) | [alt](https://www.youtube.com/watch?v=awOYFuvG_Qs) |
+| 4 | Root Of All Evil | ✅ [Root of All Evil (Instrumental) - Ken Carson (prod. star boy, Outtatown, 16yrold and bass)](https://www.youtube.com/watch?v=SZCK3FK2dBk) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Root+Of+All+Evil+instrumental) |
+| 5 | K-Hole | ✅ [Ken Carson - K HOLE (Official Instrumental)](https://www.youtube.com/watch?v=MN-7dpDgg54) | [alt](https://www.youtube.com/watch?v=rrW8H281ZvI) |
+| 6 | Trap Jump | ✅ [Ken Carson - Trap Jump (Instrumental)](https://m.youtube.com/watch?v=Hkozonpbi5k) | [alt](https://www.youtube.com/watch?v=SIWgUVcEayc) |
+| 7 | Blakk Rokkstar | ✅ [Ken Carson - Blakk Rokkstar (Official Instrumental) *BEAT SWITCH*](https://www.youtube.com/watch?v=Mp-EvhrMXAw) | [alt](https://www.youtube.com/watch?v=Djk6IVrr8BY) |
+| 8 | LiveLeak | ✅ [Ken Carson - liveleak (Official Instrumental)](https://www.youtube.com/watch?v=lEkAROR6uD4) | [alt](https://www.youtube.com/watch?v=R_eNZhYHtQY) |
+| 9 | Diamonds | ✅ [Diamonds (Instrumental) - Ken Carson (prod. Lucian, Esko, Cxsket, Mayyzo, bart how)](https://www.youtube.com/watch?v=upMu86B9qCw) | [alt](https://www.youtube.com/watch?v=aIGyXRHi9xc) |
+| 10 | Dismantled | ✅ [Dismantled (Instrumental) - Ken Carson (prod. Clif Shayne and Lucian)](https://www.youtube.com/watch?v=GH85XzsqRaU) | [alt](https://www.youtube.com/watch?v=I7afXetvAb8) |
+| 11 | 200 Kash | ✅ [200 KASH - Ken Carson (Official Instrumental)](https://www.youtube.com/watch?v=yZ3nXBppOdQ) | [alt](https://www.youtube.com/watch?v=4K02LUrNi9E) |
+| 12 | Down2Earth | ✅ [Ken Carson - DOWN2EARTH (Official Instrumental)](https://www.youtube.com/watch?v=PqBWtoR1iUM) | [alt](https://www.youtube.com/watch?v=xekLSRuTZS8) |
+| 13 | Confetti | ✅ [Confetti (Instrumental) - Ken Carson (prod. 16yrold and bass)](https://www.youtube.com/watch?v=tcZXKpteRNo) | [alt](https://www.youtube.com/watch?v=RhxmC56MLyU) |
+| 14 | Naked | ✅ [Naked (Instrumental) - Ken Carson (prod Four3va, ivvys, and mental)](https://www.youtube.com/watch?v=x81ZLuAsTJc) | [alt](https://www.youtube.com/watch?v=r-Dw_GB5m_8) |
+| 15 | Kryptonite | ✅ [Ken Carson - Kryptonite【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=z8b1gQ1T9go) | [alt](https://www.youtube.com/watch?v=WtwjPPNV1AM) |
+| 16 | Psycho | ✅ [Ken Carson - Psycho INSTRUMENTAL](https://m.youtube.com/watch?v=IUgVg9NCygE) | [alt](https://www.youtube.com/watch?v=0I6LWj9fn6g) |
+| 17 | Inferno | ✅ [Ken Carson - INFERNO (Official Instrumental)](https://www.youtube.com/watch?v=dF0C8MF-ISE) | [alt](https://www.youtube.com/watch?v=rtijCr0EszU) |
+| 18 | Thx | ✅ [Ken Carson - THX (Official Instrumental)](https://www.youtube.com/watch?v=8rNImGH84y0) | [alt](https://www.youtube.com/watch?v=zmSl5xxsu-c) |
 
 ### xperiment (2026)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | wheredoistart | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+wheredoistart+instrumental) |  |
-| 2 | deaf note | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+deaf+note+instrumental) |  |
-| 3 | shadeson | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+shadeson+instrumental) |  |
-| 4 | gynecologist | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+gynecologist+instrumental) |  |
-| 5 | wrist | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+wrist+instrumental) |  |
-| 6 | edm | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+edm+instrumental) |  |
-| 7 | truth | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+truth+instrumental) |  |
-| 8 | outofmybody | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+outofmybody+instrumental) |  |
-| 9 | the ritual | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+the+ritual+instrumental) |  |
-| 10 | interlude | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+interlude+instrumental) |  |
-| 11 | ghost | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+ghost+instrumental) |  |
-| 12 | drug kit | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+drug+kit+instrumental) |  |
-| 13 | possession | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+possession+instrumental) |  |
-| 14 | fw00 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+fw00+instrumental) |  |
-| 15 | somanybags | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+somanybags+instrumental) |  |
-| 16 | shopping | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+shopping+instrumental) |  |
-| 17 | amandabynes | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+amandabynes+instrumental) |  |
-| 18 | amnesia | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+amnesia+instrumental) |  |
-| 19 | flamethrower | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+flamethrower+instrumental) |  |
-| 20 | knocking | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+knocking+instrumental) |  |
-| 21 | addiction | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+addiction+instrumental) |  |
-| 22 | wedidit | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+wedidit+instrumental) |  |
+| 1 | wheredoistart | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+wheredoistart+instrumental) (none found) |  |
+| 2 | deaf note | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+deaf+note+instrumental) (none found) |  |
+| 3 | shadeson | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+shadeson+instrumental) (none found) |  |
+| 4 | gynecologist | ✅ [Ken Carson - gynecologist (Instrumental)](https://www.youtube.com/watch?v=ukg5tK4r5AI) | [search](https://www.youtube.com/results?search_query=Ken+Carson+gynecologist+instrumental) |
+| 5 | wrist | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+wrist+instrumental) (none found) |  |
+| 6 | edm | ✅ [Ken Carson - EDM INSTRUMENTAL \| Xperiment](https://www.youtube.com/watch?v=XXJxMFhLHoI) | [search](https://www.youtube.com/results?search_query=Ken+Carson+edm+instrumental) |
+| 7 | truth | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+truth+instrumental) (none found) |  |
+| 8 | outofmybody | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+outofmybody+instrumental) (none found) |  |
+| 9 | the ritual | ✅ [Ken Carson - the ritual (Instrumental)](https://www.youtube.com/watch?v=ukC7KIsSvDY) | [search](https://www.youtube.com/results?search_query=Ken+Carson+the+ritual+instrumental) |
+| 10 | interlude | ✅ [Ken Carson - interlude (Instrumental)](https://www.youtube.com/watch?v=ifgBLswY0cg) | [search](https://www.youtube.com/results?search_query=Ken+Carson+interlude+instrumental) |
+| 11 | ghost | ✅ [(Instrumental) Ken Carson ft. Lil Uzi Vert - ghost (Official Instrumental)](https://www.youtube.com/watch?v=kS919j7jrh0) | [alt](https://www.youtube.com/watch?v=e0Mg9NGt3PM) |
+| 12 | drug kit | ✅ [Ken Carson, Young Thug - drug kit (Instrumental)](https://www.youtube.com/watch?v=i7-Rkh8UreU) | [alt](https://www.youtube.com/watch?v=TPCnTTi1VZI) |
+| 13 | possession | ✅ [Ken Carson - possession (Instrumental)](https://www.youtube.com/watch?v=mJt-DjiKeGg) | [search](https://www.youtube.com/results?search_query=Ken+Carson+possession+instrumental) |
+| 14 | fw00 | ✅ [Ken Carson - fw00 (Instrumental) \[from xperiment\]](https://www.youtube.com/watch?v=z1XrGxjmUCA) | [search](https://www.youtube.com/results?search_query=Ken+Carson+fw00+instrumental) |
+| 15 | somanybags | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+somanybags+instrumental) (none found) |  |
+| 16 | shopping | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+shopping+instrumental) (none found) |  |
+| 17 | amandabynes | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+amandabynes+instrumental) (none found) |  |
+| 18 | amnesia | ✅ [Ken Carson - amnesia (Instrumental)](https://www.youtube.com/watch?v=uWR9Rps6k3g) | [search](https://www.youtube.com/results?search_query=Ken+Carson+amnesia+instrumental) |
+| 19 | flamethrower | ✅ [Ken Carson - flamethrower (Instrumental)](https://www.youtube.com/watch?v=JSSgJM_QACU) | [search](https://www.youtube.com/results?search_query=Ken+Carson+flamethrower+instrumental) |
+| 20 | knocking | ✅ [Ken Carson - knocking (Instrumental)](https://www.youtube.com/watch?v=DAvq5nhevbA) | [search](https://www.youtube.com/results?search_query=Ken+Carson+knocking+instrumental) |
+| 21 | addiction | ✅ [Ken Carson - addiction (Instrumental)](https://www.youtube.com/watch?v=O08SKeV91P4) | [search](https://www.youtube.com/results?search_query=Ken+Carson+addiction+instrumental) |
+| 22 | wedidit | ✅ [Ken Carson, Playboi Carti - wedidit (Instrumental) \[from xperiment\]](https://www.youtube.com/watch?v=2St4C9rxRss) | [search](https://www.youtube.com/results?search_query=Ken+Carson+wedidit+instrumental) |
 
 ### cartunez (2026)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Scrape | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Scrape+instrumental) |  |
-| 2 | Swag Jack | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Swag+Jack+instrumental) |  |
-| 3 | Off a Bean | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Off+a+Bean+instrumental) |  |
-| 4 | Rare Creature | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Rare+Creature+instrumental) |  |
-| 5 | 50K | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+50K+instrumental) |  |
-| 6 | Roxy Reynolds | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Roxy+Reynolds+instrumental) |  |
-| 7 | 005 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+005+instrumental) |  |
-| 8 | Eaters | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Eaters+instrumental) |  |
-| 9 | 9 Bitches | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+9+Bitches+instrumental) |  |
-| 10 | Vamp City | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Vamp+City+instrumental) |  |
-| 11 | Fake News | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Fake+News+instrumental) |  |
-| 12 | Disturbing the Peace | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Disturbing+the+Peace+instrumental) |  |
-| 13 | Yvngvmp | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Yvngvmp+instrumental) |  |
+| 1 | Scrape | ✅ [Ken Carson - scrape \[INSTRUMENTAL\] \| From : Cartunez](https://www.youtube.com/watch?v=5KZ4A4ggIGg) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Scrape+instrumental) |
+| 2 | Swag Jack | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Ken+Carson+Swag+Jack+instrumental) (none found) |  |
+| 3 | Off a Bean | ✅ [Ken Carson - off a bean (Instrumental)](https://www.youtube.com/watch?v=RY9jgTCdzCs) | [alt](https://www.youtube.com/watch?v=WNiHJfBegmQ) |
+| 4 | Rare Creature | ✅ [Ken Carson - rare creature (Instrumental)](https://www.youtube.com/watch?v=hnpP1xqpS-Q) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Rare+Creature+instrumental) |
+| 5 | 50K | ✅ [Ken Carson — 50k (Instrumental)](https://www.youtube.com/watch?v=NBgNj8Q_urQ) | [alt](https://www.youtube.com/watch?v=RuxuHjfAjzA) |
+| 6 | Roxy Reynolds | ✅ [Ken Carson — roxy reynolds (feat. Destroy Lonely) (Instrumental)](https://www.youtube.com/watch?v=QIMx5qKdC3w) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Roxy+Reynolds+instrumental) |
+| 7 | 005 | ✅ [Ken Carson - 005 (Instrumental)](https://www.youtube.com/watch?v=cqIshJ2mCfE) | [search](https://www.youtube.com/results?search_query=Ken+Carson+005+instrumental) |
+| 8 | Eaters | ✅ [Ken Carson - eaters (Instrumental)](https://www.youtube.com/watch?v=m9NhTDkBSiU) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Eaters+instrumental) |
+| 9 | 9 Bitches | ✅ [(Instrumental) Ken Carson ft. ApolloRed1 - 9 bitches (Official Instrumental)](https://www.youtube.com/watch?v=Jj4sa8zeo9I) | [alt](https://www.youtube.com/watch?v=KrmZ1xlWZvY) |
+| 10 | Vamp City | ✅ [Ken Carson, OsamaSon - vamp city (Instrumental)](https://www.youtube.com/watch?v=vMFbWgy5HTM) | [alt](https://m.youtube.com/watch?v=oQQJD6dgFH4) |
+| 11 | Fake News | ✅ [Ken Carson - fake news \[INSTRUMENTAL\] \| From : Cartunez](https://www.youtube.com/watch?v=E7EqzEKAgpA) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Fake+News+instrumental) |
+| 12 | Disturbing the Peace | ✅ [Ken Carson - disturbing the peace (Instrumental)](https://www.youtube.com/watch?v=-9wW8GD7lFU) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Disturbing+the+Peace+instrumental) |
+| 13 | Yvngvmp | ✅ [Ken Carson - yvngvmp (Instrumental)](https://www.youtube.com/watch?v=XGtHfbeZNyQ) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Yvngvmp+instrumental) |
 
 ## Destroy Lonely
 
@@ -494,104 +494,104 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | JETLGGD | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+JETLGGD+instrumental) |  |
-| 2 | BERGDORF | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+BERGDORF+instrumental) |  |
-| 3 | <3MYGNG | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+%3C3MYGNG+instrumental) |  |
-| 4 | VTMNTSCOAT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+VTMNTSCOAT+instrumental) |  |
-| 5 | NOSTYLIST | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+NOSTYLIST+instrumental) |  |
-| 6 | FAKENGGAS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+FAKENGGAS+instrumental) |  |
-| 7 | SOARIN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SOARIN+instrumental) |  |
-| 8 | TURNINUP | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+TURNINUP+instrumental) |  |
-| 9 | LNLY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+LNLY+instrumental) |  |
-| 10 | PRSSURE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+PRSSURE+instrumental) |  |
-| 11 | ONTHETABLE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+ONTHETABLE+instrumental) |  |
-| 12 | SWGSKOOL | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SWGSKOOL+instrumental) |  |
-| 13 | CRYSTLCSTLES | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+CRYSTLCSTLES+instrumental) |  |
-| 14 | DANGEROUS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+DANGEROUS+instrumental) |  |
-| 15 | MKEITSTOP | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+MKEITSTOP+instrumental) |  |
-| 16 | ONTHEFLOOR | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+ONTHEFLOOR+instrumental) |  |
-| 17 | PASSAROUND | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+PASSAROUND+instrumental) |  |
-| 18 | OTW | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+OTW+instrumental) |  |
-| 19 | VETERAN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+VETERAN+instrumental) |  |
+| 1 | JETLGGD | ✅ [Destroy Lonely - JETLGGD (Official Instrumental)](https://www.youtube.com/watch?v=rRVGoXC3bgw) | [alt](https://www.youtube.com/watch?v=piATAu-ukfo) |
+| 2 | BERGDORF | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+BERGDORF+instrumental) (none found) |  |
+| 3 | <3MYGNG | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+%3C3MYGNG+instrumental) (none found) |  |
+| 4 | VTMNTSCOAT | ✅ [Destroy Lonely - VTMNTSCOAT (Instrumental)](https://www.youtube.com/watch?v=P_o8sRlMTOg) | [alt](https://www.youtube.com/watch?v=4mnPVsMuNdw) |
+| 5 | NOSTYLIST | ✅ [Destroy Lonely - NOSTYLIST (Instrumental)](https://www.youtube.com/watch?v=b0T8ToZxnzQ) | [alt](https://www.youtube.com/watch?v=cWz5zZwF0iw) |
+| 6 | FAKENGGAS | ✅ [Destroy Lonely - FAKENGGAS (Instrumental)](https://www.youtube.com/watch?v=YVhxYegG11o) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+FAKENGGAS+instrumental) |
+| 7 | SOARIN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SOARIN+instrumental) (none found) |  |
+| 8 | TURNINUP | ✅ [Destroy Lonely - TURNINUP (Official Instrumental)](https://www.youtube.com/watch?v=vNxqMI1VEhQ) | [alt](https://www.youtube.com/watch?v=uFvQlXF5JoM) |
+| 9 | LNLY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+LNLY+instrumental) (none found) |  |
+| 10 | PRSSURE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+PRSSURE+instrumental) (none found) |  |
+| 11 | ONTHETABLE | ✅ [Destroy Lonely - ONTHETABLE INSTRUMENTAL (prod. Clayco, ProllyIan)](https://www.youtube.com/watch?v=S5mLEvtW8v0) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+ONTHETABLE+instrumental) |
+| 12 | SWGSKOOL | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SWGSKOOL+instrumental) (none found) |  |
+| 13 | CRYSTLCSTLES | ✅ [Destroy Lonely - CRYSTLCSTLES Instrumental](https://www.youtube.com/watch?v=XP6mzMol7gE) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+CRYSTLCSTLES+instrumental) |
+| 14 | DANGEROUS | ✅ [Destroy Lonely - DANGEROUS INSTRUMENTAL (prod. xdkole)](https://www.youtube.com/watch?v=WHX9VIziKco) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+DANGEROUS+instrumental) |
+| 15 | MKEITSTOP | ✅ [Destroy Lonely - MKEITSTOP (INSTRUMENTAL)](https://www.youtube.com/watch?v=HBzEBx7T3NY) | [alt](https://www.youtube.com/watch?v=d_90r91JZIs) |
+| 16 | ONTHEFLOOR | ✅ [Destroy Lonely - ONTHEFLOOR INSTRUMENTAL](https://www.youtube.com/watch?v=dnPqW6WbELk) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+ONTHEFLOOR+instrumental) |
+| 17 | PASSAROUND | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+PASSAROUND+instrumental) (none found) |  |
+| 18 | OTW | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+OTW+instrumental) (none found) |  |
+| 19 | VETERAN | ✅ [Destroy Lonely - Veteran (Instrumental)](https://www.youtube.com/watch?v=EgEZfWfrzJY) | [alt](https://www.youtube.com/watch?v=Kb7KqJ_Kc4A) |
 
 ### If Looks Could Kill (2023)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | how u feel? | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+how+u+feel%3F+instrumental) |  |
-| 2 | if looks could kill | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+if+looks+could+kill+instrumental) |  |
-| 3 | fly sht | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+fly+sht+instrumental) |  |
-| 4 | which one | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+which+one+instrumental) |  |
-| 5 | raver | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+raver+instrumental) |  |
-| 6 | came in wit | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+came+in+wit+instrumental) |  |
-| 7 | by the pound | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+by+the+pound+instrumental) |  |
-| 8 | all the time | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+all+the+time+instrumental) |  |
-| 9 | biggest problem | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+biggest+problem+instrumental) |  |
-| 10 | chris paul | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+chris+paul+instrumental) |  |
-| 11 | superstar | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+superstar+instrumental) |  |
-| 12 | new new | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+new+new+instrumental) |  |
-| 13 | right now | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+right+now+instrumental) |  |
-| 14 | which way | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+which+way+instrumental) |  |
-| 15 | wagwan | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+wagwan+instrumental) |  |
-| 16 | moment of silence | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+moment+of+silence+instrumental) |  |
-| 17 | brazy girls | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+brazy+girls+instrumental) |  |
-| 18 | goin up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+goin+up+instrumental) |  |
-| 19 | passenger | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+passenger+instrumental) |  |
-| 20 | promo | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+promo+instrumental) |  |
-| 21 | worth it | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+worth+it+instrumental) |  |
-| 22 | redlight | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+redlight+instrumental) |  |
-| 23 | make sum work | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+make+sum+work+instrumental) |  |
-| 24 | safety (interlude) | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+safety+%28interlude%29+instrumental) |  |
-| 25 | your eyes | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+your+eyes+instrumental) |  |
-| 26 | money & sex | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+money+%26+sex+instrumental) |  |
+| 1 | how u feel? | ✅ [Destroy Lonely - how u feel? (Instrumental)](https://www.youtube.com/watch?v=xh1u0FkPK5w) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+how+u+feel%3F+instrumental) |
+| 2 | if looks could kill | ✅ [Destroy Lonely - If Looks Could Kill (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=1AZXSnXmbjM) | [alt](https://www.youtube.com/watch?v=NuXCMROoonQ) |
+| 3 | fly sht | ✅ [Destroy Lonely - fly sht (Instrumental) OFFICIAL](https://www.youtube.com/watch?v=yA9QuVsDy9k) | [alt](https://www.youtube.com/watch?v=fCtJS-LtLys) |
+| 4 | which one | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+which+one+instrumental) (none found) |  |
+| 5 | raver | ✅ [Raver (Instrumental) - Destroy Lonely (prod. Clayco, 1Velveteen & xdkole)](https://www.youtube.com/watch?v=_gWI5VIDkfY) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+raver+instrumental) |
+| 6 | came in wit | ✅ [Destroy Lonely - came in wit (Instrumental)](https://www.youtube.com/watch?v=C1TeKNWJrvU) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+came+in+wit+instrumental) |
+| 7 | by the pound | ✅ [destroy lonely - by the pound instrumental](https://www.youtube.com/watch?v=VyMJ4Vcq4fg) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+by+the+pound+instrumental) |
+| 8 | all the time | ✅ [Destroy Lonely - all the time (Official Instrumental)](https://www.youtube.com/watch?v=4OA8Cx2fkrs) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+all+the+time+instrumental) |
+| 9 | biggest problem | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+biggest+problem+instrumental) (none found) |  |
+| 10 | chris paul | ✅ [Destroy Lonely - chris paul (Instrumental)](https://www.youtube.com/watch?v=Z8sh6dB2fBk) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+chris+paul+instrumental) |
+| 11 | superstar | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+superstar+instrumental) (none found) |  |
+| 12 | new new | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+new+new+instrumental) (none found) |  |
+| 13 | right now | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+right+now+instrumental) (none found) |  |
+| 14 | which way | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+which+way+instrumental) (none found) |  |
+| 15 | wagwan | ✅ [(NO BS) Destroy Lonely - Wagwan (OFFICIAL INSTRUMENTAL)](https://m.youtube.com/watch?v=Vi8CtP9NqmU) | [alt](https://m.youtube.com/watch?v=ch1KsHDRIEc) |
+| 16 | moment of silence | ✅ [destroy lonely - moment of silence / ain't free ( remaster & instrumental )](https://www.youtube.com/watch?v=v6Xu5AxiRK8) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+moment+of+silence+instrumental) |
+| 17 | brazy girls | ✅ [*INSTRUMENTAL* Destroy Lonely - brazy girls](https://www.youtube.com/watch?v=Qt7dT8dmO3c) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+brazy+girls+instrumental) |
+| 18 | goin up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+goin+up+instrumental) (none found) |  |
+| 19 | passenger | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+passenger+instrumental) (none found) |  |
+| 20 | promo | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+promo+instrumental) (none found) |  |
+| 21 | worth it | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+worth+it+instrumental) (none found) |  |
+| 22 | redlight | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+redlight+instrumental) (none found) |  |
+| 23 | make sum work | ✅ [Make Sum Work (Instrumental) - Destroy Lonely (prod. Clayco)](https://www.youtube.com/watch?v=IS457JvtFl4) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+make+sum+work+instrumental) |
+| 24 | safety (interlude) | ✅ [Destroy Lonely - safety (Instrumental)](https://www.youtube.com/watch?v=Hb65jcESLRg) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+safety+%28interlude%29+instrumental) |
+| 25 | your eyes | ✅ [Destroy Lonely - your eyes (Instrumental)](https://www.youtube.com/watch?v=7I4THjZzQ8Q) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+your+eyes+instrumental) |
+| 26 | money & sex | ✅ [Destroy Lonely & Ken Carson - money & sex (official instrumental) prod. @ssort + Lucian](https://www.youtube.com/watch?v=wo0kFORRNNU) | [alt](https://www.youtube.com/watch?v=i4XjbzmLBFo) |
 
 ### LOVE LASTS FOREVER (2024)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | FOREVER | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+FOREVER+instrumental) |  |
-| 2 | LOVE HURTS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+LOVE+HURTS+instrumental) |  |
-| 3 | LUV4YA | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+LUV4YA+instrumental) |  |
-| 4 | CRYSTAL CLEAR | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+CRYSTAL+CLEAR+instrumental) |  |
-| 5 | BANGAZ | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+BANGAZ+instrumental) |  |
-| 6 | BABY MONEY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+BABY+MONEY+instrumental) |  |
-| 7 | SAY THAT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SAY+THAT+instrumental) |  |
-| 8 | PIMP TALK | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+PIMP+TALK+instrumental) |  |
-| 9 | CADILLAC | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+CADILLAC+instrumental) |  |
-| 10 | SYRUP SIPPIN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SYRUP+SIPPIN+instrumental) |  |
-| 11 | LOCK IN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+LOCK+IN+instrumental) |  |
-| 12 | DOUBT IT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+DOUBT+IT+instrumental) |  |
-| 13 | WISH YOU WELL | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+WISH+YOU+WELL+instrumental) |  |
-| 14 | SHIP HER OFF | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+SHIP+HER+OFF+instrumental) |  |
-| 15 | HONESTLY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+HONESTLY+instrumental) |  |
-| 16 | TAKE A TRIP | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+TAKE+A+TRIP+instrumental) |  |
-| 17 | EXTRA HIGH | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+EXTRA+HIGH+instrumental) |  |
-| 18 | AMERIKA | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+AMERIKA+instrumental) |  |
-| 19 | ABOUT MONEY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+ABOUT+MONEY+instrumental) |  |
-| 20 | NO WORRIES | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+NO+WORRIES+instrumental) |  |
+| 1 | FOREVER | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+FOREVER+instrumental) |
+| 2 | LOVE HURTS | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+LOVE+HURTS+instrumental) |
+| 3 | LUV4YA | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+LUV4YA+instrumental) |
+| 4 | CRYSTAL CLEAR | ✅ [Destroy Lonely Crystal Clear Instrumental](https://www.youtube.com/watch?v=j2iDXtGaaJc) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+CRYSTAL+CLEAR+instrumental) |
+| 5 | BANGAZ | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+BANGAZ+instrumental) (none found) |  |
+| 6 | BABY MONEY | ✅ [Destroy Lonely - Baby Money INSTRUMENTAL](https://www.youtube.com/watch?v=Fc8iKUYxQIo) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+BABY+MONEY+instrumental) |
+| 7 | SAY THAT | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+SAY+THAT+instrumental) |
+| 8 | PIMP TALK | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+PIMP+TALK+instrumental) |
+| 9 | CADILLAC | ✅ [Destroy Lonely - Cadillac INSTRUMENTAL](https://www.youtube.com/watch?v=S0EA7IddS84) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+CADILLAC+instrumental) |
+| 10 | SYRUP SIPPIN | ✅ [Destroy Lonely - Syrup Sippin INSTRUMENTAL](https://www.youtube.com/watch?v=vU5C83Of87c) | [alt](https://www.youtube.com/watch?v=eHUJzsCAo7M) |
+| 11 | LOCK IN | ✅ [Destroy Lonely Lock In Instrumental](https://www.youtube.com/watch?v=rCZ0kAYQTb0) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+LOCK+IN+instrumental) |
+| 12 | DOUBT IT | ✅ [Destroy Lonely Doubt It Instrumental](https://www.youtube.com/watch?v=-EAKCqEiys4) | [alt](https://m.youtube.com/watch?v=2MTxiMje_XE) |
+| 13 | WISH YOU WELL | ✅ [Destroy Lonely - WISH YOU WELL (INSTRUMENTAL)](https://www.youtube.com/watch?v=fPYWLjfKL2I) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+WISH+YOU+WELL+instrumental) |
+| 14 | SHIP HER OFF | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+SHIP+HER+OFF+instrumental) |
+| 15 | HONESTLY | ✅ [Honestly (Instrumental) - Destroy Lonely (prod. Lil 88, D. Rich & Chris XZ)](https://www.youtube.com/watch?v=FR0LQn_XQdE) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+HONESTLY+instrumental) |
+| 16 | TAKE A TRIP | ✅ [Destroy Lonely - TAKE A TRIP (INSTRUMENTAL)](https://www.youtube.com/watch?v=NVvjicSi-C4) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+TAKE+A+TRIP+instrumental) |
+| 17 | EXTRA HIGH | ✅ [Destroy Lonely - EXTRA HIGH (INSTRUMENTAL)](https://www.youtube.com/watch?v=WF3TzjIH3zg) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+EXTRA+HIGH+instrumental) |
+| 18 | AMERIKA | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+AMERIKA+instrumental) |
+| 19 | ABOUT MONEY | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+ABOUT+MONEY+instrumental) |
+| 20 | NO WORRIES | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+NO+WORRIES+instrumental) |
 
 ### </3³ (2025)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | aint hard | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+aint+hard+instrumental) |  |
-| 2 | risk | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+risk+instrumental) |  |
-| 3 | see no evil | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+see+no+evil+instrumental) |  |
-| 4 | no pressure | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+no+pressure+instrumental) |  |
-| 5 | stfu | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+stfu+instrumental) |  |
-| 6 | show u how | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+show+u+how+instrumental) |  |
-| 7 | top flo | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+top+flo+instrumental) |  |
-| 8 | kansas | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+kansas+instrumental) |  |
-| 9 | screwed up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+screwed+up+instrumental) |  |
-| 10 | party n get high (interlude) | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+party+n+get+high+%28interlude%29+instrumental) |  |
-| 11 | leash | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+leash+instrumental) |  |
-| 12 | jumanji | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+jumanji+instrumental) |  |
-| 13 | not the mayor | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+not+the+mayor+instrumental) |  |
-| 14 | blowin smoke | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+blowin+smoke+instrumental) |  |
-| 15 | kool on ya | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+kool+on+ya+instrumental) |  |
-| 16 | soooo high | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+soooo+high+instrumental) |  |
-| 17 | open it up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+open+it+up+instrumental) |  |
-| 18 | leave u out 2 dry | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+leave+u+out+2+dry+instrumental) |  |
+| 1 | aint hard | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+aint+hard+instrumental) (none found) |  |
+| 2 | risk | ✅ [Destroy Lonely - risk (Instrumental)](https://www.youtube.com/watch?v=gbS0d37-tyk) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+risk+instrumental) |
+| 3 | see no evil | ✅ [Destroy Lonely - see no evil (Instrumental)](https://www.youtube.com/watch?v=RhTzTPwdXMI) | [alt](https://www.youtube.com/watch?v=XBVES68Phd0) |
+| 4 | no pressure | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+no+pressure+instrumental) (none found) |  |
+| 5 | stfu | ✅ [Destroy Lonely - stfu - Instrumental (90% Accurate)](https://www.youtube.com/watch?v=g0bU0v66kss) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+stfu+instrumental) |
+| 6 | show u how | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+show+u+how+instrumental) (none found) |  |
+| 7 | top flo | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+top+flo+instrumental) (none found) |  |
+| 8 | kansas | ✅ [Destroy Lonely - kansas (Instrumental)](https://www.youtube.com/watch?v=U-3MqIB-2K0) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+kansas+instrumental) |
+| 9 | screwed up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+screwed+up+instrumental) (none found) |  |
+| 10 | party n get high (interlude) | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+party+n+get+high+%28interlude%29+instrumental) (none found) |  |
+| 11 | leash | ✅ [Destroy Lonely - leash (Instrumental)](https://www.youtube.com/watch?v=QgAOcO_3AsA) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+leash+instrumental) |
+| 12 | jumanji | ✅ [DESTROY LONELY - JUMANJI (INSTRUMENTAL REMAKE) + FLP](https://www.youtube.com/watch?v=lWJ3ruVLUkw) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+jumanji+instrumental) |
+| 13 | not the mayor | ✅ [Destroy Lonely - Not The Mayor (Instrumental)](https://www.youtube.com/watch?v=2I-a4RiClAM) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+not+the+mayor+instrumental) |
+| 14 | blowin smoke | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+blowin+smoke+instrumental) (none found) |  |
+| 15 | kool on ya | ✅ [Destroy Lonely - kool on ya (Instrumental)](https://www.youtube.com/watch?v=yG7RieMy-GY) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+kool+on+ya+instrumental) |
+| 16 | soooo high | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+soooo+high+instrumental) (none found) |  |
+| 17 | open it up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+open+it+up+instrumental) (none found) |  |
+| 18 | leave u out 2 dry | ✅ [Destroy Lonely - leave u out 2 dry (Instrumental)](https://www.youtube.com/watch?v=OeSnUK7mkco) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+leave+u+out+2+dry+instrumental) |
 
 ## Homixide Gang
 
@@ -600,24 +600,24 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Lifestyle | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Lifestyle+instrumental) |  |
-| 2 | Guitars | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Guitars+instrumental) |  |
-| 3 | Can't Go | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Can%27t+Go+instrumental) |  |
-| 4 | Tatted | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Tatted+instrumental) |  |
-| 5 | 5 Ways | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+5+Ways+instrumental) |  |
-| 6 | V-Friends | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+V-Friends+instrumental) |  |
-| 7 | BB | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+BB+instrumental) |  |
-| 8 | Lif3 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Lif3+instrumental) |  |
-| 9 | TF! | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+TF%21+instrumental) |  |
-| 10 | Notice It | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Notice+It+instrumental) |  |
-| 11 | None 2 Some | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+None+2+Some+instrumental) |  |
-| 12 | Scale Stretcher | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Scale+Stretcher+instrumental) |  |
-| 13 | Tripping | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Tripping+instrumental) |  |
-| 14 | Stunt | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Stunt+instrumental) |  |
-| 15 | Drakon | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Drakon+instrumental) |  |
-| 16 | CV | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+CV+instrumental) |  |
-| 17 | Wings | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Wings+instrumental) |  |
-| 18 | Shots Off | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Shots+Off+instrumental) |  |
+| 1 | Lifestyle | ✅ [Homixide Gang - Lifestyle (Instrumental) \[prod. Sanikwave\]](https://www.youtube.com/watch?v=xIJVpRWwVZQ) | [alt](https://www.youtube.com/watch?v=fAfBFSDBWvs) |
+| 2 | Guitars | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Guitars+instrumental) (none found) |  |
+| 3 | Can't Go | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Can%27t+Go+instrumental) (none found) |  |
+| 4 | Tatted | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Tatted+instrumental) (none found) |  |
+| 5 | 5 Ways | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+5+Ways+instrumental) (none found) |  |
+| 6 | V-Friends | ✅ [Homixide Gang - V-Friends (INSTRUMENTAL)](https://www.youtube.com/watch?v=tT8sRR_2xzs) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+V-Friends+instrumental) |
+| 7 | BB | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+BB+instrumental) (none found) |  |
+| 8 | Lif3 | ✅ [Homixide Gang - Lif3 (instrumental remake)](https://www.youtube.com/watch?v=PHSA6S9D9aM) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Lif3+instrumental) |
+| 9 | TF! | ✅ [Homixide Gang - TF Instrumental remake (@prod.mayday)](https://www.youtube.com/watch?v=al7J0QVPBJI) | [alt](https://www.youtube.com/watch?v=i1SdGh6dySU) |
+| 10 | Notice It | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Notice+It+instrumental) (none found) |  |
+| 11 | None 2 Some | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+None+2+Some+instrumental) (none found) |  |
+| 12 | Scale Stretcher | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Scale+Stretcher+instrumental) (none found) |  |
+| 13 | Tripping | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Tripping+instrumental) (none found) |  |
+| 14 | Stunt | ✅ [Stunt (Instrumental) - Homixide Gang ft. Ken Carson (prod. Lil88)](https://www.youtube.com/watch?v=hp7clWuHI24) | [alt](https://m.youtube.com/watch?v=S0NNiP99qAs) |
+| 15 | Drakon | ✅ [Homixide Gang - Drakon (Instrumental)](https://www.youtube.com/watch?v=7Gf8it_6lso) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Drakon+instrumental) |
+| 16 | CV | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+CV+instrumental) (none found) |  |
+| 17 | Wings | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Wings+instrumental) (none found) |  |
+| 18 | Shots Off | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Shots+Off+instrumental) (none found) |  |
 
 ### Snot or Not (2023)
 
@@ -625,18 +625,18 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | ADHD | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+ADHD+instrumental) |  |
-| 2 | Homixide Language | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Homixide+Language+instrumental) |  |
-| 3 | 5!RE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+5%21RE+instrumental) |  |
-| 4 | Wants & Needs | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Wants+%26+Needs+instrumental) |  |
-| 5 | TNT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+TNT+instrumental) |  |
-| 6 | C4N | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+C4N+instrumental) |  |
-| 7 | Snot Sh!t | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Snot+Sh%21t+instrumental) |  |
-| 8 | Dive In | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Dive+In+instrumental) |  |
-| 9 | Uzi Work | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Uzi+Work+instrumental) |  |
-| 10 | 2 da Face | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+2+da+Face+instrumental) |  |
-| 11 | Block Work | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Block+Work+instrumental) |  |
-| 12 | Flights Booked | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Flights+Booked+instrumental) |  |
+| 1 | ADHD | ✅ [Homixide Gang - ADHD (Instrumental)](https://www.youtube.com/watch?v=k5Ov_TtKFz8) | [alt](https://www.youtube.com/watch?v=bvq0gTJxKBw) |
+| 2 | Homixide Language | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Homixide+Language+instrumental) |
+| 3 | 5!RE | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+5%21RE+instrumental) |
+| 4 | Wants & Needs | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Wants+%26+Needs+instrumental) |
+| 5 | TNT | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+TNT+instrumental) |
+| 6 | C4N | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+C4N+instrumental) |
+| 7 | Snot Sh!t | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Snot+Sh%21t+instrumental) |
+| 8 | Dive In | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Dive+In+instrumental) |
+| 9 | Uzi Work | ✅ [Homixide Gang - Uzi Work (Instrumental)](https://www.youtube.com/watch?v=u-UIz5_SUfk) | [alt](https://www.youtube.com/watch?v=Z13ZIKTUG2M) |
+| 10 | 2 da Face | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+2+da+Face+instrumental) |
+| 11 | Block Work | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Block+Work+instrumental) |
+| 12 | Flights Booked | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL368vyxpC_h2M4X28HnBvUcOgDBl4Gn26) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Flights+Booked+instrumental) |
 
 ### 5TH AMNDMNT (2023)
 
@@ -644,74 +644,74 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Gunz in SOHO | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Gunz+in+SOHO+instrumental) |  |
-| 2 | LexLuger | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+LexLuger+instrumental) |  |
-| 3 | B5 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+B5+instrumental) |  |
-| 4 | NiNO 5ROWN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+NiNO+5ROWN+instrumental) |  |
-| 5 | MW5 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+MW5+instrumental) |  |
-| 6 | FroZone | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FroZone+instrumental) |  |
-| 7 | What It Is?! | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+What+It+Is%3F%21+instrumental) |  |
-| 8 | 5onjour | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+5onjour+instrumental) |  |
-| 9 | Hom3 Invasion | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Hom3+Invasion+instrumental) |  |
-| 10 | 5rew | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+5rew+instrumental) |  |
-| 11 | Roundz | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Roundz+instrumental) |  |
-| 12 | DesignerDRÜGZ | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+DesignerDR%C3%9CGZ+instrumental) |  |
-| 13 | Road Rage | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Road+Rage+instrumental) |  |
-| 14 | Left Hand | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Left+Hand+instrumental) |  |
-| 15 | RckstarB!tch | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+RckstarB%21tch+instrumental) |  |
-| 16 | 25/8 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+25%2F8+instrumental) |  |
-| 17 | AddXcts | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+AddXcts+instrumental) |  |
-| 18 | E.U. | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+E.U.+instrumental) |  |
-| 19 | HXG Bizness | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+HXG+Bizness+instrumental) |  |
+| 1 | Gunz in SOHO | ✅ [Homixide Gang - Gunz in SOHO【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=iYN5Y7qE0UQ) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Gunz+in+SOHO+instrumental) |
+| 2 | LexLuger | ✅ [Homixide Gang - LexLuger【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=8GoNLvLfPgI) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+LexLuger+instrumental) |
+| 3 | B5 | ✅ [Homixide Gang - B5 【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=9N9yoT5hS3c) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+B5+instrumental) |
+| 4 | NiNO 5ROWN | ✅ [Nino 5rown (Instrumental) - Homixide Gang (prod. F1LTHY and Rok)](https://www.youtube.com/watch?v=YY6l70HZW3Q) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+NiNO+5ROWN+instrumental) |
+| 5 | MW5 | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+MW5+instrumental) |
+| 6 | FroZone | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+FroZone+instrumental) |
+| 7 | What It Is?! | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+What+It+Is%3F%21+instrumental) |
+| 8 | 5onjour | ✅ [Homixide Gang - 5ONJOUR【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=eo5trslrhYI) | [alt](https://www.youtube.com/watch?v=hwTh1-I-a2Y) |
+| 9 | Hom3 Invasion | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Hom3+Invasion+instrumental) |
+| 10 | 5rew | ✅ [Homixide Gang - 5REW 【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=W6ZNwe9Sz7o) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+5rew+instrumental) |
+| 11 | Roundz | ✅ [Homixide Gang - Roundz【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=XRdY4SZOFqw) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Roundz+instrumental) |
+| 12 | DesignerDRÜGZ | ✅ [Homixide Gang - Designer Drügz【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=sVUlB9J7xh8) | [alt](https://www.youtube.com/watch?v=_Rns2cFOd3A) |
+| 13 | Road Rage | ✅ [Homixide Gang - Road Rage【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=iP53HNmT_HM) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Road+Rage+instrumental) |
+| 14 | Left Hand | ✅ [Homixide Gang - Left Hand (instrumental)](https://www.youtube.com/watch?v=7a3Kq1bm_qU) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Left+Hand+instrumental) |
+| 15 | RckstarB!tch | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+RckstarB%21tch+instrumental) |
+| 16 | 25/8 | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+25%2F8+instrumental) |
+| 17 | AddXcts | ✅ [Homixide Gang - AddXcts【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=vpLhMQxT8tI) | [alt](https://www.youtube.com/watch?v=3K2PH-PK1lI) |
+| 18 | E.U. | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+E.U.+instrumental) |
+| 19 | HXG Bizness | ✅ [Homixide Gang - HXG Bizness【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=GVtatOTxGjA) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+HXG+Bizness+instrumental) |
 
 ### i5u5we5 (2024)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Sharp Sh00ter | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+Sharp+Sh00ter+instrumental) |  |
-| 2 | VersionF!VE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+VersionF%21VE+instrumental) |  |
-| 3 | SIDE EFFExT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SIDE+EFFExT+instrumental) |  |
-| 4 | FA5EBUSTER | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FA5EBUSTER+instrumental) |  |
-| 5 | SRT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SRT+instrumental) |  |
-| 6 | SwanTon BOMB | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SwanTon+BOMB+instrumental) |  |
-| 7 | FiGure5 \[INTERLUDE\] | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FiGure5+%5BINTERLUDE%5D+instrumental) |  |
-| 8 | R50 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+R50+instrumental) |  |
-| 9 | DeathLOK | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+DeathLOK+instrumental) |  |
-| 10 | 2xTREME | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+2xTREME+instrumental) |  |
-| 11 | 00-MEGA | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+00-MEGA+instrumental) |  |
-| 12 | HI-VOLTAGE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+HI-VOLTAGE+instrumental) |  |
-| 13 | SMAKDWN | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SMAKDWN+instrumental) |  |
-| 14 | TABLESandLATTER5 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+TABLESandLATTER5+instrumental) |  |
+| 1 | Sharp Sh00ter | ✅ [Homixide Gang - Sharp Sh00ter (Instrumental)](https://www.youtube.com/watch?v=ftplj_Y2P_s) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Sharp+Sh00ter+instrumental) |
+| 2 | VersionF!VE | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLAzmGZwasJcGNHaWcHXNAel60X3EPjaR0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+VersionF%21VE+instrumental) |
+| 3 | SIDE EFFExT | ✅ [Homixide Gang - SIDE EFFExT (Ft. Lil Yachty) (Instrumental)](https://www.youtube.com/watch?v=xkgh4M_PyOA) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+SIDE+EFFExT+instrumental) |
+| 4 | FA5EBUSTER | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLAzmGZwasJcGNHaWcHXNAel60X3EPjaR0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+FA5EBUSTER+instrumental) |
+| 5 | SRT | ✅ [Homixide Gang - SRT (Instrumental)](https://www.youtube.com/watch?v=e4v68GebwgY) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+SRT+instrumental) |
+| 6 | SwanTon BOMB | ✅ [Homixide Gang - SwanTon BOMB (Instrumental)](https://www.youtube.com/watch?v=tXZr6ptbudw) | [alt](https://www.youtube.com/watch?v=VCgxONEz6WQ) |
+| 7 | FiGure5 \[INTERLUDE\] | ✅ [Homixide Gang - FiGure5 \[INTERLUDE\] (Instrumental)](https://www.youtube.com/watch?v=xJSU_H2sWfU) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+FiGure5+%5BINTERLUDE%5D+instrumental) |
+| 8 | R50 | ✅ [Homixide Gang - R50 (Instrumental)](https://www.youtube.com/watch?v=sir-pbu4rww) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+R50+instrumental) |
+| 9 | DeathLOK | ✅ [Homixide Gang - DeathLOK (instrumental)](https://www.youtube.com/watch?v=rKkKEbgd2v0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+DeathLOK+instrumental) |
+| 10 | 2xTREME | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLAzmGZwasJcGNHaWcHXNAel60X3EPjaR0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+2xTREME+instrumental) |
+| 11 | 00-MEGA | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLAzmGZwasJcGNHaWcHXNAel60X3EPjaR0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+00-MEGA+instrumental) |
+| 12 | HI-VOLTAGE | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLAzmGZwasJcGNHaWcHXNAel60X3EPjaR0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+HI-VOLTAGE+instrumental) |
+| 13 | SMAKDWN | ✅ [Homixide Gang - SMAKDWN (Instrumental)](https://www.youtube.com/watch?v=nI_M-3oTC0w) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+SMAKDWN+instrumental) |
+| 14 | TABLESandLATTER5 | ✅ [TABLESandLATTER5 (Instrumental) - Homixide Gang](https://www.youtube.com/watch?v=0TZ0_k-B5Q0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+TABLESandLATTER5+instrumental) |
 
 ### Homixide Lifestyle 2 (2025)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | PC5 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+PC5+instrumental) |  |
-| 2 | REDRAC | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+REDRAC+instrumental) |  |
-| 3 | 1-800-555-OPIUM | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+1-800-555-OPIUM+instrumental) |  |
-| 4 | CALL ON ME | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+CALL+ON+ME+instrumental) |  |
-| 5 | 5G | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+5G+instrumental) |  |
-| 6 | PB&J | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+PB%26J+instrumental) |  |
-| 7 | SOUL-FLY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SOUL-FLY+instrumental) |  |
-| 8 | VICE CITY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+VICE+CITY+instrumental) |  |
-| 9 | FRANK MATTHEWS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FRANK+MATTHEWS+instrumental) |  |
-| 10 | RED TAILS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+RED+TAILS+instrumental) |  |
-| 11 | VILLAIN! | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+VILLAIN%21+instrumental) |  |
-| 12 | FACETIME | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FACETIME+instrumental) |  |
-| 13 | JOHNNY CAGE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+JOHNNY+CAGE+instrumental) |  |
-| 14 | SOBER | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SOBER+instrumental) |  |
-| 15 | BREEZE | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+BREEZE+instrumental) |  |
-| 16 | WATCH OUT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+WATCH+OUT+instrumental) |  |
-| 17 | GOING ON | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+GOING+ON+instrumental) |  |
-| 18 | HEADTAP! | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+HEADTAP%21+instrumental) |  |
-| 19 | FREE AGENTS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FREE+AGENTS+instrumental) |  |
-| 20 | SHOPPING BAGS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SHOPPING+BAGS+instrumental) |  |
-| 21 | STATE PROPERTY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+STATE+PROPERTY+instrumental) |  |
-| 22 | $$$ PROBLEMS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+%24%24%24+PROBLEMS+instrumental) |  |
-| 23 | NUN 2 IT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+NUN+2+IT+instrumental) |  |
-| 24 | GVNGANATI | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+GVNGANATI+instrumental) |  |
-| 25 | NINTENDO | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+NINTENDO+instrumental) |  |
+| 1 | PC5 | ✅ [(Instrumental) Homixide Gang - PC5 (Official Instrumental)](https://www.youtube.com/watch?v=_RetRRUcJ8I) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+PC5+instrumental) |
+| 2 | REDRAC | ✅ [Redrag (Instrumental) - Homixide Gang (prod. Maaly Raw, Risan & Kat Lightning)](https://www.youtube.com/watch?v=j1mS_EMaT48) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+REDRAC+instrumental) |
+| 3 | 1-800-555-OPIUM | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+1-800-555-OPIUM+instrumental) (none found) |  |
+| 4 | CALL ON ME | ✅ [Homixide Gang - Call On Me (Instrumental)](https://www.youtube.com/watch?v=IkREEGnq9UM) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+CALL+ON+ME+instrumental) |
+| 5 | 5G | ✅ [(Instrumental) Homixide Gang - 5G (Official Instrumental)](https://www.youtube.com/watch?v=LfdtSGX80Xc) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+5G+instrumental) |
+| 6 | PB&J | ✅ [(Instrumental) Homixide Gang ft. Ken Carson - PB&J (Official Instrumental)](https://www.youtube.com/watch?v=RoXngdeRlAU) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+PB%26J+instrumental) |
+| 7 | SOUL-FLY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SOUL-FLY+instrumental) (none found) |  |
+| 8 | VICE CITY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+VICE+CITY+instrumental) (none found) |  |
+| 9 | FRANK MATTHEWS | ✅ [HXG / Homixide Gang - FRANK MATTHEWS (INSTRUMENTAL REPROD)](https://www.youtube.com/watch?v=s4SoCb-gFe0) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+FRANK+MATTHEWS+instrumental) |
+| 10 | RED TAILS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+RED+TAILS+instrumental) (none found) |  |
+| 11 | VILLAIN! | ✅ [Villain (Instrumental) - Homixide Gang](https://www.youtube.com/watch?v=tpDaPCT52zE) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+VILLAIN%21+instrumental) |
+| 12 | FACETIME | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+FACETIME+instrumental) (none found) |  |
+| 13 | JOHNNY CAGE | ✅ [Johnny Cage (Instrumental) - Homixide Gang (prod. ATL Jacob & YP Young Phil)](https://www.youtube.com/watch?v=7-CATJmSnIg) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+JOHNNY+CAGE+instrumental) |
+| 14 | SOBER | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SOBER+instrumental) (none found) |  |
+| 15 | BREEZE | ✅ [Breeze (Instrumental) - Homixide Gang (prod. Lastwordbeats, YP Young Phil, Berge.af & Zay Tekken)](https://www.youtube.com/watch?v=evq_ZX3Lz9o) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+BREEZE+instrumental) |
+| 16 | WATCH OUT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+WATCH+OUT+instrumental) (none found) |  |
+| 17 | GOING ON | ✅ [Going On (Instrumental) - Homixide Gang (prod. Section 8)](https://www.youtube.com/watch?v=cL5OL6x9Y0w) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+GOING+ON+instrumental) |
+| 18 | HEADTAP! | ✅ [Headtap (Instrumental) - Homixide Gang (prod. Section 8, Chris Marek & Fazi)](https://www.youtube.com/watch?v=AKYOY0gmhrk) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+HEADTAP%21+instrumental) |
+| 19 | FREE AGENTS | ✅ [Homixide Gang - Free Agents (Instrumental)](https://www.youtube.com/watch?v=EKTdJP5_9ss) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+FREE+AGENTS+instrumental) |
+| 20 | SHOPPING BAGS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+SHOPPING+BAGS+instrumental) (none found) |  |
+| 21 | STATE PROPERTY | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+STATE+PROPERTY+instrumental) (none found) |  |
+| 22 | $$$ PROBLEMS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+%24%24%24+PROBLEMS+instrumental) (none found) |  |
+| 23 | NUN 2 IT | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+NUN+2+IT+instrumental) (none found) |  |
+| 24 | GVNGANATI | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+GVNGANATI+instrumental) (none found) |  |
+| 25 | NINTENDO | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Homixide+Gang+NINTENDO+instrumental) (none found) |  |
 
 ## Lil Uzi Vert
 
@@ -722,76 +722,76 @@ _Tracklist note: order approx_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Two® | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Two%C2%AE+instrumental) |  |
-| 2 | For Real | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+For+Real+instrumental) |  |
-| 3 | Sauce It Up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Sauce+It+Up+instrumental) |  |
-| 4 | No Sleep Leak | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+No+Sleep+Leak+instrumental) |  |
-| 5 | X | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+X+instrumental) |  |
-| 6 | XO Tour Llif3 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+XO+Tour+Llif3+instrumental) |  |
-| 7 | Neon Guts | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Neon+Guts+instrumental) |  |
-| 8 | Pretty Mami | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Pretty+Mami+instrumental) |  |
-| 9 | Early 20 Rager | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Early+20+Rager+instrumental) |  |
-| 10 | UnFazed | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+UnFazed+instrumental) |  |
-| 11 | Feelings Mutual | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Feelings+Mutual+instrumental) |  |
-| 12 | 444+222 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+444%2B222+instrumental) |  |
-| 13 | The Way Life Goes | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+The+Way+Life+Goes+instrumental) |  |
-| 14 | Dark Queen | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Dark+Queen+instrumental) |  |
-| 15 | How to Talk | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+How+to+Talk+instrumental) |  |
-| 16 | Malfunction | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Malfunction+instrumental) |  |
+| 1 | Two® | ✅ [Lil Uzi Vert -Two Instrumental (Reprod. By Osva J)](https://www.youtube.com/watch?v=GhK4HfmM5-o) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Two%C2%AE+instrumental) |
+| 2 | For Real | ✅ [Luv Is Rage 2 - For Real Instrumental - Lil Uzi Vert - reprod. J.Medina](https://www.youtube.com/watch?v=uVuMSjgi740) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+For+Real+instrumental) |
+| 3 | Sauce It Up | ✅ [Lil Uzi Vert - Sauce It Up (Official Instrumental)](https://www.youtube.com/watch?v=v1Yu0Apqmgw) | [alt](https://www.youtube.com/watch?v=yBS_YeJHeSc) |
+| 4 | No Sleep Leak | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+No+Sleep+Leak+instrumental) (none found) |  |
+| 5 | X | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+X+instrumental) (none found) |  |
+| 6 | XO Tour Llif3 | ✅ [Lil Uzi Vert - XO Tour Lif3 (Official Instrumental)](https://www.youtube.com/watch?v=VQccMIS_tfc) | [alt](https://www.youtube.com/watch?v=yy6NaShtfTc) |
+| 7 | Neon Guts | ✅ [Lil Uzi Vert - Neon Guts (feat. Pharrell Williams) (Instrumental)](https://www.youtube.com/watch?v=sR_7ArYVSEc) | [alt](https://www.youtube.com/watch?v=YoWSZHFH-BU) |
+| 8 | Pretty Mami | ✅ [LIL UZI VERT - Pretty Mami (INSTRUMENTAL) LOVE IS RAGE 2](https://www.youtube.com/watch?v=vA2TUa7Uki8) | [alt](https://www.youtube.com/watch?v=3UYH4n8dhhY) |
+| 9 | Early 20 Rager | ✅ [lil uzi vert - early 20 rager ( instrumental)](https://www.youtube.com/watch?v=mfGvT3EUf_I) | [alt](https://www.youtube.com/watch?v=QBqUzQdybqs) |
+| 10 | UnFazed | ✅ [Lil Uzi Vert – Unfazed Ft The Weeknd (Instrumental)](https://www.youtube.com/watch?v=jiyRaAKETa0) | [alt](https://www.youtube.com/watch?v=PykOW-j5Sgo) |
+| 11 | Feelings Mutual | ✅ [Lil Uzi Vert - Feelings Mutual (Instrumental)](https://www.youtube.com/watch?v=R4jGAe-v3Js) | [alt](https://www.youtube.com/watch?v=NlZRZtMdpSI) |
+| 12 | 444+222 | ✅ [Lil Uzi Vert - 444+222 \[Official Instrumental\]](https://www.youtube.com/watch?v=dstaoXzyjac) | [alt](https://www.youtube.com/watch?v=nBoIzatIDr4) |
+| 13 | The Way Life Goes | ✅ [Lil Uzi Vert - The Way Life Goes \[Instrumental\]](https://www.youtube.com/watch?v=gJScPeAO0D4) | [alt](https://www.youtube.com/watch?v=oZiubEwNMJc) |
+| 14 | Dark Queen | ✅ [Lil Uzi Vert - Dark Queen (Instrumental) Luv Is Rage 2](https://www.youtube.com/watch?v=I8UHtLyTwCA) | [alt](https://www.youtube.com/watch?v=-rJfWLfV0rA) |
+| 15 | How to Talk | ✅ [Lil Uzi Vert - How To Talk Instrumental (Prod. KG YAN$)](https://www.youtube.com/watch?v=A6WVnAnVqao) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+How+to+Talk+instrumental) |
+| 16 | Malfunction | ✅ [Lil Uzi Vert - Malfunction (Instrumental)](https://www.youtube.com/watch?v=ZWL39FV2LRY) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Malfunction+instrumental) |
 
 ### Eternal Atake (2020)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Baby Pluto | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Baby+Pluto+instrumental) |  |
-| 2 | Lo Mein | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Lo+Mein+instrumental) |  |
-| 3 | Silly Watch | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Silly+Watch+instrumental) |  |
-| 4 | POP | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+POP+instrumental) |  |
-| 5 | You Better Move | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+You+Better+Move+instrumental) |  |
-| 6 | Homecoming | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Homecoming+instrumental) |  |
-| 7 | I'm Sorry | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+I%27m+Sorry+instrumental) |  |
-| 8 | Celebration Station | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Celebration+Station+instrumental) |  |
-| 9 | Bigger Than Life | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Bigger+Than+Life+instrumental) |  |
-| 10 | Chrome Heart Tags | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Chrome+Heart+Tags+instrumental) |  |
-| 11 | Bust Me | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Bust+Me+instrumental) |  |
-| 12 | Prices | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Prices+instrumental) |  |
-| 13 | Venetia | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Venetia+instrumental) |  |
-| 14 | Urgency | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Urgency+instrumental) |  |
-| 15 | Secure the Bag | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Secure+the+Bag+instrumental) |  |
-| 16 | P2 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+P2+instrumental) |  |
-| 17 | Futsal Shuffle 2020 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Futsal+Shuffle+2020+instrumental) |  |
-| 18 | That Way | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+That+Way+instrumental) |  |
+| 1 | Baby Pluto | ✅ [Lil Uzi Vert - Baby Pluto (OFFICIAL INSTRUMENTAL)](https://www.youtube.com/watch?v=wQ5qeYg9uQc) | [alt](https://www.youtube.com/watch?v=brCiIZOp3mU) |
+| 2 | Lo Mein | ✅ [Lil Uzi Vert - Lo Mein (Official Instrumental) \| Eternal Atake](https://www.youtube.com/watch?v=WO-3y-jKEr8) | [alt](https://www.youtube.com/watch?v=Di90rfnDtlM) |
+| 3 | Silly Watch | ✅ [Lil Uzi Vert - Silly Watch Official Instrumental](https://www.youtube.com/watch?v=xLq-_ynJ0hY) | [alt](https://www.youtube.com/watch?v=9Ag01d0QFO4) |
+| 4 | POP | ✅ [Lil Uzi Vert - "POP" Official Instrumental Remake](https://www.youtube.com/watch?v=S9SSzRHBkUs) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+POP+instrumental) |
+| 5 | You Better Move | ✅ [Lil Uzi Vert - You Better Move (Official Instrumental)](https://www.youtube.com/watch?v=8NQGYKeGHw0) | [alt](https://www.youtube.com/watch?v=Nl5vHeyeWuE) |
+| 6 | Homecoming | ✅ [Lil Uzi Vert - Homecoming \[OFFICIAL INSTRUMENTAL\]](https://www.youtube.com/watch?v=-U5wE-E_y3Q) | [alt](https://www.youtube.com/watch?v=7sWDDLTPJhM) |
+| 7 | I'm Sorry | ✅ [LIL UZI VERT - I'm Sorry (INSTRUMENTAL)](https://www.youtube.com/watch?v=skF-ZRiOSdw) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+I%27m+Sorry+instrumental) |
+| 8 | Celebration Station | ✅ [Lil Uzi Vert - Celebration Station (Official Instrumental) (Prod By Brandon Finessin & Outtatown)](https://www.youtube.com/watch?v=LT3QA9r4X0Q) | [alt](https://www.youtube.com/watch?v=iue_TLDdoG0) |
+| 9 | Bigger Than Life | ✅ [Lil UZI VERT - Bigger Than Life (Official Instrumental) \[Best on Youtube\]](https://www.youtube.com/watch?v=emF3d-Ln1I4) | [alt](https://www.youtube.com/watch?v=HiMh79y2bj8) |
+| 10 | Chrome Heart Tags | ✅ [Lil Uzi Vert - Chrome Heart Tags (Instrumental)](https://www.youtube.com/watch?v=qP1dBGx3n9s) | [alt](https://www.youtube.com/watch?v=XiRGG4eb9YE) |
+| 11 | Bust Me | ✅ [Lil Uzi Vert - Bust Me (Instrumental) \[Prod. Bugz Ronin\]](https://www.youtube.com/watch?v=rIAAWmE_bzQ) | [alt](https://www.youtube.com/watch?v=d9HRNCJ8zAg) |
+| 12 | Prices | ✅ [Lil Uzi Vert - Prices (Official Instrumental)](https://www.youtube.com/watch?v=UNqmtUq20TY) | [alt](https://www.youtube.com/watch?v=BHCTTif2Qvs) |
+| 13 | Venetia | ✅ [Lil Uzi Vert - Venetia (Instrumental)](https://www.youtube.com/watch?v=xcq3BGtGh1A) | [alt](https://www.youtube.com/watch?v=I6cVpHwnGw0) |
+| 14 | Urgency | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLFycslGCQssh0UdMkFz3TXKXAb8WNJ8Sq) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Urgency+instrumental) |
+| 15 | Secure the Bag | ✅ [Lil Uzi Vert - Secure The Bag \[INSTRUMENTAL\] \| ReProd. by IZM](https://www.youtube.com/watch?v=Tz-ehTfO-Eg) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Secure+the+Bag+instrumental) |
+| 16 | P2 | ✅ [Lil Uzi Vert - P2 Official Instrumental](https://www.youtube.com/watch?v=LE0kUOTtNNg) | [alt](https://www.youtube.com/watch?v=eNYWniwKbTA) |
+| 17 | Futsal Shuffle 2020 | ✅ [Lil Uzi Vert - Futsal Shuffle 2020 \[Official Instrumental\]](https://www.youtube.com/watch?v=9BnHtGLXoXg) | [alt](https://www.youtube.com/watch?v=bLbZTtRGEm4) |
+| 18 | That Way | ✅ [Lil Uzi Vert - That Way (Instrumental)](https://www.youtube.com/watch?v=Chvo3OC5PCk) | [alt](https://www.youtube.com/watch?v=tKmN-H7jH2o) |
 
 ### Pink Tape (2023)
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | Flooded the Face | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Flooded+the+Face+instrumental) |  |
-| 2 | Suicide Doors | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Suicide+Doors+instrumental) |  |
-| 3 | Aye | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Aye+instrumental) |  |
-| 4 | Crush Em | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Crush+Em+instrumental) |  |
-| 5 | Amped | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Amped+instrumental) |  |
-| 6 | x2 | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+x2+instrumental) |  |
-| 7 | Died and Came Back | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Died+and+Came+Back+instrumental) |  |
-| 8 | Spin Again | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Spin+Again+instrumental) |  |
-| 9 | That Fiya | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+That+Fiya+instrumental) |  |
-| 10 | I Gotta | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+I+Gotta+instrumental) |  |
-| 11 | Endless Fashion | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Endless+Fashion+instrumental) |  |
-| 12 | Mama, I'm Sorry | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Mama%2C+I%27m+Sorry+instrumental) |  |
-| 13 | All Alone | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+All+Alone+instrumental) |  |
-| 14 | Nakamura | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Nakamura+instrumental) |  |
-| 15 | Just Wanna Rock | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Just+Wanna+Rock+instrumental) |  |
-| 16 | Fire Alarm | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Fire+Alarm+instrumental) |  |
-| 17 | CS | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+CS+instrumental) |  |
-| 18 | Werewolf | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Werewolf+instrumental) |  |
-| 19 | Pluto to Mars | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Pluto+to+Mars+instrumental) |  |
-| 20 | Confession | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Confession+instrumental) |  |
-| 21 | Days Come and Go | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Days+Come+and+Go+instrumental) |  |
-| 22 | Rehab | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Rehab+instrumental) |  |
-| 23 | The End | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+The+End+instrumental) |  |
-| 24 | Zoom | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Zoom+instrumental) |  |
-| 25 | Of Course | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Of+Course+instrumental) |  |
-| 26 | Shardai | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Shardai+instrumental) |  |
+| 1 | Flooded the Face | ✅ [Lil Uzi Vert - Flooded The Face (Instrumental)](https://www.youtube.com/watch?v=arYwPueFm8k) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Flooded+the+Face+instrumental) |
+| 2 | Suicide Doors | ✅ [Lil Uzi Vert - Suicide Doors (INSTRUMENTAL)](https://www.youtube.com/watch?v=GJNkNXnfjbg) | [alt](https://www.youtube.com/watch?v=JN9amItIEso) |
+| 3 | Aye | ✅ [Lil Uzi Vert - Aye (Feat. Travis Scott) (Instrumental)](https://www.youtube.com/watch?v=6jQmqthJ6fg) | [alt](https://www.youtube.com/watch?v=Vnpn9BlZatU) |
+| 4 | Crush Em | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL7OgvvtiQH7TJN_rE3ebJ76oIvqc_m8lZ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Crush+Em+instrumental) |
+| 5 | Amped | ✅ [Lil Uzi Vert - Amped (Instrumental)](https://www.youtube.com/watch?v=qvbKIarRJGQ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Amped+instrumental) |
+| 6 | x2 | ✅ [Lil Uzi Vert - x2 (INSTRUMENTAL)](https://www.youtube.com/watch?v=_5PGT0JaVhU) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+x2+instrumental) |
+| 7 | Died and Came Back | ✅ [Lil Uzi Vert - Died and Came Back (Instrumental)](https://www.youtube.com/watch?v=OQkTfb2dtvU) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Died+and+Came+Back+instrumental) |
+| 8 | Spin Again | ✅ [Lil Uzi Vert - Spin Again (Instrumental)](https://www.youtube.com/watch?v=r75trsqkKCw) | [alt](https://www.youtube.com/watch?v=zuTl-G5b1Wk) |
+| 9 | That Fiya | ✅ [Lil Uzi Vert - That Fiya (Instrumental)](https://www.youtube.com/watch?v=kFDnXj3ghw8) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+That+Fiya+instrumental) |
+| 10 | I Gotta | ✅ [Lil Uzi Vert - I Gotta (Instrumental)](https://www.youtube.com/watch?v=fClKtCDh5Kg) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+I+Gotta+instrumental) |
+| 11 | Endless Fashion | ✅ [Lil Uzi Vert - Endless Fashion ft. Nicki Minaj (Instrumental)](https://www.youtube.com/watch?v=d_7a29j-J4Y) | [alt](https://www.youtube.com/watch?v=UMOZFsM7qxc) |
+| 12 | Mama, I'm Sorry | ✅ [Lil Uzi Vert - Mama, I’m Sorry (Instrumental)](https://www.youtube.com/watch?v=ku8dIU76NAo) | [alt](https://www.youtube.com/watch?v=TALuz0kuNq4) |
+| 13 | All Alone | ✅ [\[\[PINK TAPE\]\] Lil Uzi Vert - All Alone INSTRUMENTAL (reprod miarchy)](https://www.youtube.com/watch?v=FJu0HNzqxos) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+All+Alone+instrumental) |
+| 14 | Nakamura | ✅ [Lil Uzi Vert - Nakamura (Instrumental)](https://www.youtube.com/watch?v=UluuhXL0Nx8) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Nakamura+instrumental) |
+| 15 | Just Wanna Rock | ✅ [Lil Uzi Vert - Just Wanna Rock \[Official Instrumental\]](https://www.youtube.com/watch?v=qf_c33bY_DY) | [alt](https://www.youtube.com/watch?v=mJdYKefDwL4) |
+| 16 | Fire Alarm | ✅ [Lil Uzi Vert - Fire Alarm【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=SHzcSZ-mA0w) | [alt](https://www.youtube.com/watch?v=XtfgkEsIklk) |
+| 17 | CS | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL7OgvvtiQH7TJN_rE3ebJ76oIvqc_m8lZ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+CS+instrumental) |
+| 18 | Werewolf | ✅ [Lil Uzi Vert - Werewolf ft. Bring Me The Horizon (Instrumental)](https://www.youtube.com/watch?v=NHfcBFhHcck) | [alt](https://www.youtube.com/watch?v=zYbJLiHnfxE) |
+| 19 | Pluto to Mars | ✅ [Lil Uzi Vert - Pluto to Mars (Instrumental)](https://www.youtube.com/watch?v=Zy68SiIsr0w) | [alt](https://www.youtube.com/watch?v=bwKwmVkCkCc) |
+| 20 | Confession | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL7OgvvtiQH7TJN_rE3ebJ76oIvqc_m8lZ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Confession+instrumental) |
+| 21 | Days Come and Go | ✅ [Lil Uzi Vert - Days Come and Go (Instrumental)](https://www.youtube.com/watch?v=ChZYul8WUu4) | [alt](https://www.youtube.com/watch?v=wlz-hK5qf5s) |
+| 22 | Rehab | ✅ [Lil Uzi Vert - Rehab Instrumental](https://www.youtube.com/watch?v=EgSfRmsZvag) | [alt](https://m.youtube.com/watch?v=mLeJwDdOxzE) |
+| 23 | The End | ✅ [Lil Uzi Vert - The End (ft. BABYMETAL) \[Instrumental\]](https://www.youtube.com/watch?v=9lvu_nHOr9s) | [alt](https://www.youtube.com/watch?v=JfnShXOPqis) |
+| 24 | Zoom | ✅ [Lil Uzi Vert - Zoom (Bonus Track) Instrumental](https://www.youtube.com/watch?v=UICiUTk7_kQ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Zoom+instrumental) |
+| 25 | Of Course | ✅ [Lil Uzi Vert - Of Course (Instrumental) Prod Forza x OogieMane](https://www.youtube.com/watch?v=YB7Ydnmydgk) | [alt](https://www.youtube.com/watch?v=rZ0gWe2WM5U) |
+| 26 | Shardai | ✅ [Lil Uzi Vert - Shardai (Bonus Track) (Instrumental)](https://www.youtube.com/watch?v=Cof0MPcFt9U) | [alt](https://www.youtube.com/watch?v=NG2gqC-FwRI) |
 
 ### Eternal Atake 2 (2024)
 
@@ -799,19 +799,19 @@ _Tracklist note: 16 tracks_
 
 | # | Track | Instrumental | Backup |
 |---|---|---|---|
-| 1 | We Good | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+We+Good+instrumental) |  |
-| 2 | Light Year (Practice) | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Light+Year+%28Practice%29+instrumental) |  |
-| 3 | Meteor Man | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Meteor+Man+instrumental) |  |
-| 4 | Paars in the Mars | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Paars+in+the+Mars+instrumental) |  |
-| 5 | The Rush | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+The+Rush+instrumental) |  |
-| 6 | Not an Option | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Not+an+Option+instrumental) |  |
-| 7 | She Stank | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+She+Stank+instrumental) |  |
-| 8 | Mr Chow | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Mr+Chow+instrumental) |  |
-| 9 | Lyft Em Up | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Lyft+Em+Up+instrumental) |  |
-| 10 | Chips and Dip | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Chips+and+Dip+instrumental) |  |
-| 11 | Black Hole | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Black+Hole+instrumental) |  |
-| 12 | Chill Bae | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Chill+Bae+instrumental) |  |
-| 13 | Goddard Song | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Goddard+Song+instrumental) |  |
-| 14 | PerkySex | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+PerkySex+instrumental) |  |
-| 15 | Conceited | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Conceited+instrumental) |  |
-| 16 | Space High | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Space+High+instrumental) |  |
+| 1 | We Good | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+We+Good+instrumental) (none found) |  |
+| 2 | Light Year (Practice) | ✅ [Lil Uzi Vert - Light Year (Practice) \[Official Instrumental\]](https://www.youtube.com/watch?v=U6r3h57-7m0) | [alt](https://www.youtube.com/watch?v=yxD1CyRlL18) |
+| 3 | Meteor Man | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Meteor+Man+instrumental) (none found) |  |
+| 4 | Paars in the Mars | ✅ [Paars In The Mars (Instrumental) - Lil Uzi Vert](https://www.youtube.com/watch?v=P7Zg-fhiZPE) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Paars+in+the+Mars+instrumental) |
+| 5 | The Rush | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+The+Rush+instrumental) (none found) |  |
+| 6 | Not an Option | ✅ [Lil Uzi Vert - Not An Option (Instrumental)](https://www.youtube.com/watch?v=x_qfapAv94k) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Not+an+Option+instrumental) |
+| 7 | She Stank | ✅ [Lil Uzi Vert - She Stank (INSTRUMENTAL) Best On YouTube](https://www.youtube.com/watch?v=JAeZ1HB87QU) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+She+Stank+instrumental) |
+| 8 | Mr Chow | ✅ [Lil Uzi Vert - Mr Chow \[Official Instrumental\]](https://www.youtube.com/watch?v=GiYxlQT1vkc) | [alt](https://www.youtube.com/watch?v=1Sr1qjgrZgw) |
+| 9 | Lyft Em Up | ✅ [Lil Uzi Vert - Lyft Em Up (Official Instrumental) \[Eternal Atake 2\]](https://www.youtube.com/watch?v=OFIfi-sp1xU) | [alt](https://www.youtube.com/watch?v=A9790Fz_A4I) |
+| 10 | Chips and Dip | ✅ [Lil Uzi Vert - Chips and Dip (Instrumental)](https://www.youtube.com/watch?v=B-41wKNsBSI) | [alt](https://www.youtube.com/watch?v=kwjLevfcZ-Q) |
+| 11 | Black Hole | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Black+Hole+instrumental) (none found) |  |
+| 12 | Chill Bae | ✅ [Lil Uzi Vert - Chill Bae (Instrumental)](https://www.youtube.com/watch?v=OzembJwrlok) | [alt](https://www.youtube.com/watch?v=ue2w4PkSISs) |
+| 13 | Goddard Song | ✅ [Lil Uzi Vert - Goddard Song (Official Instrumental) \[Eternal Atake 2\]](https://www.youtube.com/watch?v=HZSIPx0RsPA) | [alt](https://www.youtube.com/watch?v=iQum1pHsN-Q) |
+| 14 | PerkySex | ✅ [Lil Uzi Vert - PerkySex \[Official Instrumental\]](https://www.youtube.com/watch?v=7UuzOR-Yw1U) | [alt](https://www.youtube.com/watch?v=r9JvK_f3_RU) |
+| 15 | Conceited | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Conceited+instrumental) (none found) |  |
+| 16 | Space High | ✅ [Lil Uzi Vert - Space High \[ Instrumental \] *BEST*](https://www.youtube.com/watch?v=bX0booLwWaw) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Space+High+instrumental) |
