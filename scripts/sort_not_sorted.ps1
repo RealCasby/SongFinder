@@ -16,7 +16,8 @@
 
     By default nothing is moved: it prints the plan and saves it to
     sort_plan.csv in "Music Albums". Run again with -Apply to move the files.
-    Files it can't place stay in "Not Sorted". Every move is logged to
+    Files it can't place stay in "Not Sorted", and so does a song the album
+    folder already has (listed as "duplicate"). Every move is logged to
     sort_log.csv so it can be undone.
 
 .EXAMPLE
@@ -96,6 +97,7 @@ $json = @'
   "tracks": [
    {
     "name": "Cmon",
+    "aliases": [],
     "ids": [
      "hzyrhPtVZ2U",
      "WaiEsrrZ6lY"
@@ -106,6 +108,10 @@ $json = @'
    },
    {
     "name": "Morning mudd",
+    "aliases": [
+     "Mornin Mudd",
+     "Mornin Mud"
+    ],
     "ids": [
      "KdsQxR1BLvU",
      "UMQDqIwvKjg"
@@ -116,6 +122,7 @@ $json = @'
    },
    {
     "name": "Got rich",
+    "aliases": [],
     "ids": [
      "KY62VBwNQiE"
     ],
@@ -125,6 +132,7 @@ $json = @'
    },
    {
     "name": "Lët ya know",
+    "aliases": [],
     "ids": [
      "rT2E-TmQcCo",
      "5Mn3u2WJbiM"
@@ -135,6 +143,7 @@ $json = @'
    },
    {
     "name": "Stayëd tha same",
+    "aliases": [],
     "ids": [
      "lNhWI33gGzA",
      "V8ql2COLBtg"
@@ -145,6 +154,7 @@ $json = @'
    },
    {
     "name": "Gët Busy",
+    "aliases": [],
     "ids": [
      "UMb8MBa__8E",
      "KOT2J8_3fz0"
@@ -155,6 +165,7 @@ $json = @'
    },
    {
     "name": "Rokstar",
+    "aliases": [],
     "ids": [
      "2v23hBMBd0w",
      "mIQuAdOQNCo"
@@ -165,6 +176,7 @@ $json = @'
    },
    {
     "name": "Trëndy way",
+    "aliases": [],
     "ids": [
      "ggJLvpF5xVg",
      "r4-lSyqqJX0"
@@ -175,6 +187,7 @@ $json = @'
    },
    {
     "name": "Swërved It",
+    "aliases": [],
     "ids": [
      "tsNhFI6CrgY",
      "Mz4N2EPqSsQ"
@@ -185,6 +198,9 @@ $json = @'
    },
    {
     "name": "Ya Ya",
+    "aliases": [
+     "Yaya"
+    ],
     "ids": [
      "ZZmhVbc6I58",
      "R90SAnOqAWM"
@@ -195,6 +211,7 @@ $json = @'
    },
    {
     "name": "U could tëll",
+    "aliases": [],
     "ids": [
      "ut5iBW1741s",
      "NnrndqtXKsQ"
@@ -205,6 +222,7 @@ $json = @'
    },
    {
     "name": "Factz",
+    "aliases": [],
     "ids": [
      "gIcJ014f7Cw",
      "3fkELHUdTzI"
@@ -215,6 +233,7 @@ $json = @'
    },
    {
     "name": "Bak on ëm",
+    "aliases": [],
     "ids": [
      "OVpbPbDBank"
     ],
@@ -224,11 +243,13 @@ $json = @'
    },
    {
     "name": "Hëy",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Turban",
+    "aliases": [],
     "ids": [
      "FyNbk0SJ0p0",
      "0o4B7J8wlCE"
@@ -239,6 +260,7 @@ $json = @'
    },
    {
     "name": "Twizzy Rich",
+    "aliases": [],
     "ids": [
      "tUF7OP3XOrU",
      "nPlHYx2hk8A"
@@ -249,6 +271,7 @@ $json = @'
    },
    {
     "name": "Told ya",
+    "aliases": [],
     "ids": [
      "RS-32pk7BcU",
      "5y6f-d6VQYg"
@@ -259,6 +282,7 @@ $json = @'
    },
    {
     "name": "Monëy so big",
+    "aliases": [],
     "ids": [
      "m3gT_617gYE",
      "aoq8b1VoMQY"
@@ -269,6 +293,7 @@ $json = @'
    },
    {
     "name": "Dëserve it",
+    "aliases": [],
     "ids": [
      "dysZLLeLSMk",
      "H0leCAK_Yxg"
@@ -279,6 +304,7 @@ $json = @'
    },
    {
     "name": "Kant changë",
+    "aliases": [],
     "ids": [
      "RnYijRW4Yro",
      "waoix9oHoiA"
@@ -289,6 +315,7 @@ $json = @'
    },
    {
     "name": "Callin më",
+    "aliases": [],
     "ids": [
      "JdYkseADgB4"
     ],
@@ -298,6 +325,7 @@ $json = @'
    },
    {
     "name": "Lying 4 fun",
+    "aliases": [],
     "ids": [
      "UjpszrhZMf4",
      "tOBwCycJIPs"
@@ -317,6 +345,7 @@ $json = @'
   "tracks": [
    {
     "name": "Poppin",
+    "aliases": [],
     "ids": [
      "bKREVIB7LAw",
      "VYcdCIpxnng"
@@ -327,6 +356,7 @@ $json = @'
    },
    {
     "name": "Outsidë",
+    "aliases": [],
     "ids": [
      "VQxMP2E8PKc",
      "49ChpRc_Ubw"
@@ -337,6 +367,7 @@ $json = @'
    },
    {
     "name": "Rëal Six",
+    "aliases": [],
     "ids": [
      "82X-0OvV9SU",
      "fkdfrlYTSU8"
@@ -347,6 +378,7 @@ $json = @'
    },
    {
     "name": "Nvr Again",
+    "aliases": [],
     "ids": [
      "IgnOSN-kxWk",
      "Hazfw9jf3Xc"
@@ -357,6 +389,7 @@ $json = @'
    },
    {
     "name": "Luh Gëek",
+    "aliases": [],
     "ids": [
      "zn3Y-vzlGXM",
      "ivLhyrKEDpQ"
@@ -367,6 +400,7 @@ $json = @'
    },
    {
     "name": "Rackz Got Më",
+    "aliases": [],
     "ids": [
      "b7_mrpnGz3Q",
      "KSfTU6bT4gI"
@@ -377,6 +411,7 @@ $json = @'
    },
    {
     "name": "Doublë",
+    "aliases": [],
     "ids": [
      "sKqfuD7dNbE",
      "AkaQsaYr6Og"
@@ -387,6 +422,7 @@ $json = @'
    },
    {
     "name": "On Tha Linë",
+    "aliases": [],
     "ids": [
      "TvJBIvsT8Gs",
      "KI0A65KjdYg"
@@ -397,6 +433,7 @@ $json = @'
    },
    {
     "name": "Jus Bëtter",
+    "aliases": [],
     "ids": [
      "-wcSu8ZC6TA",
      "wEydUFJ54fE"
@@ -407,6 +444,7 @@ $json = @'
    },
    {
     "name": "Jump",
+    "aliases": [],
     "ids": [
      "7SkSNbxkRRw"
     ],
@@ -416,6 +454,7 @@ $json = @'
    },
    {
     "name": "Dnt Lië",
+    "aliases": [],
     "ids": [
      "NDEY1TBlieQ",
      "YQXl5KhJcaM"
@@ -426,6 +465,7 @@ $json = @'
    },
    {
     "name": "Rollin",
+    "aliases": [],
     "ids": [
      "lftieixi89M",
      "ExNjkyvmvtE"
@@ -436,6 +476,7 @@ $json = @'
    },
    {
     "name": "Taliban",
+    "aliases": [],
     "ids": [
      "mszCuCXSzJw",
      "VRUJ2ZQgCoc"
@@ -446,6 +487,7 @@ $json = @'
    },
    {
     "name": "Narcoticz",
+    "aliases": [],
     "ids": [
      "Kv0LU9bDK2c"
     ],
@@ -455,6 +497,7 @@ $json = @'
    },
    {
     "name": "Call Më",
+    "aliases": [],
     "ids": [
      "7zCSX3oQjsY",
      "Pholkf5AQow"
@@ -465,6 +508,7 @@ $json = @'
    },
    {
     "name": "Kant Dië",
+    "aliases": [],
     "ids": [
      "UmAg608lS04"
     ],
@@ -474,6 +518,7 @@ $json = @'
    },
    {
     "name": "Gëek High",
+    "aliases": [],
     "ids": [
      "10qIk68agaU",
      "cjJiTb4AKeo"
@@ -484,6 +529,7 @@ $json = @'
    },
    {
     "name": "Luh M",
+    "aliases": [],
     "ids": [
      "s_dBjTriwLo",
      "VWuunr-e3-g"
@@ -494,6 +540,7 @@ $json = @'
    },
    {
     "name": "Smooktobër",
+    "aliases": [],
     "ids": [
      "lrdFIQUqd2M"
     ],
@@ -503,6 +550,9 @@ $json = @'
    },
    {
     "name": "Still Countin",
+    "aliases": [
+     "Still Counting"
+    ],
     "ids": [
      "HMO3bQzPxng",
      "ncBzZNg29B4"
@@ -522,6 +572,7 @@ $json = @'
   "tracks": [
    {
     "name": "No morë talk",
+    "aliases": [],
     "ids": [
      "xaJdXsBNLqE",
      "yOByFXoFZs8"
@@ -532,6 +583,7 @@ $json = @'
    },
    {
     "name": "Shmunk",
+    "aliases": [],
     "ids": [
      "6sOHxgwoRZQ",
      "SOvm0q4qXiE"
@@ -542,6 +594,7 @@ $json = @'
    },
    {
     "name": "Bëttr 0ff",
+    "aliases": [],
     "ids": [
      "ogoFiTLqxjI",
      "GyUPeJQSkPI"
@@ -552,6 +605,7 @@ $json = @'
    },
    {
     "name": "Rav3 p4rty",
+    "aliases": [],
     "ids": [
      "cQdQlUKkFuk"
     ],
@@ -561,6 +615,7 @@ $json = @'
    },
    {
     "name": "Nun id change",
+    "aliases": [],
     "ids": [
      "P5NR1Dkvsvc",
      "COOGS0a_wQI"
@@ -571,6 +626,7 @@ $json = @'
    },
    {
     "name": "Woa…!",
+    "aliases": [],
     "ids": [
      "VVDUi01OzpE"
     ],
@@ -580,11 +636,13 @@ $json = @'
    },
    {
     "name": "Now",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Slamm",
+    "aliases": [],
     "ids": [
      "XIUsPtUo2Bw"
     ],
@@ -594,6 +652,7 @@ $json = @'
    },
    {
     "name": "7 nightz",
+    "aliases": [],
     "ids": [
      "VgOwghgWs1I",
      "Pj4VBD1aFzM"
@@ -604,6 +663,7 @@ $json = @'
    },
    {
     "name": "Mëan feen",
+    "aliases": [],
     "ids": [
      "uqzWCw5LZv4",
      "RObW6c-dcK4"
@@ -614,6 +674,7 @@ $json = @'
    },
    {
     "name": "How it go",
+    "aliases": [],
     "ids": [
      "_VslMtN-7dA",
      "Y89I-UD7mMo"
@@ -624,6 +685,7 @@ $json = @'
    },
    {
     "name": "Sum 2 do",
+    "aliases": [],
     "ids": [
      "5oRyI7WN_X4"
     ],
@@ -633,6 +695,7 @@ $json = @'
    },
    {
     "name": "Back up",
+    "aliases": [],
     "ids": [
      "L7HCA8tPKB8"
     ],
@@ -642,6 +705,7 @@ $json = @'
    },
    {
     "name": "Split",
+    "aliases": [],
     "ids": [
      "QaiQHd8098k",
      "5n3wb9UJvKY",
@@ -654,6 +718,7 @@ $json = @'
    },
    {
     "name": "Bad bënd / DëMON",
+    "aliases": [],
     "ids": [
      "hnFqi55g7vg",
      "ZeDop4sXcro"
@@ -664,6 +729,7 @@ $json = @'
    },
    {
     "name": "Hëavyweight",
+    "aliases": [],
     "ids": [
      "87Pshhwzv4o",
      "1BGBAQCMnko"
@@ -674,11 +740,13 @@ $json = @'
    },
    {
     "name": "Watch",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Shhhh",
+    "aliases": [],
     "ids": [
      "nXnGE601z6w"
     ],
@@ -688,6 +756,7 @@ $json = @'
    },
    {
     "name": "Back homë",
+    "aliases": [],
     "ids": [
      "NNImuwvxc7I",
      "Qk3vvZ55jnw"
@@ -699,6 +768,7 @@ $json = @'
    },
    {
     "name": "Type monëy",
+    "aliases": [],
     "ids": [
      "sEgjMPI8KOo",
      "p2n2sIC4mVE"
@@ -709,6 +779,7 @@ $json = @'
    },
    {
     "name": "Dëmon tied",
+    "aliases": [],
     "ids": [
      "WFQFcD5UNEI"
     ],
@@ -718,6 +789,7 @@ $json = @'
    },
    {
     "name": "Myself",
+    "aliases": [],
     "ids": [
      "n3jOtVGS_tw"
     ],
@@ -736,6 +808,7 @@ $json = @'
   "tracks": [
    {
     "name": "PUT IT ONG",
+    "aliases": [],
     "ids": [
      "YallKSPHbFk",
      "xsEpBYUCdb8"
@@ -746,6 +819,7 @@ $json = @'
    },
    {
     "name": "LOCO",
+    "aliases": [],
     "ids": [
      "R1mfrYlbn4k"
     ],
@@ -755,6 +829,7 @@ $json = @'
    },
    {
     "name": "LOOSE LEAF",
+    "aliases": [],
     "ids": [
      "k_OW9b0pCuM"
     ],
@@ -764,6 +839,7 @@ $json = @'
    },
    {
     "name": "OH I DID",
+    "aliases": [],
     "ids": [
      "-DTzM3wVVEs",
      "1pMeMIPjaNo"
@@ -774,6 +850,7 @@ $json = @'
    },
    {
     "name": "COMË N GO",
+    "aliases": [],
     "ids": [
      "BMp4rrocsJo"
     ],
@@ -783,6 +860,7 @@ $json = @'
    },
    {
     "name": "[ADL IS COMING]",
+    "aliases": [],
     "ids": [
      "zjMQ1htIQqo"
     ],
@@ -792,11 +870,13 @@ $json = @'
    },
    {
     "name": "IM YEAT",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "M.F.U.",
+    "aliases": [],
     "ids": [
      "3V81cNG67qc"
     ],
@@ -806,6 +886,7 @@ $json = @'
    },
    {
     "name": "2TONE",
+    "aliases": [],
     "ids": [
      "xgjvfFxTtPo",
      "4t7mJP0t6IQ"
@@ -816,6 +897,7 @@ $json = @'
    },
    {
     "name": "FLY NITË",
+    "aliases": [],
     "ids": [
      "m9m7HVUZc3c"
     ],
@@ -834,6 +916,7 @@ $json = @'
   "tracks": [
    {
     "name": "Flawlëss",
+    "aliases": [],
     "ids": [
      "BVCdKU19kZM",
      "s0EgOF4Ten0"
@@ -844,6 +927,7 @@ $json = @'
    },
    {
     "name": "Up off X",
+    "aliases": [],
     "ids": [
      "22EculPemZ0",
      "fUJ9MXS4Acg"
@@ -854,6 +938,7 @@ $json = @'
    },
    {
     "name": "Out thë way",
+    "aliases": [],
     "ids": [
      "t5WnReNkVxA",
      "OwaWazxfz0M"
@@ -864,6 +949,7 @@ $json = @'
    },
    {
     "name": "Wat it feel lykë",
+    "aliases": [],
     "ids": [
      "T1B2CQwsg4k",
      "n-hIXaENpxM"
@@ -874,6 +960,7 @@ $json = @'
    },
    {
     "name": "Got it all",
+    "aliases": [],
     "ids": [
      "kbDePgsnvR4",
      "tji5y8hwptA"
@@ -885,6 +972,7 @@ $json = @'
    },
    {
     "name": "Can't stop it",
+    "aliases": [],
     "ids": [
      "EIJ-K6j2V58",
      "csVoezAZUZQ"
@@ -895,6 +983,7 @@ $json = @'
    },
    {
     "name": "Krank",
+    "aliases": [],
     "ids": [
      "F2_ZG_gHr6o",
      "wuDuDOlSd40"
@@ -905,6 +994,7 @@ $json = @'
    },
    {
     "name": "Talk",
+    "aliases": [],
     "ids": [
      "DPAZcVsBNZg"
     ],
@@ -914,6 +1004,7 @@ $json = @'
    },
    {
     "name": "Comë on",
+    "aliases": [],
     "ids": [],
     "titles": [
      "Yeat - Come On (INSTRUMENTAL)"
@@ -921,6 +1012,7 @@ $json = @'
    },
    {
     "name": "Systëm",
+    "aliases": [],
     "ids": [
      "EfXIQei5Z78",
      "Uquq2f-KRoo"
@@ -931,6 +1023,7 @@ $json = @'
    },
    {
     "name": "Holy 1",
+    "aliases": [],
     "ids": [
      "p4kS7X9_RSc"
     ],
@@ -940,6 +1033,7 @@ $json = @'
    },
    {
     "name": "Killin ëm",
+    "aliases": [],
     "ids": [
      "h0-m1f9ZFfg",
      "Q1oik0HVkKE"
@@ -959,6 +1053,7 @@ $json = @'
   "tracks": [
    {
     "name": "Psycho CEO",
+    "aliases": [],
     "ids": [
      "rXot8p_wP18"
     ],
@@ -966,6 +1061,7 @@ $json = @'
    },
    {
     "name": "Power Trip",
+    "aliases": [],
     "ids": [
      "2N9U4o3z8tw",
      "B29GzOygogQ"
@@ -976,6 +1072,7 @@ $json = @'
    },
    {
     "name": "Breathe",
+    "aliases": [],
     "ids": [
      "r-nEaS71P_c",
      "capslBoLcm0"
@@ -986,6 +1083,7 @@ $json = @'
    },
    {
     "name": "Morë",
+    "aliases": [],
     "ids": [
      "Ug166cmdYf0"
     ],
@@ -995,6 +1093,7 @@ $json = @'
    },
    {
     "name": "Bought The Earth",
+    "aliases": [],
     "ids": [
      "raDG-aGwAB4",
      "H32ru-WEQ24"
@@ -1005,6 +1104,7 @@ $json = @'
    },
    {
     "name": "Nothing Changë",
+    "aliases": [],
     "ids": [
      "YIbTgFb4Pw4",
      "Bi9Oc7vg2NI"
@@ -1015,6 +1115,7 @@ $json = @'
    },
    {
     "name": "As We Speak",
+    "aliases": [],
     "ids": [
      "kj_kAT-ZOuw",
      "Qo271hhUItg"
@@ -1025,6 +1126,7 @@ $json = @'
    },
    {
     "name": "U Should Know",
+    "aliases": [],
     "ids": [
      "-dGvsqSc1AM"
     ],
@@ -1034,6 +1136,7 @@ $json = @'
    },
    {
     "name": "Lyfestylë",
+    "aliases": [],
     "ids": [
      "Zfk-XULU0Ls",
      "MPdaJ92AYfs"
@@ -1045,6 +1148,7 @@ $json = @'
    },
    {
     "name": "ILUV",
+    "aliases": [],
     "ids": [
      "Yjg_AElQCyQ",
      "5sbmAUASKd8"
@@ -1055,6 +1159,7 @@ $json = @'
    },
    {
     "name": "Tell më",
+    "aliases": [],
     "ids": [
      "h960kn_Wg-o"
     ],
@@ -1064,6 +1169,7 @@ $json = @'
    },
    {
     "name": "Shade",
+    "aliases": [],
     "ids": [
      "iQZPlphPcZc",
      "IxC_3G4aLMU"
@@ -1074,6 +1180,7 @@ $json = @'
    },
    {
     "name": "Never quit",
+    "aliases": [],
     "ids": [
      "9XJEcKF_VAw",
      "dda0c5DjGbY"
@@ -1084,11 +1191,13 @@ $json = @'
    },
    {
     "name": "Keep Pushin",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Riot & Set it off",
+    "aliases": [],
     "ids": [
      "qwcEYLdSorg"
     ],
@@ -1098,6 +1207,7 @@ $json = @'
    },
    {
     "name": "Team ceo",
+    "aliases": [],
     "ids": [
      "TtdfGPxI1Q4"
     ],
@@ -1107,11 +1217,13 @@ $json = @'
    },
    {
     "name": "2093",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Stand On It",
+    "aliases": [],
     "ids": [
      "Ta7sEt4cl9U",
      "WohoxwFFigY"
@@ -1122,6 +1234,7 @@ $json = @'
    },
    {
     "name": "Familia",
+    "aliases": [],
     "ids": [
      "D-5Utf-NBx4",
      "ziAGsVRO2M8"
@@ -1132,6 +1245,7 @@ $json = @'
    },
    {
     "name": "Mr. Inbetweenit",
+    "aliases": [],
     "ids": [
      "_B5nABfMmJs"
     ],
@@ -1141,6 +1255,7 @@ $json = @'
    },
    {
     "name": "Psychocainë",
+    "aliases": [],
     "ids": [
      "L22yWf4KZXU"
     ],
@@ -1150,6 +1265,7 @@ $json = @'
    },
    {
     "name": "Run Thëy Mouth",
+    "aliases": [],
     "ids": [
      "LLbEmPhPPHQ"
     ],
@@ -1159,6 +1275,7 @@ $json = @'
    },
    {
     "name": "1093",
+    "aliases": [],
     "ids": [
      "l56XvlgcwJY"
     ],
@@ -1177,6 +1294,7 @@ $json = @'
   "tracks": [
    {
     "name": "GEEK TIMË",
+    "aliases": [],
     "ids": [
      "07Zpu2LVS2Y",
      "J28pHj2wTOk"
@@ -1187,6 +1305,7 @@ $json = @'
    },
    {
     "name": "STFU",
+    "aliases": [],
     "ids": [
      "iFXHSX6jIsE",
      "4sR5sFvTdCM"
@@ -1197,6 +1316,7 @@ $json = @'
    },
    {
     "name": "THEY TELL MË",
+    "aliases": [],
     "ids": [
      "4cFmnh9KBtU",
      "PSvimOM3Tlk"
@@ -1207,6 +1327,7 @@ $json = @'
    },
    {
     "name": "HEARD OF MË",
+    "aliases": [],
     "ids": [
      "gz8TKb2haog",
      "uVqqu-6jvsE"
@@ -1217,6 +1338,7 @@ $json = @'
    },
    {
     "name": "SPEEDBALL",
+    "aliases": [],
     "ids": [
      "-g7M2FzP-2o"
     ],
@@ -1226,11 +1348,13 @@ $json = @'
    },
    {
     "name": "U DON'T KNOW LYFE",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "ORCHESTRATË",
+    "aliases": [],
     "ids": [
      "yPr9vgygmsQ",
      "IXCnwjknhqM"
@@ -1241,6 +1365,7 @@ $json = @'
    },
    {
     "name": "BË QUIET",
+    "aliases": [],
     "ids": [
      "RvXhG49k-iA",
      "9BDzYw7sOPo"
@@ -1251,6 +1376,7 @@ $json = @'
    },
    {
     "name": "THE COSTËS",
+    "aliases": [],
     "ids": [
      "nUe3kRwq384"
     ],
@@ -1260,6 +1386,7 @@ $json = @'
    },
    {
     "name": "GO2WORK",
+    "aliases": [],
     "ids": [
      "r8VfLjoYnxo",
      "BdvZ-HBDN9Q"
@@ -1270,6 +1397,7 @@ $json = @'
    },
    {
     "name": "GONE 4 A MIN",
+    "aliases": [],
     "ids": [
      "f42nOzmM-vM",
      "CY_McfN5AWA"
@@ -1280,6 +1408,7 @@ $json = @'
    },
    {
     "name": "FOREVER AGAIN",
+    "aliases": [],
     "ids": [
      "0n5muBdqnTQ"
     ],
@@ -1289,11 +1418,13 @@ $json = @'
    },
    {
     "name": "ON 1",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "FLYTROOP",
+    "aliases": [],
     "ids": [],
     "titles": [
      "Yeat - FLYTROOP [Instrumental] 150 BPM"
@@ -1301,6 +1432,7 @@ $json = @'
    },
    {
     "name": "ELIMINATË",
+    "aliases": [],
     "ids": [
      "QXMvzE2wQ3I"
     ],
@@ -1310,6 +1442,7 @@ $json = @'
    },
    {
     "name": "LYING 5 FUN",
+    "aliases": [],
     "ids": [
      "WIVE_GqT9BA",
      "oJGgvRAQDL4"
@@ -1320,6 +1453,7 @@ $json = @'
    },
    {
     "name": "NEW HIGH",
+    "aliases": [],
     "ids": [
      "1NRZjSnD3Pg"
     ],
@@ -1329,6 +1463,7 @@ $json = @'
    },
    {
     "name": "SO WHAT",
+    "aliases": [],
     "ids": [
      "agCBmc_-MAg"
     ],
@@ -1338,6 +1473,7 @@ $json = @'
    },
    {
     "name": "LYFESTYLE",
+    "aliases": [],
     "ids": [
      "hVNB3VJex60",
      "J01nqfu0VZM"
@@ -1348,6 +1484,7 @@ $json = @'
    },
    {
     "name": "GOD TALKIN SHHH",
+    "aliases": [],
     "ids": [
      "4TBxFjARJLc"
     ],
@@ -1357,6 +1494,7 @@ $json = @'
    },
    {
     "name": "LYFE PARTY",
+    "aliases": [],
     "ids": [
      "vQNYPrBmDhY"
     ],
@@ -1366,6 +1504,7 @@ $json = @'
    },
    {
     "name": "FATË",
+    "aliases": [],
     "ids": [
      "4PtQS1z7vLk"
     ],
@@ -1386,6 +1525,7 @@ $json = @'
   "tracks": [
    {
     "name": "PURPOSE GENERAL",
+    "aliases": [],
     "ids": [
      "zH28yPmEVC0",
      "vGFdY2atKZI"
@@ -1396,6 +1536,7 @@ $json = @'
    },
    {
     "name": "LET KING TONKA TALK",
+    "aliases": [],
     "ids": [
      "EH9W9vZ87u8",
      "CmVjs7YNmLE"
@@ -1406,16 +1547,19 @@ $json = @'
    },
    {
     "name": "MY WAY",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "LIVE LIKË DIS",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "MADE IT ON OUR OWN",
+    "aliases": [],
     "ids": [
      "98_pLmfq6_4"
     ],
@@ -1425,11 +1569,13 @@ $json = @'
    },
    {
     "name": "LOSE CONTROL",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "FACE THE FLAMË",
+    "aliases": [],
     "ids": [
      "ubYMgSKDuaI",
      "t8zX_U5dSx8"
@@ -1441,6 +1587,7 @@ $json = @'
    },
    {
     "name": "DANGEROUS HOUSE",
+    "aliases": [],
     "ids": [
      "opIAowZPQoY",
      "4lNWmZbP9xg"
@@ -1451,26 +1598,31 @@ $json = @'
    },
    {
     "name": "NO MORE GHOSTS",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "NAKED",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "2NITE",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "GEEK LUV",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "SILK FACË",
+    "aliases": [],
     "ids": [
      "7kT443HNXKY"
     ],
@@ -1480,6 +1632,7 @@ $json = @'
    },
    {
     "name": "MY TIME",
+    "aliases": [],
     "ids": [
      "WGDdWzl8FY0",
      "wtE0YNaJ9UI"
@@ -1490,6 +1643,7 @@ $json = @'
    },
    {
     "name": "BACK HOME",
+    "aliases": [],
     "ids": [
      "R4ZcLjYIWaU"
     ],
@@ -1499,6 +1653,7 @@ $json = @'
    },
    {
     "name": "UP FROM HERE",
+    "aliases": [],
     "ids": [
      "XzlUgii8oJw",
      "UfPvEShkiuE"
@@ -1509,6 +1664,7 @@ $json = @'
    },
    {
     "name": "GRIDDLE",
+    "aliases": [],
     "ids": [
      "UknpTEk4nzw"
     ],
@@ -1518,6 +1674,7 @@ $json = @'
    },
    {
     "name": "WHAT I WANT",
+    "aliases": [],
     "ids": [
      "dw209n-Po50"
     ],
@@ -1527,11 +1684,13 @@ $json = @'
    },
    {
     "name": "2 PLANES",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "WENT WRONG",
+    "aliases": [],
     "ids": [
      "MjImVBnD66c"
     ],
@@ -1541,6 +1700,7 @@ $json = @'
    },
    {
     "name": "TALLËR",
+    "aliases": [],
     "ids": [],
     "titles": []
    }
@@ -1555,6 +1715,7 @@ $json = @'
   "tracks": [
    {
     "name": "earnëd it",
+    "aliases": [],
     "ids": [
      "5ULRLzwxlLM"
     ],
@@ -1564,6 +1725,7 @@ $json = @'
    },
    {
     "name": "in2that",
+    "aliases": [],
     "ids": [
      "HCVrLrSws4Q"
     ],
@@ -1573,6 +1735,7 @@ $json = @'
    },
    {
     "name": "miss my dawg",
+    "aliases": [],
     "ids": [
      "Cw1Pcu5HtIc"
     ],
@@ -1582,21 +1745,25 @@ $json = @'
    },
    {
     "name": "luh birk",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "holy watër",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "cocoon",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "tënnis",
+    "aliases": [],
     "ids": [],
     "titles": []
    }
@@ -1616,6 +1783,7 @@ $json = @'
   "tracks": [
    {
     "name": "Location",
+    "aliases": [],
     "ids": [
      "FJBqUYStf6g",
      "ASEIW1si6jM"
@@ -1626,6 +1794,7 @@ $json = @'
    },
    {
     "name": "Magnolia",
+    "aliases": [],
     "ids": [
      "0M67Jy5F6RM",
      "TpFrOuOLH-M"
@@ -1636,6 +1805,7 @@ $json = @'
    },
    {
     "name": "Lookin",
+    "aliases": [],
     "ids": [
      "u7_ymt2QoEU",
      "3umX7xlU8pw"
@@ -1646,6 +1816,7 @@ $json = @'
    },
    {
     "name": "wokeuplikethis*",
+    "aliases": [],
     "ids": [
      "1Kp7wSA8WqQ",
      "GKuctED52w0"
@@ -1656,6 +1827,7 @@ $json = @'
    },
    {
     "name": "Let It Go",
+    "aliases": [],
     "ids": [
      "OdIVJ1E34P4",
      "JOUHWlyHuQs"
@@ -1666,6 +1838,7 @@ $json = @'
    },
    {
     "name": "Half & Half",
+    "aliases": [],
     "ids": [
      "v9wtsmyzriM",
      "p1jwJt57ZFk"
@@ -1676,6 +1849,7 @@ $json = @'
    },
    {
     "name": "New Choppa",
+    "aliases": [],
     "ids": [
      "-SwMq1SiHKc",
      "u-2MDHa7NZ4"
@@ -1686,6 +1860,7 @@ $json = @'
    },
    {
     "name": "Other Shit",
+    "aliases": [],
     "ids": [
      "Np2sVoRyUME",
      "gX6z7fq4j50"
@@ -1696,11 +1871,13 @@ $json = @'
    },
    {
     "name": "NoBs",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Yah Mean",
+    "aliases": [],
     "ids": [
      "JG1ZLI_h1Zk",
      "h51MWsZwPNo"
@@ -1711,6 +1888,7 @@ $json = @'
    },
    {
     "name": "Flex",
+    "aliases": [],
     "ids": [
      "z91Y4OqJoRQ",
      "b66dA-v3ziE"
@@ -1721,6 +1899,7 @@ $json = @'
    },
    {
     "name": "Kelly K",
+    "aliases": [],
     "ids": [
      "_durKTZXHkI",
      "NiUQEfWwiPQ"
@@ -1731,6 +1910,7 @@ $json = @'
    },
    {
     "name": "Had 2",
+    "aliases": [],
     "ids": [
      "cg6OxzHe21g",
      "L3dKQnf1mBs"
@@ -1741,6 +1921,7 @@ $json = @'
    },
    {
     "name": "Don't Tell Nobody",
+    "aliases": [],
     "ids": [
      "sechF4oyI_4"
     ],
@@ -1750,6 +1931,7 @@ $json = @'
    },
    {
     "name": "Lame Niggaz",
+    "aliases": [],
     "ids": [
      "VqWjUiU29q0",
      "Q4qIGQHemF4"
@@ -1772,6 +1954,7 @@ $json = @'
   "tracks": [
    {
     "name": "Long Time",
+    "aliases": [],
     "ids": [
      "3YAFGmG7N7Q",
      "Z0jO7oWkwRc"
@@ -1782,6 +1965,7 @@ $json = @'
    },
    {
     "name": "R.I.P.",
+    "aliases": [],
     "ids": [
      "Av0llF9RD9A",
      "cJ5Uurlb6PA"
@@ -1792,6 +1976,7 @@ $json = @'
    },
    {
     "name": "Lean 4 Real",
+    "aliases": [],
     "ids": [
      "IJeHyzBc7Fg",
      "nmg-meb9jCc"
@@ -1802,6 +1987,7 @@ $json = @'
    },
    {
     "name": "Old Money",
+    "aliases": [],
     "ids": [
      "z1iNShMmVyM",
      "FNFrSNh4zks"
@@ -1812,6 +1998,7 @@ $json = @'
    },
    {
     "name": "Love Hurts",
+    "aliases": [],
     "ids": [
      "W20Fp2SvTI0",
      "osz3Bq25YsQ"
@@ -1822,6 +2009,7 @@ $json = @'
    },
    {
     "name": "Shoota",
+    "aliases": [],
     "ids": [
      "97rmA0ZyfrQ",
      "pnVt8nPv8eA"
@@ -1832,6 +2020,7 @@ $json = @'
    },
    {
     "name": "Right Now",
+    "aliases": [],
     "ids": [
      "2vPDO5sZnXQ",
      "hDjSdTsiYd8"
@@ -1842,6 +2031,7 @@ $json = @'
    },
    {
     "name": "Poke It Out",
+    "aliases": [],
     "ids": [
      "Sw50OkBEHUM",
      "w5oNdUa9dPI"
@@ -1852,6 +2042,7 @@ $json = @'
    },
    {
     "name": "Home (KOD)",
+    "aliases": [],
     "ids": [
      "4WuHvkl3JPQ",
      "cwTKbtpomLE"
@@ -1862,6 +2053,7 @@ $json = @'
    },
    {
     "name": "Fell in Luv",
+    "aliases": [],
     "ids": [
      "GAefIoBCHNg",
      "Cu_XMAcV_XU"
@@ -1872,6 +2064,7 @@ $json = @'
    },
    {
     "name": "Foreign",
+    "aliases": [],
     "ids": [
      "ayHpmRYcPkM",
      "kJXuQXGT3T0"
@@ -1882,6 +2075,7 @@ $json = @'
    },
    {
     "name": "Pull Up",
+    "aliases": [],
     "ids": [
      "LD_n9ZhWn0Q",
      "ZTnr7zo4wXY"
@@ -1892,6 +2086,7 @@ $json = @'
    },
    {
     "name": "Mileage",
+    "aliases": [],
     "ids": [
      "ZvRtWhNnqQo",
      "tEC_zLKNxLw"
@@ -1902,6 +2097,7 @@ $json = @'
    },
    {
     "name": "FlatBed Freestyle",
+    "aliases": [],
     "ids": [
      "ULtcBbHvIrM",
      "0_YNdKW6Sic"
@@ -1912,6 +2108,7 @@ $json = @'
    },
    {
     "name": "No Time",
+    "aliases": [],
     "ids": [
      "iOzRaW5lcBo",
      "djMIj5-5rf0"
@@ -1922,6 +2119,7 @@ $json = @'
    },
    {
     "name": "Middle of the Summer",
+    "aliases": [],
     "ids": [
      "Hx-qsUMvF4g",
      "xIGLLZDfQuo"
@@ -1932,6 +2130,7 @@ $json = @'
    },
    {
     "name": "Choppa Won't Miss",
+    "aliases": [],
     "ids": [
      "Zgug_QyJ0v4",
      "bqUcLelpLyY"
@@ -1942,6 +2141,7 @@ $json = @'
    },
    {
     "name": "R.I.P. Fredo",
+    "aliases": [],
     "ids": [
      "wIznT5tLxOo",
      "STpDbeCjOQ0"
@@ -1952,6 +2152,7 @@ $json = @'
    },
    {
     "name": "Top",
+    "aliases": [],
     "ids": [
      "LTYGnsyDUtY",
      "3G5XpSUThMg"
@@ -1975,6 +2176,7 @@ $json = @'
   "tracks": [
    {
     "name": "Rockstar Made",
+    "aliases": [],
     "ids": [
      "t6ck_JSbbjQ",
      "SAXHrGxdLJc"
@@ -1985,6 +2187,7 @@ $json = @'
    },
    {
     "name": "Go2DaMoon",
+    "aliases": [],
     "ids": [
      "fIoyrcNxTK8",
      "nNV5Zs3wefw"
@@ -1995,6 +2198,7 @@ $json = @'
    },
    {
     "name": "Stop Breathing",
+    "aliases": [],
     "ids": [
      "xgGP7WgfnEw",
      "-WGGwiiurCo"
@@ -2005,6 +2209,7 @@ $json = @'
    },
    {
     "name": "Beno!",
+    "aliases": [],
     "ids": [
      "Z0bH1hCcDg4",
      "_nYefzcsEis"
@@ -2015,6 +2220,9 @@ $json = @'
    },
    {
     "name": "JumpOutTheHouse",
+    "aliases": [
+     "Jump Out The House"
+    ],
     "ids": [
      "AVmr1D2GtqE",
      "pqlaXsh9CS8"
@@ -2025,6 +2233,7 @@ $json = @'
    },
    {
     "name": "M3tamorphosis",
+    "aliases": [],
     "ids": [
      "8el_N8Vc2k8",
      "9LZQgSghdOo"
@@ -2035,6 +2244,7 @@ $json = @'
    },
    {
     "name": "Slay3r",
+    "aliases": [],
     "ids": [
      "nomGP9pHT6U",
      "R3XdcGFCuw0"
@@ -2045,6 +2255,7 @@ $json = @'
    },
    {
     "name": "No Sl33p",
+    "aliases": [],
     "ids": [
      "TywBFLOgEYY",
      "qd_9XCJln64"
@@ -2055,6 +2266,7 @@ $json = @'
    },
    {
     "name": "New Tank",
+    "aliases": [],
     "ids": [
      "pKzDVBZWuek",
      "NCCWw3aH_7Q"
@@ -2065,6 +2277,7 @@ $json = @'
    },
    {
     "name": "Teen X",
+    "aliases": [],
     "ids": [
      "ADHyFNTwZDg",
      "ubzxrp5K6QM"
@@ -2075,6 +2288,7 @@ $json = @'
    },
    {
     "name": "Meh",
+    "aliases": [],
     "ids": [
      "SKHQJKy6gw0"
     ],
@@ -2084,6 +2298,7 @@ $json = @'
    },
    {
     "name": "Vamp Anthem",
+    "aliases": [],
     "ids": [
      "4Gjl7NaMg5M",
      "6S4C7507QR0"
@@ -2094,6 +2309,7 @@ $json = @'
    },
    {
     "name": "New N3on",
+    "aliases": [],
     "ids": [
      "jiZJ6MrD8Hw",
      "y74rPfyUdME"
@@ -2104,6 +2320,7 @@ $json = @'
    },
    {
     "name": "Control",
+    "aliases": [],
     "ids": [
      "E9SvxownCqA"
     ],
@@ -2113,6 +2330,7 @@ $json = @'
    },
    {
     "name": "Punk Monk",
+    "aliases": [],
     "ids": [
      "SFt4oSdN2cs",
      "T8b-CvXgM2c"
@@ -2123,6 +2341,7 @@ $json = @'
    },
    {
     "name": "On That Time",
+    "aliases": [],
     "ids": [
      "DpWOApzAxs8",
      "_A_UJW9cx9s"
@@ -2133,6 +2352,7 @@ $json = @'
    },
    {
     "name": "King Vamp",
+    "aliases": [],
     "ids": [
      "tpK6sZDsGoo",
      "5qOgo6kB4ug"
@@ -2144,6 +2364,7 @@ $json = @'
    },
    {
     "name": "Place",
+    "aliases": [],
     "ids": [
      "l8Q0O1UfVPM"
     ],
@@ -2153,6 +2374,7 @@ $json = @'
    },
    {
     "name": "Sky",
+    "aliases": [],
     "ids": [
      "C_ucYVHvVsQ",
      "KFrdLP_4_Mo"
@@ -2163,6 +2385,7 @@ $json = @'
    },
    {
     "name": "Over",
+    "aliases": [],
     "ids": [
      "Gi6Xu2hvtrM",
      "90z1AyganZQ"
@@ -2173,6 +2396,7 @@ $json = @'
    },
    {
     "name": "ILoveUIHateU",
+    "aliases": [],
     "ids": [
      "Wr0DB2OoWJ0"
     ],
@@ -2182,6 +2406,7 @@ $json = @'
    },
    {
     "name": "Die4Guy",
+    "aliases": [],
     "ids": [
      "BAQayG4uWbc",
      "dC96kwzpWK8"
@@ -2192,6 +2417,7 @@ $json = @'
    },
    {
     "name": "Not PLaying",
+    "aliases": [],
     "ids": [
      "rPD70iGrO6c",
      "8OdDu782dig"
@@ -2202,6 +2428,7 @@ $json = @'
    },
    {
     "name": "F33l Lik3 Dyin",
+    "aliases": [],
     "ids": [
      "77U2DjqlgQk",
      "6J6Qvg3bhxQ"
@@ -2225,6 +2452,7 @@ $json = @'
   "tracks": [
    {
     "name": "POP OUT",
+    "aliases": [],
     "ids": [
      "qrT2In7CyS4",
      "cZJY7F-0-Z0"
@@ -2235,6 +2463,7 @@ $json = @'
    },
    {
     "name": "CRUSH",
+    "aliases": [],
     "ids": [
      "Z7DNKniGhQY",
      "1HxLP3edRUU"
@@ -2245,6 +2474,7 @@ $json = @'
    },
    {
     "name": "K POP",
+    "aliases": [],
     "ids": [
      "0T2g5Yrk0DI",
      "sjgSrvg3tng"
@@ -2255,6 +2485,9 @@ $json = @'
    },
    {
     "name": "EVIL J0RDAN",
+    "aliases": [
+     "EVIL JORDAN"
+    ],
     "ids": [
      "iS4GzDibglM",
      "ipTJ1wCzWtg"
@@ -2265,6 +2498,7 @@ $json = @'
    },
    {
     "name": "MOJO JOJO",
+    "aliases": [],
     "ids": [
      "wt-TX6_FNFk",
      "qh4-Ie6YO2w"
@@ -2275,6 +2509,7 @@ $json = @'
    },
    {
     "name": "PHILLY",
+    "aliases": [],
     "ids": [
      "3LuXJ9K5Bzo",
      "TEn9eWamH3M"
@@ -2285,6 +2520,7 @@ $json = @'
    },
    {
     "name": "RADAR",
+    "aliases": [],
     "ids": [
      "lkSP4ohQCv0",
      "QJimlnP6x8o"
@@ -2295,6 +2531,7 @@ $json = @'
    },
    {
     "name": "RATHER LIE",
+    "aliases": [],
     "ids": [
      "-D1f_y2rpaA",
      "1nHm-YoOeNQ"
@@ -2305,6 +2542,7 @@ $json = @'
    },
    {
     "name": "FINE SHIT",
+    "aliases": [],
     "ids": [
      "Xq3WJ7Sk0ug",
      "1NboEopjer4"
@@ -2315,6 +2553,7 @@ $json = @'
    },
    {
     "name": "BACKD00R",
+    "aliases": [],
     "ids": [
      "LIkFifTjc2Q",
      "UFX3uqpXY44"
@@ -2325,6 +2564,7 @@ $json = @'
    },
    {
     "name": "TOXIC",
+    "aliases": [],
     "ids": [
      "_tyCWTc27FQ",
      "Xc-4l9Hh-So"
@@ -2335,6 +2575,7 @@ $json = @'
    },
    {
     "name": "MUNYUN",
+    "aliases": [],
     "ids": [
      "aLKtYQk6L0s",
      "XAHgoEJrGRc"
@@ -2345,6 +2586,7 @@ $json = @'
    },
    {
     "name": "CRANK",
+    "aliases": [],
     "ids": [
      "5V20A4rk_Wk",
      "Uq468ylj-DY"
@@ -2355,6 +2597,7 @@ $json = @'
    },
    {
     "name": "CHARGE DEM HOES A FEE",
+    "aliases": [],
     "ids": [
      "pq9v7AdT14o",
      "AD4KlSI8F5A"
@@ -2365,6 +2608,7 @@ $json = @'
    },
    {
     "name": "GOOD CREDIT",
+    "aliases": [],
     "ids": [
      "PbYTJMpC6-s",
      "S899BJgfck8"
@@ -2375,6 +2619,7 @@ $json = @'
    },
    {
     "name": "I SEEEEEE YOU BABY BOI",
+    "aliases": [],
     "ids": [
      "RnUqwWHuTyI",
      "RUw0gxLuO_Y"
@@ -2385,6 +2630,7 @@ $json = @'
    },
    {
     "name": "WAKE UP F1LTHY",
+    "aliases": [],
     "ids": [
      "lws34MJ0kg0",
      "yhF6X3rcY3M"
@@ -2395,6 +2641,7 @@ $json = @'
    },
    {
     "name": "JUMPIN",
+    "aliases": [],
     "ids": [
      "ornzBCnVRKQ",
      "7bIrN150_Co"
@@ -2405,6 +2652,7 @@ $json = @'
    },
    {
     "name": "TRIM",
+    "aliases": [],
     "ids": [
      "-VieETTmyko",
      "Nmmfs7wWDaY"
@@ -2415,6 +2663,7 @@ $json = @'
    },
    {
     "name": "COCAINE NOSE",
+    "aliases": [],
     "ids": [
      "xhVVyP0r3BM",
      "WM6cXAFs9KI"
@@ -2425,6 +2674,7 @@ $json = @'
    },
    {
     "name": "WE NEED ALL DA VIBES",
+    "aliases": [],
     "ids": [
      "cn3Be3fT4JM"
     ],
@@ -2434,6 +2684,7 @@ $json = @'
    },
    {
     "name": "OLYMPIAN",
+    "aliases": [],
     "ids": [
      "4XF0jzW4YAI",
      "xbFET5AyKSc"
@@ -2444,6 +2695,7 @@ $json = @'
    },
    {
     "name": "OPM BABI",
+    "aliases": [],
     "ids": [
      "33bhDaycWCc",
      "AcKvMKh7wXk"
@@ -2454,6 +2706,7 @@ $json = @'
    },
    {
     "name": "TWIN TRIM",
+    "aliases": [],
     "ids": [
      "qN1egPOuR9M",
      "wZu6ByZqua4"
@@ -2464,6 +2717,7 @@ $json = @'
    },
    {
     "name": "LIKE WEEZY",
+    "aliases": [],
     "ids": [
      "bWC-T3wMaRs",
      "ub57Y3TIGt8"
@@ -2474,6 +2728,7 @@ $json = @'
    },
    {
     "name": "DIS 1 GOT IT",
+    "aliases": [],
     "ids": [
      "As_zSlKYYWY",
      "heJPMhpEmNM"
@@ -2484,6 +2739,7 @@ $json = @'
    },
    {
     "name": "WALK",
+    "aliases": [],
     "ids": [
      "_Uzck4Krt6s",
      "FIqOyQbu33s"
@@ -2494,6 +2750,7 @@ $json = @'
    },
    {
     "name": "HBA",
+    "aliases": [],
     "ids": [
      "5HIT7QfFqEM",
      "8Ljsln-7lmA"
@@ -2504,6 +2761,7 @@ $json = @'
    },
    {
     "name": "KETAMINE",
+    "aliases": [],
     "ids": [
      "CcraOSVoTN0",
      "dkQrjeJaSuU"
@@ -2514,6 +2772,7 @@ $json = @'
    },
    {
     "name": "BACKR00MS",
+    "aliases": [],
     "ids": [
      "ffRGbXhzIXY",
      "idw4op--Spg"
@@ -2537,6 +2796,7 @@ $json = @'
   "tracks": [
    {
     "name": "Baby Pluto",
+    "aliases": [],
     "ids": [
      "wQ5qeYg9uQc",
      "brCiIZOp3mU"
@@ -2547,6 +2807,7 @@ $json = @'
    },
    {
     "name": "Lo Mein",
+    "aliases": [],
     "ids": [
      "WO-3y-jKEr8",
      "Di90rfnDtlM"
@@ -2557,6 +2818,7 @@ $json = @'
    },
    {
     "name": "Silly Watch",
+    "aliases": [],
     "ids": [
      "xLq-_ynJ0hY",
      "9Ag01d0QFO4"
@@ -2567,6 +2829,7 @@ $json = @'
    },
    {
     "name": "POP",
+    "aliases": [],
     "ids": [
      "S9SSzRHBkUs"
     ],
@@ -2576,6 +2839,7 @@ $json = @'
    },
    {
     "name": "You Better Move",
+    "aliases": [],
     "ids": [
      "8NQGYKeGHw0",
      "Nl5vHeyeWuE"
@@ -2586,6 +2850,7 @@ $json = @'
    },
    {
     "name": "Homecoming",
+    "aliases": [],
     "ids": [
      "-U5wE-E_y3Q",
      "7sWDDLTPJhM"
@@ -2596,6 +2861,7 @@ $json = @'
    },
    {
     "name": "I'm Sorry",
+    "aliases": [],
     "ids": [
      "skF-ZRiOSdw"
     ],
@@ -2605,6 +2871,7 @@ $json = @'
    },
    {
     "name": "Celebration Station",
+    "aliases": [],
     "ids": [
      "LT3QA9r4X0Q",
      "iue_TLDdoG0"
@@ -2615,6 +2882,7 @@ $json = @'
    },
    {
     "name": "Bigger Than Life",
+    "aliases": [],
     "ids": [
      "emF3d-Ln1I4",
      "HiMh79y2bj8"
@@ -2625,6 +2893,7 @@ $json = @'
    },
    {
     "name": "Chrome Heart Tags",
+    "aliases": [],
     "ids": [
      "qP1dBGx3n9s",
      "XiRGG4eb9YE"
@@ -2635,6 +2904,7 @@ $json = @'
    },
    {
     "name": "Bust Me",
+    "aliases": [],
     "ids": [
      "rIAAWmE_bzQ",
      "d9HRNCJ8zAg"
@@ -2645,6 +2915,7 @@ $json = @'
    },
    {
     "name": "Prices",
+    "aliases": [],
     "ids": [
      "UNqmtUq20TY",
      "BHCTTif2Qvs"
@@ -2655,6 +2926,7 @@ $json = @'
    },
    {
     "name": "Venetia",
+    "aliases": [],
     "ids": [
      "xcq3BGtGh1A",
      "I6cVpHwnGw0"
@@ -2665,11 +2937,13 @@ $json = @'
    },
    {
     "name": "Urgency",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Secure the Bag",
+    "aliases": [],
     "ids": [
      "Tz-ehTfO-Eg"
     ],
@@ -2679,6 +2953,7 @@ $json = @'
    },
    {
     "name": "P2",
+    "aliases": [],
     "ids": [
      "LE0kUOTtNNg",
      "eNYWniwKbTA"
@@ -2689,6 +2964,7 @@ $json = @'
    },
    {
     "name": "Futsal Shuffle 2020",
+    "aliases": [],
     "ids": [
      "9BnHtGLXoXg",
      "bLbZTtRGEm4"
@@ -2699,6 +2975,7 @@ $json = @'
    },
    {
     "name": "That Way",
+    "aliases": [],
     "ids": [
      "Chvo3OC5PCk",
      "tKmN-H7jH2o"
@@ -2722,6 +2999,7 @@ $json = @'
   "tracks": [
    {
     "name": "Two®",
+    "aliases": [],
     "ids": [
      "GhK4HfmM5-o"
     ],
@@ -2731,6 +3009,7 @@ $json = @'
    },
    {
     "name": "For Real",
+    "aliases": [],
     "ids": [
      "uVuMSjgi740"
     ],
@@ -2740,6 +3019,7 @@ $json = @'
    },
    {
     "name": "Sauce It Up",
+    "aliases": [],
     "ids": [
      "v1Yu0Apqmgw",
      "yBS_YeJHeSc"
@@ -2750,6 +3030,7 @@ $json = @'
    },
    {
     "name": "No Sleep Leak",
+    "aliases": [],
     "ids": [],
     "titles": [
      "No Sleep Leak INSTRUMENTAL (Flipped)"
@@ -2757,11 +3038,13 @@ $json = @'
    },
    {
     "name": "X",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "XO Tour Llif3",
+    "aliases": [],
     "ids": [
      "VQccMIS_tfc",
      "yy6NaShtfTc"
@@ -2772,6 +3055,7 @@ $json = @'
    },
    {
     "name": "Neon Guts",
+    "aliases": [],
     "ids": [
      "sR_7ArYVSEc",
      "YoWSZHFH-BU"
@@ -2782,6 +3066,7 @@ $json = @'
    },
    {
     "name": "Pretty Mami",
+    "aliases": [],
     "ids": [
      "vA2TUa7Uki8",
      "3UYH4n8dhhY"
@@ -2792,6 +3077,7 @@ $json = @'
    },
    {
     "name": "Early 20 Rager",
+    "aliases": [],
     "ids": [
      "mfGvT3EUf_I",
      "QBqUzQdybqs"
@@ -2802,6 +3088,7 @@ $json = @'
    },
    {
     "name": "UnFazed",
+    "aliases": [],
     "ids": [
      "jiyRaAKETa0",
      "PykOW-j5Sgo"
@@ -2812,6 +3099,7 @@ $json = @'
    },
    {
     "name": "Feelings Mutual",
+    "aliases": [],
     "ids": [
      "R4jGAe-v3Js",
      "NlZRZtMdpSI"
@@ -2822,6 +3110,7 @@ $json = @'
    },
    {
     "name": "444+222",
+    "aliases": [],
     "ids": [
      "dstaoXzyjac",
      "nBoIzatIDr4"
@@ -2832,6 +3121,7 @@ $json = @'
    },
    {
     "name": "The Way Life Goes",
+    "aliases": [],
     "ids": [
      "gJScPeAO0D4",
      "oZiubEwNMJc"
@@ -2842,6 +3132,7 @@ $json = @'
    },
    {
     "name": "Dark Queen",
+    "aliases": [],
     "ids": [
      "I8UHtLyTwCA",
      "-rJfWLfV0rA"
@@ -2852,6 +3143,7 @@ $json = @'
    },
    {
     "name": "How to Talk",
+    "aliases": [],
     "ids": [
      "A6WVnAnVqao"
     ],
@@ -2861,6 +3153,7 @@ $json = @'
    },
    {
     "name": "Malfunction",
+    "aliases": [],
     "ids": [
      "ZWL39FV2LRY"
     ],
@@ -2881,6 +3174,7 @@ $json = @'
   "tracks": [
    {
     "name": "Flooded the Face",
+    "aliases": [],
     "ids": [
      "arYwPueFm8k"
     ],
@@ -2890,6 +3184,7 @@ $json = @'
    },
    {
     "name": "Suicide Doors",
+    "aliases": [],
     "ids": [
      "GJNkNXnfjbg",
      "JN9amItIEso"
@@ -2900,6 +3195,7 @@ $json = @'
    },
    {
     "name": "Aye",
+    "aliases": [],
     "ids": [
      "6jQmqthJ6fg",
      "Vnpn9BlZatU"
@@ -2910,11 +3206,13 @@ $json = @'
    },
    {
     "name": "Crush Em",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Amped",
+    "aliases": [],
     "ids": [
      "qvbKIarRJGQ"
     ],
@@ -2924,6 +3222,7 @@ $json = @'
    },
    {
     "name": "x2",
+    "aliases": [],
     "ids": [
      "_5PGT0JaVhU"
     ],
@@ -2933,6 +3232,7 @@ $json = @'
    },
    {
     "name": "Died and Came Back",
+    "aliases": [],
     "ids": [
      "OQkTfb2dtvU"
     ],
@@ -2942,6 +3242,7 @@ $json = @'
    },
    {
     "name": "Spin Again",
+    "aliases": [],
     "ids": [
      "r75trsqkKCw",
      "zuTl-G5b1Wk"
@@ -2952,6 +3253,7 @@ $json = @'
    },
    {
     "name": "That Fiya",
+    "aliases": [],
     "ids": [
      "kFDnXj3ghw8"
     ],
@@ -2961,6 +3263,7 @@ $json = @'
    },
    {
     "name": "I Gotta",
+    "aliases": [],
     "ids": [
      "fClKtCDh5Kg"
     ],
@@ -2970,6 +3273,7 @@ $json = @'
    },
    {
     "name": "Endless Fashion",
+    "aliases": [],
     "ids": [
      "d_7a29j-J4Y",
      "UMOZFsM7qxc"
@@ -2980,6 +3284,7 @@ $json = @'
    },
    {
     "name": "Mama, I'm Sorry",
+    "aliases": [],
     "ids": [
      "ku8dIU76NAo",
      "TALuz0kuNq4"
@@ -2990,6 +3295,7 @@ $json = @'
    },
    {
     "name": "All Alone",
+    "aliases": [],
     "ids": [
      "FJu0HNzqxos"
     ],
@@ -2999,6 +3305,7 @@ $json = @'
    },
    {
     "name": "Nakamura",
+    "aliases": [],
     "ids": [
      "UluuhXL0Nx8"
     ],
@@ -3008,6 +3315,7 @@ $json = @'
    },
    {
     "name": "Just Wanna Rock",
+    "aliases": [],
     "ids": [
      "qf_c33bY_DY",
      "mJdYKefDwL4"
@@ -3018,6 +3326,7 @@ $json = @'
    },
    {
     "name": "Fire Alarm",
+    "aliases": [],
     "ids": [
      "SHzcSZ-mA0w",
      "XtfgkEsIklk"
@@ -3028,6 +3337,7 @@ $json = @'
    },
    {
     "name": "CS",
+    "aliases": [],
     "ids": [
      "nhx8H-z-M0o",
      "kOJJSbEPKUY"
@@ -3038,6 +3348,7 @@ $json = @'
    },
    {
     "name": "Werewolf",
+    "aliases": [],
     "ids": [
      "NHfcBFhHcck",
      "zYbJLiHnfxE"
@@ -3048,6 +3359,7 @@ $json = @'
    },
    {
     "name": "Pluto to Mars",
+    "aliases": [],
     "ids": [
      "Zy68SiIsr0w",
      "bwKwmVkCkCc"
@@ -3058,6 +3370,7 @@ $json = @'
    },
    {
     "name": "Confession",
+    "aliases": [],
     "ids": [
      "xG-unhL07OM"
     ],
@@ -3067,6 +3380,7 @@ $json = @'
    },
    {
     "name": "Days Come and Go",
+    "aliases": [],
     "ids": [
      "ChZYul8WUu4",
      "wlz-hK5qf5s"
@@ -3077,6 +3391,7 @@ $json = @'
    },
    {
     "name": "Rehab",
+    "aliases": [],
     "ids": [
      "EgSfRmsZvag",
      "mLeJwDdOxzE"
@@ -3087,6 +3402,7 @@ $json = @'
    },
    {
     "name": "The End",
+    "aliases": [],
     "ids": [
      "9lvu_nHOr9s",
      "JfnShXOPqis"
@@ -3097,6 +3413,7 @@ $json = @'
    },
    {
     "name": "Zoom",
+    "aliases": [],
     "ids": [
      "UICiUTk7_kQ"
     ],
@@ -3106,6 +3423,7 @@ $json = @'
    },
    {
     "name": "Of Course",
+    "aliases": [],
     "ids": [
      "YB7Ydnmydgk",
      "rZ0gWe2WM5U"
@@ -3116,6 +3434,7 @@ $json = @'
    },
    {
     "name": "Shardai",
+    "aliases": [],
     "ids": [
      "Cof0MPcFt9U",
      "NG2gqC-FwRI"
@@ -3139,11 +3458,13 @@ $json = @'
   "tracks": [
    {
     "name": "We Good",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Light Year (Practice)",
+    "aliases": [],
     "ids": [
      "U6r3h57-7m0",
      "yxD1CyRlL18",
@@ -3156,11 +3477,13 @@ $json = @'
    },
    {
     "name": "Meteor Man",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Paars in the Mars",
+    "aliases": [],
     "ids": [
      "P7Zg-fhiZPE"
     ],
@@ -3170,6 +3493,7 @@ $json = @'
    },
    {
     "name": "The Rush",
+    "aliases": [],
     "ids": [
      "NN8QQtYTMOM"
     ],
@@ -3179,6 +3503,7 @@ $json = @'
    },
    {
     "name": "Not an Option",
+    "aliases": [],
     "ids": [
      "x_qfapAv94k"
     ],
@@ -3188,6 +3513,7 @@ $json = @'
    },
    {
     "name": "She Stank",
+    "aliases": [],
     "ids": [
      "JAeZ1HB87QU"
     ],
@@ -3197,6 +3523,7 @@ $json = @'
    },
    {
     "name": "Mr Chow",
+    "aliases": [],
     "ids": [
      "GiYxlQT1vkc",
      "1Sr1qjgrZgw"
@@ -3207,6 +3534,7 @@ $json = @'
    },
    {
     "name": "Lyft Em Up",
+    "aliases": [],
     "ids": [
      "OFIfi-sp1xU",
      "A9790Fz_A4I"
@@ -3217,6 +3545,7 @@ $json = @'
    },
    {
     "name": "Chips and Dip",
+    "aliases": [],
     "ids": [
      "B-41wKNsBSI",
      "kwjLevfcZ-Q"
@@ -3227,6 +3556,7 @@ $json = @'
    },
    {
     "name": "Black Hole",
+    "aliases": [],
     "ids": [
      "7rwsV_nWdIU"
     ],
@@ -3236,6 +3566,7 @@ $json = @'
    },
    {
     "name": "Chill Bae",
+    "aliases": [],
     "ids": [
      "OzembJwrlok",
      "ue2w4PkSISs"
@@ -3246,6 +3577,7 @@ $json = @'
    },
    {
     "name": "Goddard Song",
+    "aliases": [],
     "ids": [
      "HZSIPx0RsPA",
      "iQum1pHsN-Q"
@@ -3256,6 +3588,7 @@ $json = @'
    },
    {
     "name": "PerkySex",
+    "aliases": [],
     "ids": [
      "7UuzOR-Yw1U",
      "r9JvK_f3_RU"
@@ -3266,6 +3599,7 @@ $json = @'
    },
    {
     "name": "Conceited",
+    "aliases": [],
     "ids": [
      "rCrqzzlL1xI"
     ],
@@ -3275,6 +3609,7 @@ $json = @'
    },
    {
     "name": "Space High",
+    "aliases": [],
     "ids": [
      "bX0booLwWaw"
     ],
@@ -3293,6 +3628,7 @@ $json = @'
   "tracks": [
    {
     "name": "4 Raws",
+    "aliases": [],
     "ids": [
      "spN8EfutL24",
      "PKP1Bp0IAjg"
@@ -3303,6 +3639,7 @@ $json = @'
    },
    {
     "name": "Cali Man",
+    "aliases": [],
     "ids": [
      "CZanl-nrjr0",
      "AbqXpF2A870"
@@ -3313,6 +3650,7 @@ $json = @'
    },
    {
     "name": "Prague",
+    "aliases": [],
     "ids": [
      "Zj2C7Dkt3ps",
      "WaSmWULpLiI"
@@ -3323,6 +3661,7 @@ $json = @'
    },
    {
     "name": "Dirty",
+    "aliases": [],
     "ids": [
      "kvQau5T-eRE",
      "cFItLL6EgoM"
@@ -3333,6 +3672,7 @@ $json = @'
    },
    {
     "name": "LV Sandals",
+    "aliases": [],
     "ids": [
      "Z4izYJdR4-I",
      "PUos5m9zvLM"
@@ -3343,6 +3683,7 @@ $json = @'
    },
    {
     "name": "Panic",
+    "aliases": [],
     "ids": [
      "fiv90mnb1hM",
      "bFyHo71VAEY"
@@ -3353,6 +3694,7 @@ $json = @'
    },
    {
     "name": "5am",
+    "aliases": [],
     "ids": [
      "pKOWQssx2P8",
      "reEbTA4oPyU"
@@ -3363,6 +3705,7 @@ $json = @'
    },
    {
     "name": "Phantom",
+    "aliases": [],
     "ids": [
      "1gSVuidT6XY",
      "5HuPdgx4_iQ"
@@ -3373,6 +3716,7 @@ $json = @'
    },
    {
     "name": "Mist",
+    "aliases": [],
     "ids": [
      "6isTA2GtJBc",
      "rf5E8yyqeVA"
@@ -3383,6 +3727,7 @@ $json = @'
    },
    {
     "name": "Rottweiler",
+    "aliases": [],
     "ids": [
      "jMYBQhuOMnI",
      "6w11zk1niwc"
@@ -3393,6 +3738,7 @@ $json = @'
    },
    {
     "name": "Tartan",
+    "aliases": [],
     "ids": [
      "bfnOcS7Soo8",
      "ZTT8kOP6jB0"
@@ -3415,6 +3761,7 @@ $json = @'
   "tracks": [
    {
     "name": "Who's Next",
+    "aliases": [],
     "ids": [
      "SFzulZEkdyE",
      "9xrNiVMZup0"
@@ -3425,6 +3772,7 @@ $json = @'
    },
    {
     "name": "Rock N Roll",
+    "aliases": [],
     "ids": [
      "YEeLJpYfJqo",
      "g0ss_6qRf-c"
@@ -3435,6 +3783,7 @@ $json = @'
    },
    {
     "name": "Party All Day",
+    "aliases": [],
     "ids": [
      "U1pOFd4-fIM",
      "r8z4OuIASoY"
@@ -3445,6 +3794,7 @@ $json = @'
    },
    {
     "name": "Change",
+    "aliases": [],
     "ids": [
      "nEY651kns7k",
      "PVE72baDJ-I"
@@ -3455,6 +3805,7 @@ $json = @'
    },
    {
     "name": "Run + Ran",
+    "aliases": [],
     "ids": [
      "HB8yCvN4mGg",
      "qrJHSVtPjPo"
@@ -3465,6 +3816,7 @@ $json = @'
    },
    {
     "name": "Shake",
+    "aliases": [],
     "ids": [
      "rdvLmwBKUNU",
      "6J_O7E0ddhs"
@@ -3475,6 +3827,7 @@ $json = @'
    },
    {
     "name": "Hella",
+    "aliases": [],
     "ids": [
      "gQgAJytYabQ",
      "r8-e1vZoIEo"
@@ -3485,6 +3838,7 @@ $json = @'
    },
    {
     "name": "Clutch",
+    "aliases": [],
     "ids": [
      "mK5V4-G-AJU",
      "8uNjR4d0bPI"
@@ -3495,6 +3849,7 @@ $json = @'
    },
    {
     "name": "Till I Die",
+    "aliases": [],
     "ids": [
      "aHsF-898EZw"
     ],
@@ -3504,6 +3859,7 @@ $json = @'
    },
    {
     "name": "Burnin Up",
+    "aliases": [],
     "ids": [
      "yTpBvvPXoVM",
      "cjz6LNgm7oU"
@@ -3514,6 +3870,7 @@ $json = @'
    },
    {
     "name": "So What",
+    "aliases": [],
     "ids": [
      "kkVhBIlaVhs",
      "ofMkZSW8siU"
@@ -3536,6 +3893,7 @@ $json = @'
   "tracks": [
    {
     "name": "Green Room",
+    "aliases": [],
     "ids": [
      "-tyJJjdoxtU",
      "h5G4ZVI5GeM"
@@ -3546,6 +3904,7 @@ $json = @'
    },
    {
     "name": "Jennifer's Body",
+    "aliases": [],
     "ids": [
      "RvQv8_jJsHY",
      "U6COYxsB6hs"
@@ -3556,6 +3915,7 @@ $json = @'
    },
    {
     "name": "Fighting My Demons",
+    "aliases": [],
     "ids": [
      "s8AMxUo_15o",
      "_rQDOjHMjk8"
@@ -3566,6 +3926,7 @@ $json = @'
    },
    {
     "name": "Singapore",
+    "aliases": [],
     "ids": [
      "E2_r-M6jfWU",
      "hEMG1ih2740"
@@ -3576,6 +3937,7 @@ $json = @'
    },
    {
     "name": "Lose It",
+    "aliases": [],
     "ids": [
      "RUfDN7i6KRQ",
      "S3uDGlluHgg"
@@ -3586,6 +3948,7 @@ $json = @'
    },
    {
     "name": "Hardcore",
+    "aliases": [],
     "ids": [
      "MY38NmI6AOM",
      "ftNZLajhVtY"
@@ -3596,6 +3959,7 @@ $json = @'
    },
    {
     "name": "Me N My Kup",
+    "aliases": [],
     "ids": [
      "WnlBWyyEKIg",
      "HA81gQtg0bo"
@@ -3606,6 +3970,7 @@ $json = @'
    },
    {
     "name": "It's Over",
+    "aliases": [],
     "ids": [
      "ysny34B06mk",
      "Xuj3Own1g5k"
@@ -3616,6 +3981,7 @@ $json = @'
    },
    {
     "name": "Succubus",
+    "aliases": [],
     "ids": [
      "o2EwExzO1F8",
      "_ksaoLKnht4"
@@ -3626,6 +3992,7 @@ $json = @'
    },
    {
     "name": "Paranoid",
+    "aliases": [],
     "ids": [
      "pCKOJgPOzkE",
      "z-PNwad_m_0"
@@ -3636,6 +4003,7 @@ $json = @'
    },
    {
     "name": "Pots",
+    "aliases": [],
     "ids": [
      "rRyXWUmr2lc",
      "H5pHTmwyDgQ"
@@ -3646,11 +4014,13 @@ $json = @'
    },
    {
     "name": "Like This",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Overtime",
+    "aliases": [],
     "ids": [
      "OL8mR1wYUNo",
      "oat-bYkU6-w"
@@ -3661,6 +4031,7 @@ $json = @'
    },
    {
     "name": "Vampire Hour",
+    "aliases": [],
     "ids": [
      "abpd3QgdJrI",
      "phqbluqopUo"
@@ -3671,6 +4042,7 @@ $json = @'
    },
    {
     "name": "Nightcore",
+    "aliases": [],
     "ids": [
      "W9WspVOC-14",
      "nVthE2CME1g"
@@ -3681,6 +4053,7 @@ $json = @'
    },
    {
     "name": "Nightcore 2",
+    "aliases": [],
     "ids": [
      "oa7RFtao21c",
      "rdJ8swedi5s",
@@ -3693,6 +4066,7 @@ $json = @'
    },
    {
     "name": "Rockstar Lifestyle",
+    "aliases": [],
     "ids": [
      "kbG4KEtHR_g",
      "78me6tSIxJg"
@@ -3703,6 +4077,7 @@ $json = @'
    },
    {
     "name": "I Need U",
+    "aliases": [],
     "ids": [
      "L1jBdE6RklE",
      "jq2IsoyAJZM"
@@ -3725,6 +4100,7 @@ $json = @'
   "tracks": [
    {
     "name": "Lord Of Chaos",
+    "aliases": [],
     "ids": [
      "AOdZjkNJH6Y",
      "3p-Mc6ea8D4"
@@ -3735,6 +4111,7 @@ $json = @'
    },
    {
     "name": "Xposed",
+    "aliases": [],
     "ids": [
      "SB5GaFVgfHw",
      "UWc0_MufDFk"
@@ -3745,6 +4122,7 @@ $json = @'
    },
    {
     "name": "Money Spread",
+    "aliases": [],
     "ids": [
      "NVewEux33gI",
      "awOYFuvG_Qs"
@@ -3755,6 +4133,7 @@ $json = @'
    },
    {
     "name": "Root Of All Evil",
+    "aliases": [],
     "ids": [
      "SZCK3FK2dBk"
     ],
@@ -3764,6 +4143,7 @@ $json = @'
    },
    {
     "name": "K-Hole",
+    "aliases": [],
     "ids": [
      "MN-7dpDgg54",
      "rrW8H281ZvI"
@@ -3774,6 +4154,7 @@ $json = @'
    },
    {
     "name": "Trap Jump",
+    "aliases": [],
     "ids": [
      "Hkozonpbi5k",
      "SIWgUVcEayc"
@@ -3784,6 +4165,7 @@ $json = @'
    },
    {
     "name": "Blakk Rokkstar",
+    "aliases": [],
     "ids": [
      "Mp-EvhrMXAw",
      "Djk6IVrr8BY"
@@ -3794,6 +4176,7 @@ $json = @'
    },
    {
     "name": "LiveLeak",
+    "aliases": [],
     "ids": [
      "lEkAROR6uD4",
      "R_eNZhYHtQY"
@@ -3804,6 +4187,7 @@ $json = @'
    },
    {
     "name": "Diamonds",
+    "aliases": [],
     "ids": [
      "upMu86B9qCw",
      "aIGyXRHi9xc"
@@ -3814,6 +4198,7 @@ $json = @'
    },
    {
     "name": "Dismantled",
+    "aliases": [],
     "ids": [
      "GH85XzsqRaU",
      "I7afXetvAb8"
@@ -3824,6 +4209,7 @@ $json = @'
    },
    {
     "name": "200 Kash",
+    "aliases": [],
     "ids": [
      "yZ3nXBppOdQ",
      "4K02LUrNi9E"
@@ -3834,6 +4220,7 @@ $json = @'
    },
    {
     "name": "Down2Earth",
+    "aliases": [],
     "ids": [
      "PqBWtoR1iUM",
      "xekLSRuTZS8"
@@ -3844,6 +4231,7 @@ $json = @'
    },
    {
     "name": "Confetti",
+    "aliases": [],
     "ids": [
      "tcZXKpteRNo",
      "RhxmC56MLyU",
@@ -3856,6 +4244,7 @@ $json = @'
    },
    {
     "name": "Naked",
+    "aliases": [],
     "ids": [
      "x81ZLuAsTJc",
      "r-Dw_GB5m_8"
@@ -3866,6 +4255,7 @@ $json = @'
    },
    {
     "name": "Kryptonite",
+    "aliases": [],
     "ids": [
      "z8b1gQ1T9go",
      "WtwjPPNV1AM"
@@ -3876,6 +4266,7 @@ $json = @'
    },
    {
     "name": "Psycho",
+    "aliases": [],
     "ids": [
      "IUgVg9NCygE",
      "0I6LWj9fn6g"
@@ -3886,6 +4277,7 @@ $json = @'
    },
    {
     "name": "Inferno",
+    "aliases": [],
     "ids": [
      "dF0C8MF-ISE",
      "rtijCr0EszU"
@@ -3896,6 +4288,7 @@ $json = @'
    },
    {
     "name": "Thx",
+    "aliases": [],
     "ids": [
      "8rNImGH84y0",
      "zmSl5xxsu-c"
@@ -3918,21 +4311,25 @@ $json = @'
   "tracks": [
    {
     "name": "wheredoistart",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "deaf note",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "shadeson",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "gynecologist",
+    "aliases": [],
     "ids": [
      "ukg5tK4r5AI"
     ],
@@ -3942,11 +4339,13 @@ $json = @'
    },
    {
     "name": "wrist",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "edm",
+    "aliases": [],
     "ids": [
      "XXJxMFhLHoI",
      "JErggI92Mhc"
@@ -3958,16 +4357,19 @@ $json = @'
    },
    {
     "name": "truth",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "outofmybody",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "the ritual",
+    "aliases": [],
     "ids": [
      "ukC7KIsSvDY"
     ],
@@ -3977,6 +4379,7 @@ $json = @'
    },
    {
     "name": "interlude",
+    "aliases": [],
     "ids": [
      "ifgBLswY0cg"
     ],
@@ -3986,6 +4389,7 @@ $json = @'
    },
    {
     "name": "ghost",
+    "aliases": [],
     "ids": [
      "kS919j7jrh0",
      "e0Mg9NGt3PM"
@@ -3996,6 +4400,7 @@ $json = @'
    },
    {
     "name": "drug kit",
+    "aliases": [],
     "ids": [
      "i7-Rkh8UreU",
      "TPCnTTi1VZI"
@@ -4006,6 +4411,7 @@ $json = @'
    },
    {
     "name": "possession",
+    "aliases": [],
     "ids": [
      "mJt-DjiKeGg"
     ],
@@ -4015,6 +4421,7 @@ $json = @'
    },
    {
     "name": "fw00",
+    "aliases": [],
     "ids": [
      "z1XrGxjmUCA"
     ],
@@ -4024,21 +4431,25 @@ $json = @'
    },
    {
     "name": "somanybags",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "shopping",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "amandabynes",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "amnesia",
+    "aliases": [],
     "ids": [
      "uWR9Rps6k3g"
     ],
@@ -4048,6 +4459,7 @@ $json = @'
    },
    {
     "name": "flamethrower",
+    "aliases": [],
     "ids": [
      "JSSgJM_QACU"
     ],
@@ -4057,6 +4469,7 @@ $json = @'
    },
    {
     "name": "knocking",
+    "aliases": [],
     "ids": [
      "DAvq5nhevbA"
     ],
@@ -4066,6 +4479,7 @@ $json = @'
    },
    {
     "name": "addiction",
+    "aliases": [],
     "ids": [
      "O08SKeV91P4"
     ],
@@ -4075,6 +4489,7 @@ $json = @'
    },
    {
     "name": "wedidit",
+    "aliases": [],
     "ids": [
      "2St4C9rxRss"
     ],
@@ -4096,6 +4511,7 @@ $json = @'
   "tracks": [
    {
     "name": "Scrape",
+    "aliases": [],
     "ids": [
      "5KZ4A4ggIGg"
     ],
@@ -4105,11 +4521,13 @@ $json = @'
    },
    {
     "name": "Swag Jack",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Off a Bean",
+    "aliases": [],
     "ids": [
      "RY9jgTCdzCs",
      "WNiHJfBegmQ"
@@ -4120,6 +4538,7 @@ $json = @'
    },
    {
     "name": "Rare Creature",
+    "aliases": [],
     "ids": [
      "hnpP1xqpS-Q"
     ],
@@ -4129,6 +4548,7 @@ $json = @'
    },
    {
     "name": "50K",
+    "aliases": [],
     "ids": [
      "NBgNj8Q_urQ",
      "RuxuHjfAjzA"
@@ -4139,6 +4559,7 @@ $json = @'
    },
    {
     "name": "Roxy Reynolds",
+    "aliases": [],
     "ids": [
      "QIMx5qKdC3w"
     ],
@@ -4148,6 +4569,7 @@ $json = @'
    },
    {
     "name": "005",
+    "aliases": [],
     "ids": [
      "cqIshJ2mCfE"
     ],
@@ -4157,6 +4579,7 @@ $json = @'
    },
    {
     "name": "Eaters",
+    "aliases": [],
     "ids": [
      "m9NhTDkBSiU"
     ],
@@ -4166,6 +4589,7 @@ $json = @'
    },
    {
     "name": "9 Bitches",
+    "aliases": [],
     "ids": [
      "Jj4sa8zeo9I",
      "KrmZ1xlWZvY"
@@ -4176,6 +4600,7 @@ $json = @'
    },
    {
     "name": "Vamp City",
+    "aliases": [],
     "ids": [
      "vMFbWgy5HTM",
      "oQQJD6dgFH4",
@@ -4188,6 +4613,7 @@ $json = @'
    },
    {
     "name": "Fake News",
+    "aliases": [],
     "ids": [
      "E7EqzEKAgpA"
     ],
@@ -4197,6 +4623,7 @@ $json = @'
    },
    {
     "name": "Disturbing the Peace",
+    "aliases": [],
     "ids": [
      "-9wW8GD7lFU"
     ],
@@ -4206,6 +4633,7 @@ $json = @'
    },
    {
     "name": "Yvngvmp",
+    "aliases": [],
     "ids": [
      "XGtHfbeZNyQ"
     ],
@@ -4227,6 +4655,7 @@ $json = @'
   "tracks": [
    {
     "name": "Intro",
+    "aliases": [],
     "ids": [
      "-WWTfM2-k8c",
      "cGdadjV2TOY"
@@ -4237,6 +4666,7 @@ $json = @'
    },
    {
     "name": "New",
+    "aliases": [],
     "ids": [
      "bwxj0ULsoTk"
     ],
@@ -4246,11 +4676,13 @@ $json = @'
    },
    {
     "name": "Gems",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Nobody",
+    "aliases": [],
     "ids": [
      "thKIU9x2c5Y",
      "vRSMzghPvFw"
@@ -4261,6 +4693,7 @@ $json = @'
    },
    {
     "name": "Go",
+    "aliases": [],
     "ids": [
      "xJ57E5Iysr8",
      "y1f4Qvw8Fhw"
@@ -4271,6 +4704,7 @@ $json = @'
    },
    {
     "name": "MDMA",
+    "aliases": [],
     "ids": [
      "_uNMoRo-G54",
      "8euR24eVRA0"
@@ -4281,6 +4715,7 @@ $json = @'
    },
    {
     "name": "X",
+    "aliases": [],
     "ids": [
      "U2AMeRknSmM",
      "kb-UAZMKdyE"
@@ -4291,6 +4726,7 @@ $json = @'
    },
    {
     "name": "PDBMH",
+    "aliases": [],
     "ids": [
      "gwFhwtLHmIo",
      "AT_6WVdyWuk"
@@ -4301,6 +4737,7 @@ $json = @'
    },
    {
     "name": "Money Hunt",
+    "aliases": [],
     "ids": [
      "UDSpHOVi1kU"
     ],
@@ -4310,6 +4747,7 @@ $json = @'
    },
    {
     "name": "South Beach",
+    "aliases": [],
     "ids": [
      "Xm1sf6pF-MA",
      "CHYAx4H3SIw"
@@ -4320,11 +4758,13 @@ $json = @'
    },
    {
     "name": "Going Schitz",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Same Thing",
+    "aliases": [],
     "ids": [
      "h2CmOD7txko",
      "WSHIs67AVEo"
@@ -4335,6 +4775,7 @@ $json = @'
    },
    {
     "name": "Freestyle 1",
+    "aliases": [],
     "ids": [
      "zU79V4IKlIA",
      "ELsYcYjOzQc"
@@ -4345,6 +4786,7 @@ $json = @'
    },
    {
     "name": "Freestyle 2",
+    "aliases": [],
     "ids": [
      "E--1nJ9TAhM",
      "5Qquttb0LdY"
@@ -4355,6 +4797,7 @@ $json = @'
    },
    {
     "name": "Fuk 12",
+    "aliases": [],
     "ids": [
      "hSvvyIE-T8Q"
     ],
@@ -4364,6 +4807,7 @@ $json = @'
    },
    {
     "name": "Murda Musik",
+    "aliases": [],
     "ids": [
      "coULGJZTevc",
      "lJIzNzM0BlY"
@@ -4374,6 +4818,7 @@ $json = @'
    },
    {
     "name": "Delinquent",
+    "aliases": [],
     "ids": [
      "cSo4nLcwDQA",
      "4ryWmzzPyXA"
@@ -4384,6 +4829,7 @@ $json = @'
    },
    {
     "name": "Get Rich Or Die",
+    "aliases": [],
     "ids": [
      "lGIHKLKezfs",
      "EKb4smJAj8M"
@@ -4394,6 +4840,7 @@ $json = @'
    },
    {
     "name": "Turn Up",
+    "aliases": [],
     "ids": [],
     "titles": [
      "KEN CARSON - TURN UP [INSTRUMENTAL] (PROD. RJ THE 1ST)"
@@ -4401,6 +4848,7 @@ $json = @'
    },
    {
     "name": "The End",
+    "aliases": [],
     "ids": [
      "0byKgTHWv70"
     ],
@@ -4421,6 +4869,7 @@ $json = @'
   "tracks": [
    {
     "name": "JETLGGD",
+    "aliases": [],
     "ids": [
      "rRVGoXC3bgw",
      "piATAu-ukfo"
@@ -4431,11 +4880,13 @@ $json = @'
    },
    {
     "name": "BERGDORF",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "<3MYGNG",
+    "aliases": [],
     "ids": [
      "sMSoHnsouto"
     ],
@@ -4445,6 +4896,7 @@ $json = @'
    },
    {
     "name": "VTMNTSCOAT",
+    "aliases": [],
     "ids": [
      "P_o8sRlMTOg",
      "4mnPVsMuNdw"
@@ -4455,6 +4907,9 @@ $json = @'
    },
    {
     "name": "NOSTYLIST",
+    "aliases": [
+     "NO STYLIST"
+    ],
     "ids": [
      "b0T8ToZxnzQ",
      "cWz5zZwF0iw"
@@ -4465,6 +4920,7 @@ $json = @'
    },
    {
     "name": "FAKENGGAS",
+    "aliases": [],
     "ids": [
      "YVhxYegG11o"
     ],
@@ -4474,11 +4930,13 @@ $json = @'
    },
    {
     "name": "SOARIN",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "TURNINUP",
+    "aliases": [],
     "ids": [
      "vNxqMI1VEhQ",
      "uFvQlXF5JoM"
@@ -4489,16 +4947,19 @@ $json = @'
    },
    {
     "name": "LNLY",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "PRSSURE",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "ONTHETABLE",
+    "aliases": [],
     "ids": [
      "S5mLEvtW8v0"
     ],
@@ -4508,11 +4969,13 @@ $json = @'
    },
    {
     "name": "SWGSKOOL",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "CRYSTLCSTLES",
+    "aliases": [],
     "ids": [
      "XP6mzMol7gE"
     ],
@@ -4522,6 +4985,7 @@ $json = @'
    },
    {
     "name": "DANGEROUS",
+    "aliases": [],
     "ids": [
      "WHX9VIziKco"
     ],
@@ -4531,6 +4995,7 @@ $json = @'
    },
    {
     "name": "MKEITSTOP",
+    "aliases": [],
     "ids": [
      "HBzEBx7T3NY",
      "d_90r91JZIs"
@@ -4541,6 +5006,7 @@ $json = @'
    },
    {
     "name": "ONTHEFLOOR",
+    "aliases": [],
     "ids": [
      "dnPqW6WbELk"
     ],
@@ -4550,16 +5016,19 @@ $json = @'
    },
    {
     "name": "PASSAROUND",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "OTW",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "VETERAN",
+    "aliases": [],
     "ids": [
      "EgEZfWfrzJY",
      "Kb7KqJ_Kc4A"
@@ -4583,6 +5052,7 @@ $json = @'
   "tracks": [
    {
     "name": "how u feel?",
+    "aliases": [],
     "ids": [
      "xh1u0FkPK5w"
     ],
@@ -4592,6 +5062,7 @@ $json = @'
    },
    {
     "name": "if looks could kill",
+    "aliases": [],
     "ids": [
      "1AZXSnXmbjM",
      "NuXCMROoonQ"
@@ -4602,6 +5073,7 @@ $json = @'
    },
    {
     "name": "fly sht",
+    "aliases": [],
     "ids": [
      "yA9QuVsDy9k",
      "fCtJS-LtLys"
@@ -4612,11 +5084,13 @@ $json = @'
    },
    {
     "name": "which one",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "raver",
+    "aliases": [],
     "ids": [
      "_gWI5VIDkfY"
     ],
@@ -4626,6 +5100,7 @@ $json = @'
    },
    {
     "name": "came in wit",
+    "aliases": [],
     "ids": [
      "C1TeKNWJrvU"
     ],
@@ -4635,6 +5110,7 @@ $json = @'
    },
    {
     "name": "by the pound",
+    "aliases": [],
     "ids": [
      "VyMJ4Vcq4fg"
     ],
@@ -4644,6 +5120,7 @@ $json = @'
    },
    {
     "name": "all the time",
+    "aliases": [],
     "ids": [
      "4OA8Cx2fkrs"
     ],
@@ -4653,11 +5130,13 @@ $json = @'
    },
    {
     "name": "biggest problem",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "chris paul",
+    "aliases": [],
     "ids": [
      "Z8sh6dB2fBk"
     ],
@@ -4667,26 +5146,31 @@ $json = @'
    },
    {
     "name": "superstar",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "new new",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "right now",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "which way",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "wagwan",
+    "aliases": [],
     "ids": [
      "Vi8CtP9NqmU",
      "ch1KsHDRIEc"
@@ -4697,6 +5181,7 @@ $json = @'
    },
    {
     "name": "moment of silence",
+    "aliases": [],
     "ids": [
      "v6Xu5AxiRK8"
     ],
@@ -4706,6 +5191,7 @@ $json = @'
    },
    {
     "name": "brazy girls",
+    "aliases": [],
     "ids": [
      "Qt7dT8dmO3c"
     ],
@@ -4715,31 +5201,37 @@ $json = @'
    },
    {
     "name": "goin up",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "passenger",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "promo",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "worth it",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "redlight",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "make sum work",
+    "aliases": [],
     "ids": [
      "IS457JvtFl4"
     ],
@@ -4749,6 +5241,7 @@ $json = @'
    },
    {
     "name": "safety (interlude)",
+    "aliases": [],
     "ids": [
      "Hb65jcESLRg"
     ],
@@ -4758,6 +5251,7 @@ $json = @'
    },
    {
     "name": "your eyes",
+    "aliases": [],
     "ids": [
      "7I4THjZzQ8Q"
     ],
@@ -4767,6 +5261,7 @@ $json = @'
    },
    {
     "name": "money & sex",
+    "aliases": [],
     "ids": [
      "wo0kFORRNNU",
      "i4XjbzmLBFo"
@@ -4790,16 +5285,19 @@ $json = @'
   "tracks": [
    {
     "name": "FOREVER",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "LOVE HURTS",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "LUV4YA",
+    "aliases": [],
     "ids": [
      "O-JKOhGoQJA"
     ],
@@ -4809,6 +5307,7 @@ $json = @'
    },
    {
     "name": "CRYSTAL CLEAR",
+    "aliases": [],
     "ids": [
      "j2iDXtGaaJc"
     ],
@@ -4818,11 +5317,13 @@ $json = @'
    },
    {
     "name": "BANGAZ",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "BABY MONEY",
+    "aliases": [],
     "ids": [
      "Fc8iKUYxQIo"
     ],
@@ -4832,16 +5333,19 @@ $json = @'
    },
    {
     "name": "SAY THAT",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "PIMP TALK",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "CADILLAC",
+    "aliases": [],
     "ids": [
      "S0EA7IddS84"
     ],
@@ -4851,6 +5355,7 @@ $json = @'
    },
    {
     "name": "SYRUP SIPPIN",
+    "aliases": [],
     "ids": [
      "vU5C83Of87c",
      "eHUJzsCAo7M"
@@ -4861,6 +5366,7 @@ $json = @'
    },
    {
     "name": "LOCK IN",
+    "aliases": [],
     "ids": [
      "rCZ0kAYQTb0"
     ],
@@ -4870,6 +5376,7 @@ $json = @'
    },
    {
     "name": "DOUBT IT",
+    "aliases": [],
     "ids": [
      "-EAKCqEiys4",
      "2MTxiMje_XE"
@@ -4880,6 +5387,7 @@ $json = @'
    },
    {
     "name": "WISH YOU WELL",
+    "aliases": [],
     "ids": [
      "fPYWLjfKL2I"
     ],
@@ -4889,11 +5397,13 @@ $json = @'
    },
    {
     "name": "SHIP HER OFF",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "HONESTLY",
+    "aliases": [],
     "ids": [
      "FR0LQn_XQdE"
     ],
@@ -4903,6 +5413,7 @@ $json = @'
    },
    {
     "name": "TAKE A TRIP",
+    "aliases": [],
     "ids": [
      "NVvjicSi-C4"
     ],
@@ -4912,6 +5423,7 @@ $json = @'
    },
    {
     "name": "EXTRA HIGH",
+    "aliases": [],
     "ids": [
      "WF3TzjIH3zg"
     ],
@@ -4921,16 +5433,19 @@ $json = @'
    },
    {
     "name": "AMERIKA",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "ABOUT MONEY",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "NO WORRIES",
+    "aliases": [],
     "ids": [],
     "titles": []
    }
@@ -4951,11 +5466,13 @@ $json = @'
   "tracks": [
    {
     "name": "aint hard",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "risk",
+    "aliases": [],
     "ids": [
      "gbS0d37-tyk"
     ],
@@ -4965,6 +5482,7 @@ $json = @'
    },
    {
     "name": "see no evil",
+    "aliases": [],
     "ids": [
      "RhTzTPwdXMI",
      "XBVES68Phd0"
@@ -4975,11 +5493,13 @@ $json = @'
    },
    {
     "name": "no pressure",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "stfu",
+    "aliases": [],
     "ids": [
      "g0bU0v66kss"
     ],
@@ -4989,16 +5509,19 @@ $json = @'
    },
    {
     "name": "show u how",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "top flo",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "kansas",
+    "aliases": [],
     "ids": [
      "U-3MqIB-2K0"
     ],
@@ -5008,16 +5531,19 @@ $json = @'
    },
    {
     "name": "screwed up",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "party n get high (interlude)",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "leash",
+    "aliases": [],
     "ids": [
      "QgAOcO_3AsA"
     ],
@@ -5027,6 +5553,7 @@ $json = @'
    },
    {
     "name": "jumanji",
+    "aliases": [],
     "ids": [
      "lWJ3ruVLUkw"
     ],
@@ -5036,6 +5563,7 @@ $json = @'
    },
    {
     "name": "not the mayor",
+    "aliases": [],
     "ids": [
      "2I-a4RiClAM"
     ],
@@ -5045,11 +5573,13 @@ $json = @'
    },
    {
     "name": "blowin smoke",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "kool on ya",
+    "aliases": [],
     "ids": [
      "yG7RieMy-GY"
     ],
@@ -5059,16 +5589,19 @@ $json = @'
    },
    {
     "name": "soooo high",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "open it up",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "leave u out 2 dry",
+    "aliases": [],
     "ids": [
      "OeSnUK7mkco"
     ],
@@ -5090,6 +5623,7 @@ $json = @'
   "tracks": [
    {
     "name": "Lifestyle",
+    "aliases": [],
     "ids": [
      "xIJVpRWwVZQ",
      "fAfBFSDBWvs"
@@ -5100,26 +5634,31 @@ $json = @'
    },
    {
     "name": "Guitars",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Can't Go",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Tatted",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "5 Ways",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "V-Friends",
+    "aliases": [],
     "ids": [
      "tT8sRR_2xzs"
     ],
@@ -5129,11 +5668,13 @@ $json = @'
    },
    {
     "name": "BB",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Lif3",
+    "aliases": [],
     "ids": [
      "PHSA6S9D9aM"
     ],
@@ -5143,6 +5684,7 @@ $json = @'
    },
    {
     "name": "TF!",
+    "aliases": [],
     "ids": [
      "al7J0QVPBJI",
      "i1SdGh6dySU"
@@ -5153,26 +5695,31 @@ $json = @'
    },
    {
     "name": "Notice It",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "None 2 Some",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Scale Stretcher",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Tripping",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Stunt",
+    "aliases": [],
     "ids": [
      "hp7clWuHI24",
      "S0NNiP99qAs"
@@ -5183,6 +5730,7 @@ $json = @'
    },
    {
     "name": "Drakon",
+    "aliases": [],
     "ids": [
      "7Gf8it_6lso"
     ],
@@ -5192,16 +5740,19 @@ $json = @'
    },
    {
     "name": "CV",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Wings",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Shots Off",
+    "aliases": [],
     "ids": [],
     "titles": []
    }
@@ -5219,6 +5770,7 @@ $json = @'
   "tracks": [
    {
     "name": "ADHD",
+    "aliases": [],
     "ids": [
      "k5Ov_TtKFz8",
      "bvq0gTJxKBw"
@@ -5229,41 +5781,49 @@ $json = @'
    },
    {
     "name": "Homixide Language",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "5!RE",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Wants & Needs",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "TNT",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "C4N",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Snot Sh!t",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Dive In",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Uzi Work",
+    "aliases": [],
     "ids": [
      "u-UIz5_SUfk",
      "Z13ZIKTUG2M"
@@ -5274,16 +5834,19 @@ $json = @'
    },
    {
     "name": "2 da Face",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Block Work",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "Flights Booked",
+    "aliases": [],
     "ids": [],
     "titles": []
    }
@@ -5303,6 +5866,7 @@ $json = @'
   "tracks": [
    {
     "name": "Gunz in SOHO",
+    "aliases": [],
     "ids": [
      "iYN5Y7qE0UQ"
     ],
@@ -5312,6 +5876,7 @@ $json = @'
    },
    {
     "name": "LexLuger",
+    "aliases": [],
     "ids": [
      "8GoNLvLfPgI"
     ],
@@ -5321,6 +5886,7 @@ $json = @'
    },
    {
     "name": "B5",
+    "aliases": [],
     "ids": [
      "9N9yoT5hS3c"
     ],
@@ -5330,6 +5896,7 @@ $json = @'
    },
    {
     "name": "NiNO 5ROWN",
+    "aliases": [],
     "ids": [
      "YY6l70HZW3Q"
     ],
@@ -5339,16 +5906,19 @@ $json = @'
    },
    {
     "name": "MW5",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "FroZone",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "What It Is?!",
+    "aliases": [],
     "ids": [
      "HSC4hHqUISI"
     ],
@@ -5358,6 +5928,7 @@ $json = @'
    },
    {
     "name": "5onjour",
+    "aliases": [],
     "ids": [
      "eo5trslrhYI",
      "hwTh1-I-a2Y"
@@ -5368,11 +5939,13 @@ $json = @'
    },
    {
     "name": "Hom3 Invasion",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "5rew",
+    "aliases": [],
     "ids": [
      "W6ZNwe9Sz7o"
     ],
@@ -5382,6 +5955,7 @@ $json = @'
    },
    {
     "name": "Roundz",
+    "aliases": [],
     "ids": [
      "XRdY4SZOFqw"
     ],
@@ -5391,6 +5965,7 @@ $json = @'
    },
    {
     "name": "DesignerDRÜGZ",
+    "aliases": [],
     "ids": [
      "sVUlB9J7xh8",
      "_Rns2cFOd3A"
@@ -5401,6 +5976,7 @@ $json = @'
    },
    {
     "name": "Road Rage",
+    "aliases": [],
     "ids": [
      "iP53HNmT_HM"
     ],
@@ -5410,6 +5986,7 @@ $json = @'
    },
    {
     "name": "Left Hand",
+    "aliases": [],
     "ids": [
      "7a3Kq1bm_qU"
     ],
@@ -5419,16 +5996,19 @@ $json = @'
    },
    {
     "name": "RckstarB!tch",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "25/8",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "AddXcts",
+    "aliases": [],
     "ids": [
      "vpLhMQxT8tI",
      "3K2PH-PK1lI"
@@ -5439,11 +6019,13 @@ $json = @'
    },
    {
     "name": "E.U.",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "HXG Bizness",
+    "aliases": [],
     "ids": [
      "GVtatOTxGjA"
     ],
@@ -5465,6 +6047,7 @@ $json = @'
   "tracks": [
    {
     "name": "Sharp Sh00ter",
+    "aliases": [],
     "ids": [
      "ftplj_Y2P_s"
     ],
@@ -5474,11 +6057,13 @@ $json = @'
    },
    {
     "name": "VersionF!VE",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "SIDE EFFExT",
+    "aliases": [],
     "ids": [
      "xkgh4M_PyOA"
     ],
@@ -5488,11 +6073,13 @@ $json = @'
    },
    {
     "name": "FA5EBUSTER",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "SRT",
+    "aliases": [],
     "ids": [
      "e4v68GebwgY"
     ],
@@ -5502,6 +6089,7 @@ $json = @'
    },
    {
     "name": "SwanTon BOMB",
+    "aliases": [],
     "ids": [
      "tXZr6ptbudw",
      "VCgxONEz6WQ"
@@ -5512,6 +6100,7 @@ $json = @'
    },
    {
     "name": "FiGure5 [INTERLUDE]",
+    "aliases": [],
     "ids": [
      "xJSU_H2sWfU"
     ],
@@ -5521,6 +6110,7 @@ $json = @'
    },
    {
     "name": "R50",
+    "aliases": [],
     "ids": [
      "sir-pbu4rww"
     ],
@@ -5530,6 +6120,7 @@ $json = @'
    },
    {
     "name": "DeathLOK",
+    "aliases": [],
     "ids": [
      "rKkKEbgd2v0"
     ],
@@ -5539,21 +6130,25 @@ $json = @'
    },
    {
     "name": "2xTREME",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "00-MEGA",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "HI-VOLTAGE",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "SMAKDWN",
+    "aliases": [],
     "ids": [
      "nI_M-3oTC0w"
     ],
@@ -5563,6 +6158,7 @@ $json = @'
    },
    {
     "name": "TABLESandLATTER5",
+    "aliases": [],
     "ids": [
      "0TZ0_k-B5Q0"
     ],
@@ -5584,6 +6180,7 @@ $json = @'
   "tracks": [
    {
     "name": "PC5",
+    "aliases": [],
     "ids": [
      "_RetRRUcJ8I"
     ],
@@ -5593,6 +6190,7 @@ $json = @'
    },
    {
     "name": "REDRAC",
+    "aliases": [],
     "ids": [
      "j1mS_EMaT48"
     ],
@@ -5602,11 +6200,13 @@ $json = @'
    },
    {
     "name": "1-800-555-OPIUM",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "CALL ON ME",
+    "aliases": [],
     "ids": [
      "IkREEGnq9UM"
     ],
@@ -5616,6 +6216,7 @@ $json = @'
    },
    {
     "name": "5G",
+    "aliases": [],
     "ids": [
      "LfdtSGX80Xc"
     ],
@@ -5625,6 +6226,7 @@ $json = @'
    },
    {
     "name": "PB&J",
+    "aliases": [],
     "ids": [
      "RoXngdeRlAU"
     ],
@@ -5634,16 +6236,19 @@ $json = @'
    },
    {
     "name": "SOUL-FLY",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "VICE CITY",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "FRANK MATTHEWS",
+    "aliases": [],
     "ids": [
      "s4SoCb-gFe0"
     ],
@@ -5653,11 +6258,13 @@ $json = @'
    },
    {
     "name": "RED TAILS",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "VILLAIN!",
+    "aliases": [],
     "ids": [
      "tpDaPCT52zE"
     ],
@@ -5667,11 +6274,13 @@ $json = @'
    },
    {
     "name": "FACETIME",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "JOHNNY CAGE",
+    "aliases": [],
     "ids": [
      "7-CATJmSnIg"
     ],
@@ -5681,11 +6290,13 @@ $json = @'
    },
    {
     "name": "SOBER",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "BREEZE",
+    "aliases": [],
     "ids": [
      "evq_ZX3Lz9o"
     ],
@@ -5695,11 +6306,13 @@ $json = @'
    },
    {
     "name": "WATCH OUT",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "GOING ON",
+    "aliases": [],
     "ids": [
      "cL5OL6x9Y0w"
     ],
@@ -5709,6 +6322,7 @@ $json = @'
    },
    {
     "name": "HEADTAP!",
+    "aliases": [],
     "ids": [
      "AKYOY0gmhrk"
     ],
@@ -5718,6 +6332,7 @@ $json = @'
    },
    {
     "name": "FREE AGENTS",
+    "aliases": [],
     "ids": [
      "EKTdJP5_9ss"
     ],
@@ -5727,31 +6342,37 @@ $json = @'
    },
    {
     "name": "SHOPPING BAGS",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "STATE PROPERTY",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "$$$ PROBLEMS",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "NUN 2 IT",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "GVNGANATI",
+    "aliases": [],
     "ids": [],
     "titles": []
    },
    {
     "name": "NINTENDO",
+    "aliases": [],
     "ids": [],
     "titles": []
    }
@@ -5771,7 +6392,9 @@ foreach ($a in $Albums) {
     $a | Add-Member NoteProperty AlbumNorms @(@(Get-Norm $a.album) + @($a.albumAliases | ForEach-Object { Get-Norm $_ }) | Where-Object { $_ })
     $a | Add-Member NoteProperty Key "$($a.artist)|$($a.album)"
     foreach ($t in $a.tracks) {
-        $e = [pscustomobject]@{ Album = $a; Track = $t.name; TrackNorm = (Get-Norm $t.name) }
+        # Other spellings a file name may use ("Mornin Mudd" for "Morning mudd").
+        $norms = @(@(Get-Norm $t.name) + @($t.aliases | ForEach-Object { Get-Norm $_ }) | Where-Object { $_ } | Select-Object -Unique)
+        $e = [pscustomobject]@{ Album = $a; Track = $t.name; TrackNorms = $norms }
         [void]$Entries.Add($e)
         foreach ($id in $t.ids) { $ById[$id] = $e }
         foreach ($title in $t.titles) {
@@ -5782,7 +6405,7 @@ foreach ($a in $Albums) {
             if (-not $ByTitle.ContainsKey($n)) { $ByTitle[$n] = New-Object System.Collections.ArrayList }
             [void]$ByTitle[$n].Add([pscustomobject]@{ Entry = $e; Accent = (Get-NormAccent $title) })
         }
-        $TrackNameCount[$e.TrackNorm] = 1 + [int]$TrackNameCount[$e.TrackNorm]
+        foreach ($tn in $norms) { $TrackNameCount[$tn] = 1 + [int]$TrackNameCount[$tn] }
     }
 }
 
@@ -5815,14 +6438,15 @@ function Find-Track([string]$baseName) {
 
     $cands = @()
     foreach ($e in $Entries) {
-        if (-not (Test-Words $n $e.TrackNorm)) { continue }
+        $hit = @($e.TrackNorms | Where-Object { Test-Words $n $_ } | Sort-Object Length -Descending) | Select-Object -First 1
+        if (-not $hit) { continue }
         $artistHit = @($e.Album.ArtistNorms | Where-Object { Test-Words $n $_ }).Count -gt 0
         # Look for the album name outside the track name, so a title track
         # ("LYFESTYLE" on LYFESTYLE) doesn't count as naming the album.
-        $rest = Remove-WordsOnce $n $e.TrackNorm
+        $rest = Remove-WordsOnce $n $hit
         $albumHit = @($e.Album.AlbumNorms | Where-Object { Test-Words $rest $_ }).Count -gt 0
-        $cands += [pscustomobject]@{ Entry = $e; ArtistHit = $artistHit
-            Score = $e.TrackNorm.Length + $(if ($albumHit) { 500 } else { 0 }) }
+        $cands += [pscustomobject]@{ Entry = $e; ArtistHit = $artistHit; Norm = $hit
+            Score = $hit.Length + $(if ($albumHit) { 500 } else { 0 }) }
     }
     if (-not $cands) { return @($null, 'no track name matched') }
 
@@ -5830,7 +6454,7 @@ function Find-Track([string]$baseName) {
     if ($withArtist) { $cands = $withArtist }
     else {
         $c = $cands | Sort-Object Score -Descending | Select-Object -First 1
-        if ($TrackNameCount[$c.Entry.TrackNorm] -eq 1 -and $c.Entry.TrackNorm.Length -ge 6) {
+        if ($TrackNameCount[$c.Norm] -eq 1 -and $c.Norm.Length -ge 6) {
             return @($c.Entry, 'track name only')
         }
         return @($null, 'track name found but no artist in file name')
@@ -5897,6 +6521,23 @@ function Get-AlbumFolder($a) {
     return $res
 }
 
+$HaveCache = @{}
+function Get-HaveTracks($dest) {
+    # Tracks already in an album folder, as "artist|album|track" -> file name,
+    # so a second copy of a song isn't moved in next to the first.
+    if ($HaveCache.ContainsKey($dest.Path)) { return $HaveCache[$dest.Path] }
+    $have = @{}
+    if (-not $dest.New -and (Test-Path -LiteralPath $dest.Path)) {
+        foreach ($g in Get-ChildItem -LiteralPath $dest.Path -File) {
+            if ($AudioExtensions -notcontains $g.Extension.ToLowerInvariant()) { continue }
+            $m = Find-Track $g.BaseName
+            if ($m[0]) { $have["$($m[0].Album.Key)|$($m[0].Track)"] = $g.Name }
+        }
+    }
+    $HaveCache[$dest.Path] = $have
+    return $have
+}
+
 # ---------------------------------------------------------------------------
 # Plan
 # ---------------------------------------------------------------------------
@@ -5915,8 +6556,13 @@ $plan = foreach ($f in $files) {
         continue
     }
     $e = $r[0]; $dest = Get-AlbumFolder $e.Album
+    $status = 'move'
+    $have = Get-HaveTracks $dest
+    $key = "$($e.Album.Key)|$($e.Track)"
+    if ($have.ContainsKey($key)) { $status = "duplicate: album already has $($have[$key])" }
+    else { $have[$key] = $f.Name }
     [pscustomobject]@{ File = $f.FullName; Artist = $e.Album.artist; Album = $e.Album.album; Track = $e.Track
-        MatchedBy = $r[1]; Destination = $dest.Path; NewFolder = $(if ($dest.New) { 'yes' } else { '' }); Status = 'move' }
+        MatchedBy = $r[1]; Destination = $dest.Path; NewFolder = $(if ($dest.New) { 'yes' } else { '' }); Status = $status }
 }
 $plan = @($plan)
 
@@ -5925,7 +6571,7 @@ $plan | Export-Csv -LiteralPath $planCsv -NoTypeInformation -Encoding UTF8
 
 $toMove = @($plan | Where-Object { $_.Status -eq 'move' })
 Write-Host ''
-Write-Host "Matched: $($toMove.Count)   Not matched: $(@($plan | Where-Object { $_.Status -like 'unmatched*' }).Count)   Skipped: $(@($plan | Where-Object { $_.Status -like 'skipped*' }).Count)"
+Write-Host "Matched: $($toMove.Count)   Already in album: $(@($plan | Where-Object { $_.Status -like 'duplicate*' }).Count)   Not matched: $(@($plan | Where-Object { $_.Status -like 'unmatched*' }).Count)   Skipped: $(@($plan | Where-Object { $_.Status -like 'skipped*' }).Count)"
 Write-Host ''
 Write-Host 'Files per destination folder:'
 $toMove | Group-Object Destination | Sort-Object Name | ForEach-Object {

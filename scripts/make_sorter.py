@@ -35,6 +35,17 @@ ALBUM_ALIASES = {
     "Playboi Carti": ["Self Titled", "Self-Titled"],
 }
 
+# Other spellings of a track name seen in downloaded file names, keyed by
+# (artist|album, track).
+TRACK_ALIASES = {
+    ("Yeat|Up 2 Më", "Morning mudd"): ["Mornin Mudd", "Mornin Mud"],
+    ("Yeat|Up 2 Më", "Ya Ya"): ["Yaya"],
+    ("Yeat|2 Alivë", "Still Countin"): ["Still Counting"],
+    ("Playboi Carti|MUSIC", "EVIL J0RDAN"): ["EVIL JORDAN"],
+    ("Playboi Carti|Whole Lotta Red", "JumpOutTheHouse"): ["Jump Out The House"],
+    ("Destroy Lonely|NO STYLIST", "NOSTYLIST"): ["NO STYLIST"],
+}
+
 
 def load_extra_links():
     """Second-source links from data/extra_links.tsv, keyed like load_results()."""
@@ -64,7 +75,8 @@ def main():
                     ids.append(m.group(1))
                 if title and not title.startswith("(no "):
                     titles.append(title)
-            tracks.append({"name": t, "ids": ids, "titles": titles})
+            tracks.append({"name": t, "aliases": TRACK_ALIASES.get((key, t), []),
+                           "ids": ids, "titles": titles})
         albums.append({
             "artist": a["artist"],
             "artistAliases": ARTIST_ALIASES.get(a["artist"], []),
@@ -80,6 +92,8 @@ def main():
     out = template.replace("__ALBUM_DATA__", data)
     # UTF-8 with BOM so Windows PowerShell 5.1 reads the accented names correctly.
     (ROOT / "scripts" / "sort_not_sorted.ps1").write_text(out, encoding="utf-8-sig", newline="\r\n")
+    known = {(f"{a['artist']}|{a['album']}", t["name"]) for a in albums for t in a["tracks"]}
+    assert not set(TRACK_ALIASES) - known, set(TRACK_ALIASES) - known
     print(f"wrote sort_not_sorted.ps1: {len(albums)} albums, "
           f"{sum(len(a['tracks']) for a in albums)} tracks")
 

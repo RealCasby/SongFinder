@@ -16,7 +16,8 @@
 
     By default nothing is moved: it prints the plan and saves it to
     sort_plan.csv in "Music Albums". Run again with -Apply to move the files.
-    Files it can't place stay in "Not Sorted". Every move is logged to
+    Files it can't place stay in "Not Sorted", and so does a song the album
+    folder already has (listed as "duplicate"). Every move is logged to
     sort_log.csv so it can be undone.
 
 .EXAMPLE
@@ -100,7 +101,9 @@ foreach ($a in $Albums) {
     $a | Add-Member NoteProperty AlbumNorms @(@(Get-Norm $a.album) + @($a.albumAliases | ForEach-Object { Get-Norm $_ }) | Where-Object { $_ })
     $a | Add-Member NoteProperty Key "$($a.artist)|$($a.album)"
     foreach ($t in $a.tracks) {
-        $e = [pscustomobject]@{ Album = $a; Track = $t.name; TrackNorm = (Get-Norm $t.name) }
+        # Other spellings a file name may use ("Mornin Mudd" for "Morning mudd").
+        $norms = @(@(Get-Norm $t.name) + @($t.aliases | ForEach-Object { Get-Norm $_ }) | Where-Object { $_ } | Select-Object -Unique)
+        $e = [pscustomobject]@{ Album = $a; Track = $t.name; TrackNorms = $norms }
         [void]$Entries.Add($e)
         foreach ($id in $t.ids) { $ById[$id] = $e }
         foreach ($title in $t.titles) {
@@ -111,7 +114,7 @@ foreach ($a in $Albums) {
             if (-not $ByTitle.ContainsKey($n)) { $ByTitle[$n] = New-Object System.Collections.ArrayList }
             [void]$ByTitle[$n].Add([pscustomobject]@{ Entry = $e; Accent = (Get-NormAccent $title) })
         }
-        $TrackNameCount[$e.TrackNorm] = 1 + [int]$TrackNameCount[$e.TrackNorm]
+        foreach ($tn in $norms) { $TrackNameCount[$tn] = 1 + [int]$TrackNameCount[$tn] }
     }
 }
 
@@ -144,14 +147,15 @@ function Find-Track([string]$baseName) {
 
     $cands = @()
     foreach ($e in $Entries) {
-        if (-not (Test-Words $n $e.TrackNorm)) { continue }
+        $hit = @($e.TrackNorms | Where-Object { Test-Words $n $_ } | Sort-Object Length -Descending) | Select-Object -First 1
+        if (-not $hit) { continue }
         $artistHit = @($e.Album.ArtistNorms | Where-Object { Test-Words $n $_ }).Count -gt 0
         # Look for the album name outside the track name, so a title track
         # ("LYFESTYLE" on LYFESTYLE) doesn't count as naming the album.
-        $rest = Remove-WordsOnce $n $e.TrackNorm
+        $rest = Remove-WordsOnce $n $hit
         $albumHit = @($e.Album.AlbumNorms | Where-Object { Test-Words $rest $_ }).Count -gt 0
-        $cands += [pscustomobject]@{ Entry = $e; ArtistHit = $artistHit
-            Score = $e.TrackNorm.Length + $(if ($albumHit) { 500 } else { 0 }) }
+        $cands += [pscustomobject]@{ Entry = $e; ArtistHit = $artistHit; Norm = $hit
+            Score = $hit.Length + $(if ($albumHit) { 500 } else { 0 }) }
     }
     if (-not $cands) { return @($null, 'no track name matched') }
 
@@ -159,7 +163,7 @@ function Find-Track([string]$baseName) {
     if ($withArtist) { $cands = $withArtist }
     else {
         $c = $cands | Sort-Object Score -Descending | Select-Object -First 1
-        if ($TrackNameCount[$c.Entry.TrackNorm] -eq 1 -and $c.Entry.TrackNorm.Length -ge 6) {
+        if ($TrackNameCount[$c.Norm] -eq 1 -and $c.Norm.Length -ge 6) {
             return @($c.Entry, 'track name only')
         }
         return @($null, 'track name found but no artist in file name')
@@ -226,6 +230,23 @@ function Get-AlbumFolder($a) {
     return $res
 }
 
+$HaveCache = @{}
+function Get-HaveTracks($dest) {
+    # Tracks already in an album folder, as "artist|album|track" -> file name,
+    # so a second copy of a song isn't moved in next to the first.
+    if ($HaveCache.ContainsKey($dest.Path)) { return $HaveCache[$dest.Path] }
+    $have = @{}
+    if (-not $dest.New -and (Test-Path -LiteralPath $dest.Path)) {
+        foreach ($g in Get-ChildItem -LiteralPath $dest.Path -File) {
+            if ($AudioExtensions -notcontains $g.Extension.ToLowerInvariant()) { continue }
+            $m = Find-Track $g.BaseName
+            if ($m[0]) { $have["$($m[0].Album.Key)|$($m[0].Track)"] = $g.Name }
+        }
+    }
+    $HaveCache[$dest.Path] = $have
+    return $have
+}
+
 # ---------------------------------------------------------------------------
 # Plan
 # ---------------------------------------------------------------------------
@@ -244,8 +265,13 @@ $plan = foreach ($f in $files) {
         continue
     }
     $e = $r[0]; $dest = Get-AlbumFolder $e.Album
+    $status = 'move'
+    $have = Get-HaveTracks $dest
+    $key = "$($e.Album.Key)|$($e.Track)"
+    if ($have.ContainsKey($key)) { $status = "duplicate: album already has $($have[$key])" }
+    else { $have[$key] = $f.Name }
     [pscustomobject]@{ File = $f.FullName; Artist = $e.Album.artist; Album = $e.Album.album; Track = $e.Track
-        MatchedBy = $r[1]; Destination = $dest.Path; NewFolder = $(if ($dest.New) { 'yes' } else { '' }); Status = 'move' }
+        MatchedBy = $r[1]; Destination = $dest.Path; NewFolder = $(if ($dest.New) { 'yes' } else { '' }); Status = $status }
 }
 $plan = @($plan)
 
@@ -254,7 +280,7 @@ $plan | Export-Csv -LiteralPath $planCsv -NoTypeInformation -Encoding UTF8
 
 $toMove = @($plan | Where-Object { $_.Status -eq 'move' })
 Write-Host ''
-Write-Host "Matched: $($toMove.Count)   Not matched: $(@($plan | Where-Object { $_.Status -like 'unmatched*' }).Count)   Skipped: $(@($plan | Where-Object { $_.Status -like 'skipped*' }).Count)"
+Write-Host "Matched: $($toMove.Count)   Already in album: $(@($plan | Where-Object { $_.Status -like 'duplicate*' }).Count)   Not matched: $(@($plan | Where-Object { $_.Status -like 'unmatched*' }).Count)   Skipped: $(@($plan | Where-Object { $_.Status -like 'skipped*' }).Count)"
 Write-Host ''
 Write-Host 'Files per destination folder:'
 $toMove | Group-Object Destination | Sort-Object Name | ForEach-Object {
