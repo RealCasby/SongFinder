@@ -7,7 +7,7 @@ YouTube instrumentals for every track on the requested albums.
 - 📂 no single video found, so this links an album instrumentals playlist that should include the track
 - 🔎 a YouTube search for `<artist> <track> instrumental` (not searched yet, or nothing found)
 
-**Coverage:** 466 direct videos, 60 playlist fallbacks, 81 search links, 607 tracks total.
+**Coverage:** 474 direct videos, 52 playlist fallbacks, 81 search links, 607 tracks total.
 
 Most of these uploads are fan remakes or vocal-removed rips rather than label releases, and uploads can be taken down. Use the backup link if the main one is dead.
 
@@ -54,7 +54,7 @@ Most of these uploads are fan remakes or vocal-removed rips rather than label re
 | 7 | Doublë | ✅ [Yeat - Doublë INSTRUMENTAL 【2 Alivë】](https://www.youtube.com/watch?v=sKqfuD7dNbE) | [alt](https://www.youtube.com/watch?v=AkaQsaYr6Og) |
 | 8 | On Tha Linë | ✅ [Yeat - On Tha Linë INSTRUMENTAL 【2 Alivë】](https://www.youtube.com/watch?v=TvJBIvsT8Gs) | [alt](https://www.youtube.com/watch?v=KI0A65KjdYg) |
 | 9 | Jus Bëtter | ✅ [Yeat - Jus Bëtter INSTRUMENTAL 【2 Alivë】](https://www.youtube.com/watch?v=-wcSu8ZC6TA) | [alt](https://www.youtube.com/watch?v=wEydUFJ54fE) |
-| 10 | Jump | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxEnoZKuj1LA2J7zRfwo79xp) | [search](https://www.youtube.com/results?search_query=Yeat+Jump+instrumental) |
+| 10 | Jump | ✅ [Yeat - Jump (INSTRUMENTAL)](https://www.youtube.com/watch?v=7SkSNbxkRRw) | [search](https://www.youtube.com/results?search_query=Yeat+Jump+instrumental) |
 | 11 | Dnt Lië | ✅ [Instrumental - Dnt lië by Yeat](https://www.youtube.com/watch?v=NDEY1TBlieQ) | [alt](https://www.youtube.com/watch?v=YQXl5KhJcaM) |
 | 12 | Rollin | ✅ [Yeat - Rollin (Instrumental) \[Prod. dulio & Rision\]](https://www.youtube.com/watch?v=lftieixi89M) | [alt](https://www.youtube.com/watch?v=ExNjkyvmvtE) |
 | 13 | Taliban | ✅ [Yeat - Taliban INSTRUMENTAL 【2 Alivë】](https://www.youtube.com/watch?v=mszCuCXSzJw) | [alt](https://www.youtube.com/watch?v=VRUJ2ZQgCoc) |
@@ -158,7 +158,7 @@ _Tracklist note: order approx; 22 standard + 1093_
 | 12 | FOREVER AGAIN | ✅ [Yeat - FOREVER AGAIN (instrumental)](https://www.youtube.com/watch?v=0n5muBdqnTQ) | [search](https://www.youtube.com/results?search_query=Yeat+FOREVER+AGAIN+instrumental) |
 | 13 | ON 1 | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL1gyBsKM6u_tOM6uac9bCCh1ieyFkI20W) | [search](https://www.youtube.com/results?search_query=Yeat+ON+1+instrumental) |
 | 14 | FLYTROOP | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL1gyBsKM6u_tOM6uac9bCCh1ieyFkI20W) | [search](https://www.youtube.com/results?search_query=Yeat+FLYTROOP+instrumental) |
-| 15 | ELIMINATË | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL1gyBsKM6u_tOM6uac9bCCh1ieyFkI20W) | [search](https://www.youtube.com/results?search_query=Yeat+ELIMINAT%C3%8B+instrumental) |
+| 15 | ELIMINATË | ✅ [ELIMINATE (Instrumental) - Yeat](https://www.youtube.com/watch?v=QXMvzE2wQ3I) | [search](https://www.youtube.com/results?search_query=Yeat+ELIMINAT%C3%8B+instrumental) |
 | 16 | LYING 5 FUN | ✅ [Yeat - LYING 5 FUN (Instrumental)](https://www.youtube.com/watch?v=WIVE_GqT9BA) | [alt](https://www.youtube.com/watch?v=oJGgvRAQDL4) |
 | 17 | NEW HIGH | ✅ [Yeat, Don Toliver - New High (Instrumental)](https://www.youtube.com/watch?v=1NRZjSnD3Pg) | [search](https://www.youtube.com/results?search_query=Yeat+NEW+HIGH+instrumental) |
 | 18 | SO WHAT | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL1gyBsKM6u_tOM6uac9bCCh1ieyFkI20W) | [search](https://www.youtube.com/results?search_query=Yeat+SO+WHAT+instrumental) |
@@ -205,7 +205,7 @@ _Tracklist note: order approx_
 | 15 | BACK HOME | ✅ [Yeat - Back Home (Instrumental)](https://www.youtube.com/watch?v=R4ZcLjYIWaU) | [search](https://www.youtube.com/results?search_query=Yeat+BACK+HOME+instrumental) |
 | 16 | UP FROM HERE | ✅ [Yeat - Up From Here (Instrumental)](https://www.youtube.com/watch?v=XzlUgii8oJw) | [alt](https://www.youtube.com/watch?v=UfPvEShkiuE) |
 | 17 | GRIDDLE | ✅ [Yeat ft. Don Toliver - Griddlë (INSTRUMENTAL)](https://www.youtube.com/watch?v=UknpTEk4nzw) | [search](https://www.youtube.com/results?search_query=Yeat+GRIDDLE+instrumental) |
-| 18 | WHAT I WANT | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRicaF_LsxyPnFHRkxDWcg_-) | [search](https://www.youtube.com/results?search_query=Yeat+WHAT+I+WANT+instrumental) |
+| 18 | WHAT I WANT | ✅ [Yeat - What I Want (feat. BNYX) INSTRUMENTAL](https://www.youtube.com/watch?v=dw209n-Po50) | [search](https://www.youtube.com/results?search_query=Yeat+WHAT+I+WANT+instrumental) |
 | 19 | 2 PLANES | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRicaF_LsxyPnFHRkxDWcg_-) | [search](https://www.youtube.com/results?search_query=Yeat+2+PLANES+instrumental) |
 | 20 | WENT WRONG | ✅ [Instrumental - Went Wrong - Yeat](https://www.youtube.com/watch?v=MjImVBnD66c) | [search](https://www.youtube.com/results?search_query=Yeat+WENT+WRONG+instrumental) |
 | 21 | TALLËR | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRicaF_LsxyPnFHRkxDWcg_-) | [search](https://www.youtube.com/results?search_query=Yeat+TALL%C3%8BR+instrumental) |
@@ -405,7 +405,7 @@ _Tracklist note: order approx_
 | 3 | Fighting My Demons | ✅ [Ken Carson - Fighting My Demons (Official Instrumental)](https://www.youtube.com/watch?v=s8AMxUo_15o) | [alt](https://www.youtube.com/watch?v=_rQDOjHMjk8) |
 | 4 | Singapore | ✅ [Ken Carson - Singapore (Official Instrumental)](https://www.youtube.com/watch?v=E2_r-M6jfWU) | [alt](https://www.youtube.com/watch?v=hEMG1ih2740) |
 | 5 | Lose It | ✅ [Ken Carson - Lose It (Official Instrumental)](https://www.youtube.com/watch?v=RUfDN7i6KRQ) | [alt](https://www.youtube.com/watch?v=S3uDGlluHgg) |
-| 6 | Hardcore | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiQ42TwpIQMwDRMwRQRRDHj) | [search](https://www.youtube.com/results?search_query=Ken+Carson+Hardcore+instrumental) |
+| 6 | Hardcore | ✅ [Ken Carson - hardcore (Instrumental)](https://www.youtube.com/watch?v=MY38NmI6AOM) | [alt](https://www.youtube.com/watch?v=ftNZLajhVtY) |
 | 7 | Me N My Kup | ✅ [Ken Carson - Me N My Kup (Official Instrumental)](https://www.youtube.com/watch?v=WnlBWyyEKIg) | [alt](https://www.youtube.com/watch?v=HA81gQtg0bo) |
 | 8 | It's Over | ✅ [Ken Carson - Its Over INSTRUMENTAL \| A Great Chaos](https://www.youtube.com/watch?v=ysny34B06mk) | [alt](https://www.youtube.com/watch?v=Xuj3Own1g5k) |
 | 9 | Succubus | ✅ [Ken Carson - Succubus (Official Instrumental)](https://www.youtube.com/watch?v=o2EwExzO1F8) | [alt](https://www.youtube.com/watch?v=_ksaoLKnht4) |
@@ -551,7 +551,7 @@ _Tracklist note: order approx_
 |---|---|---|---|
 | 1 | FOREVER | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+FOREVER+instrumental) |
 | 2 | LOVE HURTS | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+LOVE+HURTS+instrumental) |
-| 3 | LUV4YA | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL786OPIoiQxFaj4FDX-6zIdc3L4epRev6) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+LUV4YA+instrumental) |
+| 3 | LUV4YA | ✅ [LUV 4 YA (Instrumental) - Destroy Lonely](https://www.youtube.com/watch?v=O-JKOhGoQJA) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+LUV4YA+instrumental) |
 | 4 | CRYSTAL CLEAR | ✅ [Destroy Lonely Crystal Clear Instrumental](https://www.youtube.com/watch?v=j2iDXtGaaJc) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+CRYSTAL+CLEAR+instrumental) |
 | 5 | BANGAZ | 🔎 [YouTube search](https://www.youtube.com/results?search_query=Destroy+Lonely+BANGAZ+instrumental) (none found) |  |
 | 6 | BABY MONEY | ✅ [Destroy Lonely - Baby Money INSTRUMENTAL](https://www.youtube.com/watch?v=Fc8iKUYxQIo) | [search](https://www.youtube.com/results?search_query=Destroy+Lonely+BABY+MONEY+instrumental) |
@@ -650,7 +650,7 @@ _Tracklist note: order approx_
 | 4 | NiNO 5ROWN | ✅ [Nino 5rown (Instrumental) - Homixide Gang (prod. F1LTHY and Rok)](https://www.youtube.com/watch?v=YY6l70HZW3Q) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+NiNO+5ROWN+instrumental) |
 | 5 | MW5 | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+MW5+instrumental) |
 | 6 | FroZone | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+FroZone+instrumental) |
-| 7 | What It Is?! | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+What+It+Is%3F%21+instrumental) |
+| 7 | What It Is?! | ✅ [homixide gang - what it is?! (instrumental)](https://www.youtube.com/watch?v=HSC4hHqUISI) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+What+It+Is%3F%21+instrumental) |
 | 8 | 5onjour | ✅ [Homixide Gang - 5ONJOUR【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=eo5trslrhYI) | [alt](https://www.youtube.com/watch?v=hwTh1-I-a2Y) |
 | 9 | Hom3 Invasion | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PLLB0U3sXCDRiNbAS-zosJE60TRp5XOboa) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+Hom3+Invasion+instrumental) |
 | 10 | 5rew | ✅ [Homixide Gang - 5REW 【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=W6ZNwe9Sz7o) | [search](https://www.youtube.com/results?search_query=Homixide+Gang+5rew+instrumental) |
@@ -782,10 +782,10 @@ _Tracklist note: order approx_
 | 14 | Nakamura | ✅ [Lil Uzi Vert - Nakamura (Instrumental)](https://www.youtube.com/watch?v=UluuhXL0Nx8) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Nakamura+instrumental) |
 | 15 | Just Wanna Rock | ✅ [Lil Uzi Vert - Just Wanna Rock \[Official Instrumental\]](https://www.youtube.com/watch?v=qf_c33bY_DY) | [alt](https://www.youtube.com/watch?v=mJdYKefDwL4) |
 | 16 | Fire Alarm | ✅ [Lil Uzi Vert - Fire Alarm【OFFICIAL INSTRUMENTAL】](https://www.youtube.com/watch?v=SHzcSZ-mA0w) | [alt](https://www.youtube.com/watch?v=XtfgkEsIklk) |
-| 17 | CS | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL7OgvvtiQH7TJN_rE3ebJ76oIvqc_m8lZ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+CS+instrumental) |
+| 17 | CS | ✅ [Lil Uzi Vert - CS (Instrumental)](https://www.youtube.com/watch?v=nhx8H-z-M0o) | [alt](https://m.youtube.com/watch?v=kOJJSbEPKUY) |
 | 18 | Werewolf | ✅ [Lil Uzi Vert - Werewolf ft. Bring Me The Horizon (Instrumental)](https://www.youtube.com/watch?v=NHfcBFhHcck) | [alt](https://www.youtube.com/watch?v=zYbJLiHnfxE) |
 | 19 | Pluto to Mars | ✅ [Lil Uzi Vert - Pluto to Mars (Instrumental)](https://www.youtube.com/watch?v=Zy68SiIsr0w) | [alt](https://www.youtube.com/watch?v=bwKwmVkCkCc) |
-| 20 | Confession | 📂 [Album instrumentals playlist](https://www.youtube.com/playlist?list=PL7OgvvtiQH7TJN_rE3ebJ76oIvqc_m8lZ) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Confession+instrumental) |
+| 20 | Confession | ✅ [Lil Uzi Vert - Confessions (Official Instrumental)](https://www.youtube.com/watch?v=xG-unhL07OM) | [search](https://www.youtube.com/results?search_query=Lil+Uzi+Vert+Confession+instrumental) |
 | 21 | Days Come and Go | ✅ [Lil Uzi Vert - Days Come and Go (Instrumental)](https://www.youtube.com/watch?v=ChZYul8WUu4) | [alt](https://www.youtube.com/watch?v=wlz-hK5qf5s) |
 | 22 | Rehab | ✅ [Lil Uzi Vert - Rehab Instrumental](https://www.youtube.com/watch?v=EgSfRmsZvag) | [alt](https://m.youtube.com/watch?v=mLeJwDdOxzE) |
 | 23 | The End | ✅ [Lil Uzi Vert - The End (ft. BABYMETAL) \[Instrumental\]](https://www.youtube.com/watch?v=9lvu_nHOr9s) | [alt](https://www.youtube.com/watch?v=JfnShXOPqis) |
